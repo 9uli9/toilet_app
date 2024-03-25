@@ -42,4 +42,24 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
         'password' => 'hashed',
     ];
+
+
+    public function roles(){
+        return $this->belongsToMany(Role::class, 'user_role');
+    }
+
+    public function hasRole($role){
+        return null !== $this->roles()->where('name', $role)->first();
+    }
+
+    public function hasAnyRole($roles){
+        return null !== $this->roles()->whereIn('name', $roles)->first();
+    }
+
+    public function authorizeRoles($roles) {
+        if(is_array($roles)){
+            return $this->hasAnyRole($roles) || abort(403, "You are not Authorised to view this content.");
+        }
+            return $this->hasRole($roles) || abort(403, "You are not Authorised to view this content.");
+    }
 }
