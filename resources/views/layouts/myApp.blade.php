@@ -17,7 +17,7 @@
 <body class="font-sans antialiased">
     <div class="min-h-screen bg-black dark:bg-black-800 text-white">
         @include('layouts.navigation')
-        <header class="bg-red-800 dark:bg-red-700 shadow-white">
+        <header class="bg-green-800  shadow-white">
             <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
                 @yield('header')
             </div>
@@ -29,5 +29,7 @@
         {{session('status')}}
     </div>
     @endif
+
+    @include('includes.footer')
 </body>
 </html>

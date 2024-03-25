@@ -20,7 +20,7 @@
 
         <!-- Page Heading -->
 
-        <header class="bg-black dark:bg-black-800 border-b border-gray-100 dark:border-gray-700">
+        <header class="bg-black dark:bg-black-800 border-b ">
             <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
                 @yield('header')
             </div>
@@ -32,6 +32,8 @@
         <main>
             @yield('content')
         </main>
+
+        @include('includes.footer')
     </div>
 </body>
 </html>
