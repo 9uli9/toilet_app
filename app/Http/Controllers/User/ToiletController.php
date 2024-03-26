@@ -9,23 +9,9 @@ use Illuminate\Http\RedirectResponse;
 
 class ToiletController extends Controller
 {
-
-    public function __construct(){
-        //     Auth::user()->authorizeRoles('admin');
-         }
-
-         
     // Shows all drivers
     public function index()
     {
-        // // Retrieve all drivers from the database
-        // $drivers = Driver::all();
-
-        // // Render the 'drivers.index' view and pass the drivers data
-        // return view('drivers.index', [
-        //     'drivers' => $drivers 
-        // ]);
-
         $toilets = Toilet::paginate(10);
         return view('user.toilets.index')->with('toilets', $toilets);
     }
@@ -83,23 +69,10 @@ class ToiletController extends Controller
     // Show details of a specific driver
     public function show(string $id)
     {
-        // // Find the driver by its ID
-        // $driver = Driver::findOrFail($id);
-
-        // // Render the 'drivers.show' view and pass the driver data
-        // return view('drivers.show', [
-        //     'driver' => $driver
-        // ]);
-
-
         $toilet = Toilet::findOrFail($id);
-
         return view('user.toilets.show')->with('toilet', $toilet);
     }
-    
-
-
-    
+   
 
 
 }

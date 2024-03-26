@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
 
         $admin = new User;
         $admin->name = "Julia Szew";
-        $admin->email = "admin@ca1example2.com";
+        $admin->email = "admin@example1.com";
         $admin->password = "secret123";
         $admin->save();
         $admin->roles()->attach($role_admin);
@@ -27,7 +27,7 @@ class UserSeeder extends Seeder
 
         $user = new User;
         $user->name = "Mo Che";
-        $user->email = "admin@ca1example1.com";
+        $user->email = "user@example1.com";
         $user->password = "secret123";
         $user->save();
         $user->roles()->attach($role_user);

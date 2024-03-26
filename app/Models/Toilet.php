@@ -11,8 +11,4 @@ class Toilet extends Model
 {
     use HasFactory;
 
-    // public function cars()
-    // {
-    //     return $this->hasMany(Car::class);
-    // }
 }
