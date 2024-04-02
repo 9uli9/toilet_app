@@ -3,43 +3,29 @@
 namespace Database\Seeders;
 
 use App\Models\Toilet;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
-
+use Illuminate\Support\Facades\DB;
 
 class ToiletSeeder extends Seeder
 {
-
     public function run(): void
     {
+        // Specify the path to your CSV file
+        $csvFile = storage_path('app/public/toilets.csv');
 
-        Toilet::factory()->count(5)->create();
+        // Open the CSV file for reading
+        $file = fopen($csvFile, 'r');
 
-        $toilets = [
-            [
-                'title' => 'Milfield Shopping Center',
-                'type' => 'Public',
-                'description' => 'This is a public toilet located inside the shopping center.',
-                'location' => 'Park Avenue, City Center',
-                'accessibility' => 'Wheelchair accessible',
-                'link' => 'https://example.com/public-toilet-1',
-                'opening_hours' => 'Monday to Friday: 8 AM - 8 PM',
-            ],
-            [
-                'title' => 'Private Toilet 1',
-                'type' => 'Private',
-                'description' => 'This is a private toilet located in a residential building.',
-                'location' => '123 Main Street, Apartment Building',
-                'accessibility' => 'Not wheelchair accessible',
-                'link' => 'https://example.com/private-toilet-1',
-                'opening_hours' => '24/7',
-            ],
-          
-        ];
+        // Read the headers from the CSV file
+        $headers = fgetcsv($file);
 
-        foreach ($toilets as $toiletData) {
-            Toilet::create($toiletData);
+        // Read and insert data from the CSV file
+        while (($row = fgetcsv($file)) !== false) {
+            $data = array_combine($headers, $row);
+            Toilet::create($data);
         }
-    }
 
+        // Close the file handle
+        fclose($file);
+    }
 }

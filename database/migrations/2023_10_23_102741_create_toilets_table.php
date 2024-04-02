@@ -10,12 +10,12 @@ class CreateToiletsTable extends Migration
     {
         Schema::create('toilets', function (Blueprint $table) {
             $table->id();
+            $table->string('point');
             $table->string('title');
-            $table->enum('type', ['Public','Private']);
+            $table->enum('type', ['Public Toilet','Private Toilet']);
             $table->string('description');
             $table->string('location');
             $table->string('accessibility');
-            $table->string('link');
             $table->string('opening_hours');
             $table->timestamps();
         });
