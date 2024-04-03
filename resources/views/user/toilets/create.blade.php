@@ -106,10 +106,6 @@
                                         placeholder="toilet Image" class="w-full mt-6" field="toilet_image" />
                                 </div>
 
-
-
-
-
                                 <button
                                     class="inline-block bg-green-600 text-white px-4 py-2 font-bold hover:bg-green-800 "
                                     type="submit">Submit</button>

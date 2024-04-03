@@ -15,5 +15,6 @@ class Toilet extends Model
         'location',
         'accessibility',
         'opening_hours',
+        'toilet_image',
     ];
 }

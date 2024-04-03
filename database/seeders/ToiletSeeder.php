@@ -10,13 +10,13 @@ class ToiletSeeder extends Seeder
 {
     public function run(): void
     {
-        // Specify the path to your CSV file
-        $csvFile = storage_path('app/public/toilets.csv');
+        //  Path 
+        $csvFile = storage_path('app/toilets.csv');
 
-        // Open the CSV file for reading
+        // Reading CSV
         $file = fopen($csvFile, 'r');
 
-        // Read the headers from the CSV file
+        // Read the headers 
         $headers = fgetcsv($file);
 
         // Read and insert data from the CSV file
@@ -24,8 +24,6 @@ class ToiletSeeder extends Seeder
             $data = array_combine($headers, $row);
             Toilet::create($data);
         }
-
-        // Close the file handle
         fclose($file);
     }
 }
