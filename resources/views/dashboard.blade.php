@@ -1,20 +1,21 @@
 <x-app-layout>
     @auth
-    <div class="py-12 bg-black ">
-        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-green-600 dark:bg-green-700 overflow-hidden shadow-sm mb-4">
-                <div class="p-6 text-white">
-                 
-                </div>
-            </div>
-        </div>
-    </div>
 
+    <x-slot name="header">
+        <h2 class="font-semibold text-xl text-white leading-tight flex items-center space-x-2">
+            Welcome!
+            <div class="flex-grow">
+            </div>
+        </h2>
+
+    </x-slot>
         <div class="py-12 bg-black dark:bg-green-800">
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                 <div class=" bg-green-600 dark:bg-green-700 overflow-hidden shadow-sm mb-2">
                     <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1spU-V5yT2mrPfqBhfzLo3WoFjwisQ4Y&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+                    
                 </div>
+                
             </div>
         </div>
 
@@ -29,7 +30,5 @@
             </div>
         </div>
     </div>
-
-
     @endauth
 </x-app-layout>

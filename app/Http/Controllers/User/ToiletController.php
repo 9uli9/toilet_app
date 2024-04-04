@@ -39,7 +39,7 @@ class ToiletController extends Controller
     public function store(Request $request): RedirectResponse
     {
         $rules = [
-            'point' => 'required|regex:/^POINT \(\s*-?\d+(\.\d+)?\s*,\s*-?\d+(\.\d+)?\s*\)$/',
+            'point' => 'required|regex:/^POINT \(\s*-?\d+(\.\d+)?\s* \s*-?\d+(\.\d+)?\s*\)$/',
             'title' => 'required|string|min:2|max:150',
             'type' => 'required|in:Public Toilet,Private Toilet',
             'description' => 'required|string|min:2|max:255',
@@ -64,16 +64,22 @@ class ToiletController extends Controller
         // Validate the request data
         $request->validate($rules, $messages);
 
-        if ($request->hasFile('toilet_image')) {
-            $toilet_image = $request->file('toilet_image');
-            $filename = date('Y-m-d-His') . '_' . $request->title . '.' . $toilet_image->getClientOriginalExtension();
-            $toilet_image->storeAs('public/images', $filename);
-            $toilet = new Toilet();
-            $toilet->toilet_image = $filename;
-        } else {
-            // If there's no toilet_image in the request, instantiate a new Toilet
-            $toilet = new Toilet();
-        }
+       // Create a new Toilet instance
+$toilet = new Toilet();
+
+// Store the uploaded image file and get the file name
+if ($request->hasFile('toilet_image')) {
+    $toilet_image = $request->file('toilet_image');
+    $filename = date('Y-m-d-His') . '_' . $request->title . '.' . $toilet_image->getClientOriginalExtension();
+    $toilet_image->storeAs('public/images', $filename);
+    $toilet->toilet_image = $filename;
+} else {
+    // Set a default image filename if no file is uploaded
+    $toilet->toilet_image = 'toilet_image.png';
+}
+
+
+
         
         DB::beginTransaction();
         
@@ -109,14 +115,14 @@ class ToiletController extends Controller
         // Prep data to be written 
         $csvData = [
             $toilet->id,
-            "POINT ({$toilet->point})",
+            "{$toilet->point}",
             $toilet->title,
             $toilet->type,
             $toilet->description,
             $toilet->location,
             $toilet->accessibility,
             $toilet->opening_hours,
-            $toilet->toilet_image,
+            $toilet->toilet_image ? $toilet->toilet_image : 'toilet_image.png', // Use default image filename if toilet_image is empty
         ];
     
         // Convert to CSV format
@@ -128,10 +134,140 @@ class ToiletController extends Controller
         //File permissions 
         chmod($csvFilePath, 0644);
     }
+
+
     
     public function show(string $id)
     {
         $toilet = Toilet::findOrFail($id);
         return view('user.toilets.show')->with('toilet', $toilet);
     }
+
+
+
+    public function edit(string $id)
+    {
+        // Find the toilet by its ID
+        $toilet = Toilet::findOrFail($id);
+        
+        // Render the 'edit' view and pass the toilet data to the view
+        return view('user.toilets.edit', ['toilet' => $toilet]);
+    }
+    
+
+
+    public function update(Request $request, string $id)
+    {
+
+        $rules = [
+            'point' => 'required|regex:/^POINT \(\s*-?\d+(\.\d+)?\s* \s*-?\d+(\.\d+)?\s*\)$/',
+            'title' => 'required|string|min:2|max:150',
+            'type' => 'required|in:Public Toilet,Private Toilet',
+            'description' => 'required|string|min:2|max:255',
+            'location' => 'required|string|min:2|max:255',
+            'accessibility' => 'required|string|min:2|max:1000',
+            'opening_hours' => 'nullable|string|min:2|max:1000',
+            'toilet_image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
+        ];
+
+        $messages = [
+            'point.required' => 'The point field is required.',
+            'point.regex' => 'The point field must be in the format "POINT (longitude latitude)".',
+            'title.required' => 'The title field is required.',
+            'type.required' => 'The type field is required.',
+            'type.in' => 'Invalid type selected.',
+            'description.required' => 'The description field is required.',
+            'location.required' => 'The location field is required.',
+            'accessibility.required' => 'The accessibility field is required.',
+        ];
+
+        $request->validate($rules, $messages);
+    
+        $toilet = Toilet::findOrFail($id);
+
+    // Update toilet instance with new data
+    $toilet->fill($request->only([
+        'point', 'title', 'type', 'description', 'location', 'accessibility', 'opening_hours'
+    ]));
+
+    // Check for a new image
+    if ($request->hasFile('toilet_image')) {
+        // Save new image
+        $newToiletImage = $request->file('toilet_image');
+        $filename = date('Y-m-d-His') . '_' . $request->title . '.' . $newToiletImage->getClientOriginalExtension();
+        $newToiletImage->storeAs('public/images', $filename);
+
+        // Update toilet image filename
+        $toilet->toilet_image = $filename;
+    }
+
+    // Update CSV
+    $this->updateCsv($toilet);
+
+    // Save changes to database
+    $toilet->save();
+
+    return redirect()->route('admin.toilets.index')->with('status', 'Updated toilet');
+}
+
+private function updateCsv(Toilet $toilet)
+{
+    // Define the CSV file path
+    $csvFilePath = storage_path('app/toilets.csv');
+
+    // Read existing CSV content
+    $csvData = file($csvFilePath);
+
+    // Find and replace the line corresponding to the updated toilet
+    foreach ($csvData as $key => $line) {
+        $data = str_getcsv($line);
+        if ($data[0] == $toilet->id) {
+            $csvData[$key] = $toilet->toCsv() . "\n";
+            break;
+        }
+    }
+
+    // Write updated CSV content back to the file
+    file_put_contents($csvFilePath, implode('', $csvData));
+
+    // Adjust file permissions if necessary
+    chmod($csvFilePath, 0644);
+}
+
+public function destroy(string $id)
+{
+    $toilet = Toilet::findOrFail($id);
+
+    // Delete from CSV
+    $this->deleteFromCsv($toilet);
+
+    // Delete from database
+    $toilet->delete();
+
+    return redirect()->route('admin.toilets.index')->with('status', 'Toilet deleted successfully!');
+}
+
+private function deleteFromCsv(Toilet $toilet)
+{
+    // Define the CSV file path
+    $csvFilePath = storage_path('app/toilets.csv');
+
+    // Read existing CSV content
+    $csvData = file($csvFilePath);
+
+    // Remove the line corresponding to the deleted toilet
+    foreach ($csvData as $key => $line) {
+        $data = str_getcsv($line);
+        if ($data[0] == $toilet->id) {
+            unset($csvData[$key]);
+            break;
+        }
+    }
+
+    // Write updated CSV content back to the file
+    file_put_contents($csvFilePath, implode('', $csvData));
+
+    // Adjust file permissions if necessary
+    chmod($csvFilePath, 0644);
+}
 }

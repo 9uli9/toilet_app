@@ -1,18 +1,23 @@
 
 
 <x-app-layout>
-    @section('content')
-    <div class="py-6">
-        <div class="max-w-8xl mx-auto sm:px-6 lg:px-8">
-            <div class="my-6 p-6 bg-white border-b border-gray-200 shadow-sm sm:rounded-lg flex justify-between items-center">
-                <div>
-                   <h1 class="text-black">Search For Toilets By Location</h1> 
-                </div>
+
+    <x-slot name="header">
+        <h2 class="font-semibold text-xl text-white leading-tight flex items-center space-x-2">
+            Search For Toilets By Location
+            <div class="flex-grow">
                 <div class="flex justify-end items-center">
                     <input type="text" id="search" placeholder="Search..." class="px-4 py-2 border rounded-md focus:border-green-500 text-black">
                     <button id="searchButton" class="ml-4 px-6 py-2 bg-green-600 text-white font-semibold rounded-md hover:bg-green-700">Search</button>
                 </div>
             </div>
+            
+        </h2>
+    </x-slot>
+
+    @section('content')
+    <div class="py-6">
+        <div class="max-w-8xl mx-auto sm:px-6 lg:px-8">
                 <ul role="list" class="divide-green-100 dark:divide-green-700">
                     <div class="relative overflow-x-auto shadow-md">
                         <table class="w-full text-sm text-left text-green-500 dark:text-green-400">

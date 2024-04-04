@@ -43,6 +43,8 @@
                                     <th class="px-6 py-3 font-bold text-red">Location</th>
                                     <th class="px-6 py-3 font-bold text-red">Accesibility</th>
                                     <th class="px-6 py-3 font-bold text-red">Opening Hours</th>
+                                    <th class="px-6 py-3 font-bold text-red">Image</th>
+                                    <th class="px-6 py-3 font-bold text-red">Actions</th>
 
 
                                 </tr>
@@ -65,6 +67,17 @@
                                         {{ $toilet->accesibility }}</td>
                                     <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
                                         {{ $toilet->opening_hours }}</td>
+                                    </td>
+                                    <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
+                                        @if($toilet->toilet_image)
+                                            <img width="50" src="{{ asset("storage/images/" . $toilet->toilet_image) }}" />
+                                        @else
+                                            <span>No Image Available</span>
+                                        @endif
+                                    </td>
+                                    <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
+                                        
+                                        <a href="{{ route('user.toilets.edit', $toilet->id) }}" class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Edit</a>
                                     </td>
                                 </tr>
                             </tbody>

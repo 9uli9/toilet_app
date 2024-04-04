@@ -28,7 +28,7 @@ Route::get('/home', [HomeController::class, 'index'])->name('home.index');
 Route::resource('/toilets', UserToiletController::class)
 ->middleware(['auth', 'role:user,admin'])
 ->names('user.toilets')
-->only(['index', 'show','create','store']);
+->only(['index', 'show','create','store','edit','update']);
 Route::resource('/admin/toilets', AdminToiletController::class)->middleware(['auth', 'role:admin'])->names('admin.toilets');
 
 // php artisan route:list
