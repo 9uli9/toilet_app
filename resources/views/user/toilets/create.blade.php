@@ -90,7 +90,7 @@
                                 <div class="mb-4">
                                     <label for="accessibility" class="font-bold" style="color: black;">Accessibility</label>
                                     <input type="text" name="accessibility" id="accessibility"
-                                        placeholder="Enter accessibility"
+                                        placeholder="Enter Accessibility"
                                         class="w-full px-4 py-2 border  rounded-md  focus:border-green-500"
                                         style="color: black;">
                                     @error('accessibility')
