@@ -24,6 +24,9 @@
                             <thead class="text-lg text-green-700 bg-green-50 dark:bg-green-700 dark:text-green-400">
                                 <tr>
                                     <th scope="col" class="px-6 py-3">
+                                        Id
+                                    </th>
+                                    <th scope="col" class="px-6 py-3">
                                         Title
                                     </th>
                                     <th scope="col" class="px-6 py-3">
@@ -36,15 +39,6 @@
                                         Location
                                     </th>
                                     <th scope="col" class="px-6 py-3">
-                                        Accesibility
-                                    </th>
-                                    <th scope="col" class="px-6 py-3">
-                                        Link
-                                    </th>
-                                    <th scope="col" class="px-6 py-3">
-                                        Opening Hours
-                                    </th>
-                                    <th scope="col" class="px-6 py-3">
                                         Actions
                                     </th>
                                 </tr>
@@ -52,6 +46,9 @@
                             <tbody>
                                 @forelse($toilets as $toilet)
                                     <tr class="bg-black dark:bg-black-800 border-b border-white-100 dark:border-white-700">
+                                        <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
+                                            {{ $toilet->id }}
+                                        </td>
                                         <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
                                             {{ $toilet->title }}
                                         </td>
@@ -63,15 +60,6 @@
                                         </td>
                                         <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
                                             {{ $toilet->location }}
-                                        </td>
-                                        <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
-                                            {{ $toilet->accessibility }}
-                                        </td>
-                                        <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
-                                            {{ $toilet->link }}
-                                        </td>
-                                        <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
-                                            {{ $toilet->opening_hours }}
                                         </td>
                                         <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
                                             <a href="{{ route('user.toilets.show', ['toilet' => $toilet->id]) }}" class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Show</a>

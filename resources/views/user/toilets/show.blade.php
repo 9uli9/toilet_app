@@ -10,23 +10,54 @@
         </h2>
     </x-slot>
 
-    <div class="py-12">
+    <div class="py-12 bg-white dark:bg-green-800">
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> <!-- Added 'flex justify-center' classes -->
+            <h2 class="text-2xl font-semibold mb-4">{{ $toilet->title }}</h2>
+        </div>
+
         <div class="py-12 bg-green-600 dark:bg-green-800">
+            
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+                
                 <div class="m-2 flex bg-green-700 dark:bg-green-900 overflow-hidden shadow-sm p-4">
+                    <h2 class="text-lg font-semibold mb-4 text-white">Reviews</h2>
                     @if ($toilet->toilet_image)
                         <img width="300" src="{{ asset('storage/images/' . $toilet->toilet_image) }}" />
                     @else
                         <span>No Image Available</span>
                     @endif
+                    
                     <div class="ml-4">
-                        <h2 class="text-white text-2xl font-bold mb-2">{{ $toilet->first_name }}
-                            {{ $toilet->last_name }}</h2>
-                        <p class="text-white">{{ $toilet->description }}</p>
+                        <div class="py-6">
+                            
+                            <div class="overflow-x-auto">
+                                <table class="w-full border-collapse table-auto">
+                                    <thead>
+                                        <tr>
+                                            <th class="border px-4 py-2">Title</th>
+                                            <th class="border px-4 py-2">Description</th>
+                                            <th class="border px-4 py-2">Rating</th>
+                                            <th class="border px-4 py-2">User</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach ($toilet->reviews as $review)
+                                            <tr>
+                                                <td class="border px-4 py-2">{{ $review->title }}</td>
+                                                <td class="border px-4 py-2">{{ $review->description }}</td>
+                                                <td class="border px-4 py-2">{{ $review->rating }}</td>
+                                                <td class="border px-4 py-2">{{ $review->user->name }}</td>
+                                            </tr>
+                                        @endforeach
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+        
 
         <div class="py-6">
             <div class="max-w-8xl mx-auto sm:px-6 lg:px-8">
@@ -88,6 +119,9 @@
         </div>
 
     </div>
+
+
+    
     </div>
     </div>
     </div>

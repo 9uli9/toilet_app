@@ -62,4 +62,11 @@ class User extends Authenticatable
         }
             return $this->hasRole($roles) || abort(403, "You are not Authorised to view this content.");
     }
+
+    public function reviews()
+    {
+        return $this->hasMany(Review::class);
+    }
 }
+
+
