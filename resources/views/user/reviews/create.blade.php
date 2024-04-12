@@ -1,7 +1,7 @@
 <x-app-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-white leading-tight flex items-center space-x-2">
-            Add A Toilet To The Map
+            Review A Toilet
             <div class="flex-grow">
                 
             </div>
@@ -18,29 +18,24 @@
                         width="500" height="500"></iframe>
                 </div>
 
+                
+
                 <div class="py-6">
                     <div class="max-w-lg mx-auto sm:px-6 lg:px-8">
                         <div class="my-4 p-4 bg-white border border-green-300 shadow-sm sm:rounded-lg">
 
                             
-                            <form enctype="multipart/form-data" action="{{ route('user.toilets.store') }}" method="POST"
+                            <form enctype="multipart/form-data" action="{{ route('user.reviews.store') }}" method="POST"
                                 enctype="multipart/form-data">
                                 @csrf
                                 @csrf
                                 @method('POST')
 
-                                <div class="mb-4">
-                                    <label for="WKT" style="color: black;" class="font-bold">Enter A POINT With
-                                        Latitude And Longitude</label>
-                                    <input type="text" name="WKT" id="WKT"
-                                        placeholder="POINT (-6.263287000000001 53.343151)"
-                                        class="w-full px-4 py-2 border rounded-md focus:border-green-500"
-                                        style="color: black;">
-                                    @error('WKT')
-                                        <span class="text-red-500">{{ $message }}</span>
-                                    @enderror
-                                </div>
-
+                        
+                              
+                                
+                                
+                                
 
                                 <div class="mb-4">
                                     <label for="title" style="color: black;" class="font-bold">Title</label>
@@ -53,18 +48,7 @@
                                     @enderror
                                 </div>
 
-                                <div class="mb-4">
-                                    <label style="color: black;" class="font-bold" for="type">Type</label>
-                                    <select name="type" id="type"
-                                        class="w-full px-4 py-2 border rounded-md focus:border-green-500"
-                                        style="color: black;">
-                                        <option value="Public Toilet">Public Toilet</option>
-                                        <option value="Private Toilet">Private Toilet</option>
-                                    </select>
-                                    @error('type')
-                                        <span class="text-red-500">{{ $message }}</span>
-                                    @enderror
-                                </div>
+                         
 
                                 <div class="mb-4">
                                     <label style="color: black;" class="font-bold" for="description">Description</label>
@@ -78,41 +62,42 @@
                                 </div>
 
                                 <div class="mb-4">
-                                    <label for="location" class="font-bold" style="color: black;">Location</label>
-                                    <input type="text" name="location" id="location" placeholder="Enter Location"
+                                    <label style="color: black;" class="font-bold" for="rating">Rating</label>
+                                    <input type="text" name="rating" id="rating"
+                                        placeholder="Enter rating"
                                         class="w-full px-4 py-2 border  rounded-md  focus:border-green-500"
                                         style="color: black;">
-                                    @error('location')
+                                    @error('rating')
                                         <span class="text-red-500">{{ $message }}</span>
                                     @enderror
                                 </div>
 
-                                <div class="mb-4">
-                                    <label for="accessibility" class="font-bold" style="color: black;">Accessibility</label>
-                                    <input type="text" name="accessibility" id="accessibility"
-                                        placeholder="Enter Accessibility"
-                                        class="w-full px-4 py-2 border  rounded-md  focus:border-green-500"
-                                        style="color: black;">
-                                    @error('accessibility')
-                                        <span class="text-red-500">{{ $message }}</span>
-                                    @enderror
+                                {{-- <div class="mb-4">
+                                    <label style="color: black;" for="toilet_id" class="block font-bold mb-1" placeholder="Select toilet">Select toilet:</label>
+                                    <select name="toilet_id" id="toilet_id" class="border border-gray-300 p-2 w-full">
+                                        <option value="" disabled selected>Select toilet</option>
+                                        @foreach ($toilets as $toilet)
+                                            <option value="{{ $toilet->id }}">{{ $toilet->id }} {{ $toilet->title }}</option>
+                                        @endforeach
+                                    </select>
+                                </div> --}}
+
+                                
+                                <div class="mb-4" style="display: none;">
+                                    <label for="user_id" style="color: black;" class="font-bold">Toilet ID</label>
+                                    <input type="hidden" name="toilet_id" value="{{ $toilet->id }}">
                                 </div>
 
-
-                                <div class="mb-4">
-                                    <label for="opening_hours" class="font-bold" style="color: black;">Opening Hours</label>
-                                    <input type="text" name="opening_hours" id="opening_hours"
-                                        placeholder="Enter Opening Hours"
-                                        class="w-full px-4 py-2 border  rounded-md  focus:border-green-500"
-                                        style="color: black;">
-                                    @error('opening_hours')
-                                        <span class="text-red-500">{{ $message }}</span>
-                                    @enderror
+                                <div class="mb-4" style="display: none;">
+                                    <label for="user_id" style="color: black;" class="font-bold">User ID</label>
+                                    <input type="hidden" name="user_id" value="{{ Auth::user()->id }}" id="user_id">
                                 </div>
+                                
+
 
                                 <div class="mb-4">
                                     <label style="color: black;" for="toilet_image" class="block font-bold mb-1">Choose A
-                                        Cover Image For The Toilet:</label>
+                                        Cover Image:</label>
                                     <input style="color: black;" type="file" name="toilet_image"
                                         placeholder="toilet Image" class="w-full mt-6" field="toilet_image" />
                                 </div>

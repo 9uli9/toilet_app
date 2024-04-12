@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class Toilet extends Model
 {
     protected $fillable = [
-        'point',
+        'WKT',
         'title',
         'type',
         'description',
@@ -27,8 +27,8 @@ class Toilet extends Model
     {
         // Define the CSV format for the toilet data
         $csvData = [
+            "{$this->WKT}",
             $this->id,
-            "{$this->point}",
             $this->title,
             $this->type,
             $this->description,

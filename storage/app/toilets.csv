@@ -1,0 +1,872 @@
+WKT,id,title,type,description,location,accessibility,opening_hours,toilet_image
+POINT (-6.263287000000001 53.343151),1,Fallon & Byrne Food Hall,Public Toilet,Retail food hall and grocery store,Dublin,Wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-6.2496782 53.3515264),2,Connolly Station,Public Toilet,Main railway station,Dublin,Wheelchair accessible,24-Jul,toilet_image.png
+POINT (-6.264737899999999 53.3499889),3,Ilac Shopping Centre,Public Toilet,Retail shopping mall,Dublin,Wheelchair accessible,Mon-Sat: 9am-9pm Sun: 10am-7pm,toilet_image.png
+POINT (-6.293491699999999 53.3461854),4,Heuston,Public Toilet,Train station,Dublin,Wheelchair accessible,24-Jul,toilet_image.png
+POINT (-6.251856500000001 53.3496261),5,Busáras Central Station,Public Toilet,Bus station,Dublin,Wheelchair accessible,24-Jul,toilet_image.png
+POINT (-6.264867999999999 53.34464599999999),6,Irish Film Institute,Public Toilet,Cinema and film archive,Dublin,Wheelchair accessible,Varies by showtimes,toilet_image.png
+POINT (-6.2594935 53.3422196),7,Marks and Spencer,Public Toilet,Department store,Dublin,Wheelchair accessible,Mon-Sat: 9am-8pm Sun: 10am-7pm,toilet_image.png
+POINT (-6.264739799999999 53.3488949),8,Marks and Spencer,Public Toilet,Department store,Dublin,Wheelchair accessible,Mon-Sat: 9am-8pm Sun: 10am-7pm,toilet_image.png
+POINT (-6.261817299999999 53.34223649999999),9,Powerscourt Townhouse Centre,Public Toilet,Retail shopping center,Dublin,Wheelchair accessible,Mon-Sun: 10am-6pm,toilet_image.png
+POINT (-6.2656231 53.3482143),10,Jervis Shopping Centre,Public Toilet,Retail shopping mall,Dublin,Wheelchair accessible,Mon-Sat: 9am-8pm Sun: 10am-7pm,toilet_image.png
+POINT (-6.262272900000001 53.34000399999999),11,Stephen's Green Shopping Centre,Public Toilet,Retail shopping mall,Dublin,Wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-6.2859296 53.34885789999999),12,Military Museum,Public Toilet,Military history museum,Dublin,Wheelchair accessible,Tue-Sat: 10am-5pm Sun: 2pm-5pm,toilet_image.png
+POINT (-6.264654999999999 53.3541752),13,The Hugh Lane,Public Toilet,Art museum,Dublin,Wheelchair accessible,Tue-Thu: 9:45am-6pm Fri: 9:45am-5pm Sat: 10am-5pm Sun: 11am-5pm,toilet_image.png
+POINT (-6.267428399999999 53.34288609999999),14,Dublin Castle,Public Toilet,Historic site - castle and government complex,Dublin,Wheelchair accessible,Mon-Sun: 9:45am-5:45pm,toilet_image.png
+POINT (-6.2544821 53.34109840000001),15,National Library of Ireland,Public Toilet,National library,Dublin,Wheelchair accessible,Mon-Wed Fri-Sat: 9:30am-7:45pm Thu: 9:30am-8:30pm Sun: 1pm-4:45pm,toilet_image.png
+POINT (-6.259930999999999 53.3424295),16,Brown Thomas Dublin,Public Toilet,Luxury department store,Dublin,Wheelchair accessible,Mon-Wed Fri-Sat: 9:30am-7pm Thu: 9:30am-9pm Sun: 11am-7pm,toilet_image.png
+POINT (-6.2525147 53.3409266),17,National Gallery of Ireland,Public Toilet,Art museum,Dublin,Wheelchair accessible,Mon-Sat: 9:30am-5:30pm Thu: 9:30am-8:30pm Sun: 12pm-5:30pm,toilet_image.png
+POINT (-6.2631308 53.3491377),18,Arnotts,Public Toilet,Department store,Dublin,Wheelchair accessible,Mon-Wed Fri-Sat: 9am-7pm Thu: 9am-9pm Sun: 11am-7pm,toilet_image.png
+POINT (-6.269881499999999 53.3716172),19,BOTANIC GARDENS PUBLIC TOILET,Public Toilet,Public toilet,Glasnevin, Not Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.247821999999999 53.3489288),20,Toilet,Public Toilet,Small public restroom,Dublin,Wheelchair accessible,Mon-Sun: 7am-10pm,toilet_image.png
+POINT (-6.2608368 53.3399192),21,Stephen's Green Public Bathroom,Public Toilet,Public bathroom in city center,Dublin,Not wheelchair accessible,Mon-Sat: 8am-6pm,toilet_image.png
+POINT (-6.2670203 53.3481323),22,Public Toilets,Public Toilet,Public restrooms in the park,Dublin,Wheelchair accessible,Mon-Sun: 6am-11pm,toilet_image.png
+POINT (-6.2910824 53.3195543),23,Public Bathroom in Supervalu Sundrive Complex,Public Toilet,Restroom inside Supervalu store,Dublin,Wheelchair accessible,Mon-Sun: 8am-9pm,toilet_image.png
+POINT (-6.206917 53.3253384),24,Public Toilet,Public Toilet,Basic public restroom,Dublin,Not wheelchair accessible,Mon-Sun: 7am-8pm,toilet_image.png
+POINT (-6.300048 53.34291700000001),25,Irish Museum of Modern Art,Public Toilet,Modern art museum showcasing contemporary works,Dublin,Wheelchair accessible,Tue-Sun: 10am-5:30pm,toilet_image.png
+POINT (-6.1703068 53.3551023),26,Public Toilet,Public Toilet,Public restroom near the train station,Dublin,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.175860600000001 53.36947199999999),27,Public Toilets,Public Toilet,Multiple public restrooms in shopping area,Dublin,Not wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-6.063485199999999 53.38851409999999),28,Public Toilet,Public Toilet,Small public restroom by the beach,Dublin,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.2667983 53.3440455),29,Barnardo Square,Public Toilet,Open square in the city center,Dublin,Wheelchair accessible,Open 24/7,toilet_image.png
+POINT (-6.271165 53.3402425),30,St. Patrick’s Park,Public Toilet,Beautiful park with greenery and benches,Dublin,Not wheelchair accessible,Open 24/7,toilet_image.png
+POINT (-6.2533478 53.33988480000001),31,National Museum of Ireland - Natural History,Public Toilet,Museum featuring natural history exhibits,Dublin,Wheelchair accessible,"Tue-Sat: 10am-5pm, Sun: 2pm-5pm",toilet_image.png
+POINT (-6.3046333 53.35211109999999),32,Phoenix Park Tea Rooms,Public Toilet,Tea rooms located within Phoenix Park,Dublin,Wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-6.331011600000001 53.3659382),33,Phoenix Café,Public Toilet,Café offering snacks and drinks,Dublin,Not wheelchair accessible,Mon-Sun: 7am-8pm,toilet_image.png
+POINT (-6.2996048 53.3604932),34,Tesco Superstore,Public Toilet,Large retail store offering groceries and household items,Dublin,Wheelchair accessible,Mon-Sun: 7am-11pm,toilet_image.png
+POINT (-6.2140198 53.31904529999999),35,Tesco Superstore,Public Toilet,Convenient supermarket for everyday needs,Dublin,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.213863000000001 53.31855669999999),36,Merrion Shopping Centre,Public Toilet,Shopping mall with various shops and eateries,Dublin,Not wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-6.2464185 53.39221999999999),37,Omni Shopping Centre,Public Toilet,Large shopping center with a variety of stores,Dublin,Wheelchair accessible,Mon-Sun: 10am-9pm,toilet_image.png
+POINT (-6.267480000000001 53.28951139999999),38,Tesco Superstore,Public Toilet,Large retail store offering groceries and household items,Dublin,Wheelchair accessible,Mon-Sun: 7am-10pm,toilet_image.png
+POINT (-6.2442945 53.2887254),39,Dundrum Shopping Centre,Public Toilet,Large shopping mall with various stores,Dublin,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.737235500000001 52.80054200000001),40,Tesco Superstore,Public Toilet,Large retail store offering groceries and household items,Galway,Wheelchair accessible,Mon-Sun: 8am-9pm,toilet_image.png
+POINT (-6.8061325 53.17300729999999),41,Tesco Superstore,Public Toilet,Large retail store offering groceries and household items,Limerick,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.9172997 53.1570129),42,Tesco Superstore,Public Toilet,Large retail store offering groceries and household items,Limerick,Wheelchair accessible,Mon-Sun: 7am-11pm,toilet_image.png
+POINT (-7.296900099999999 53.03147629999999),43,Tesco Extra,Public Toilet,Large retail store offering groceries and household items,Waterford,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.3900563 53.3937292),44,Blanchardstown Centre Toilets,Public Toilet,Public restrooms in Blanchardstown Centre,Dublin,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.244461999999999 52.6552401),45,MacDonagh Junction Shopping Centre,Public Toilet,Shopping center with various retail outlets,Kilkenny,Wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-7.253693900000001 52.6528721),46,Market Cross Shopping Centre,Public Toilet,Shopping center with a mix of shops,Kilkenny,Wheelchair accessible,Mon-Sun: 10am-7pm,toilet_image.png
+POINT (-7.241927399999998 52.6413295),47,Loughboy Shopping Centre,Public Toilet,Shopping center with various stores,Kilkenny,Not wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-7.109728700000001 52.2601293),48,City Square Shopping Centre,Public Toilet,Shopping center with a variety of shops,Waterford,Wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-8.4749346 51.89762229999999),49,The English Market,Public Toilet,Historic market offering fresh produce,Cork,Not wheelchair accessible,Tue-Sat: 8am-6pm,toilet_image.png
+POINT (-8.4700869 51.899881),50,Merchants Quay Shopping Centre,Public Toilet,Shopping center with a variety of shops,Cork,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-8.4760715 51.899475),51,Public toilet,Public Toilet,Public restroom,Cork,Wheelchair accessible,Open 24/7,toilet_image.png
+POINT (-8.466862999999998 51.8995869),52,Cork Bus Station(Stáisiún Bus Chorcaí),Public Toilet,Main bus station in Cork,Cork,Wheelchair accessible,Open 24/7,toilet_image.png
+POINT (-8.396493999999999 51.8854221),53,Public Toilets Mahon Point,Public Toilet,Public restrooms in Mahon Point Shopping Centre,Cork,Not wheelchair accessible,Mon-Sun: 7am-8pm,toilet_image.png
+POINT (-8.3954574 51.8865367),54,Restrooms W/C Tiolets,Public Toilet,Public restrooms near Mahon Point,Cork,Not wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-8.4307427 51.8786792),55,Douglas Court Shopping Centre - Toilets,Public Toilet,Public restrooms in Douglas Court Shopping Centre,Cork,Wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-7.873958199999999 51.9229555),56,Public Toilets,Public Toilet,Public restrooms in the city center,Galway,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.5830218 51.8811882),57,Public toilets,Public Toilet,Public restrooms in the city center,Killarney,Not wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-9.9009039 51.8388467),58,Public Toilet,Public Toilet,Public restroom near the park,Kenmare,Wheelchair accessible,Mon-Sun: 7am-9pm,toilet_image.png
+POINT (-8.6750629 52.6765681),59,Public Toilet,Public Toilet,Public restroom in the town center,Westport,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-8.6291721 52.6631592),60,Public toilet,Public Toilet,Small public restroom near the market,Westport,Not wheelchair accessible,Mon-Sun: 6am-8pm,toilet_image.png
+POINT (-8.4478183 52.80913080000001),61,Public toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-8.5188722 52.5213143),62,Public toilet,Public Toilet,Small public restroom,Galway,Not wheelchair accessible,Mon-Sun: 7am-9pm,toilet_image.png
+POINT (-9.0169715 53.2700772),63,Public toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-9.050406900000004 53.2727439),64,Public toilet,Public Toilet,Small public restroom,Galway,Not wheelchair accessible,Mon-Sun: 8am-7pm,toilet_image.png
+POINT (-9.092875000000001 53.2571518),65,Public Toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 7am-10pm,toilet_image.png
+POINT (-9.056569600000003 53.2752723),66,public toilets,Public Toilet,Public restrooms,Galway,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.0461361 53.28372969999999),67,public toilet,Public Toilet,Small public restroom,Galway,Wheelchair accessible,Mon-Sun: 7am-9pm,toilet_image.png
+POINT (-8.8197269 53.06693139999999),68,Public toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-8.962626000000002 53.24979399999999),69,Public toilets,Public Toilet,Public restrooms,Galway,Not wheelchair accessible,Mon-Sun: 7am-8pm,toilet_image.png
+POINT (-7.7015907 52.3519807),70,Public toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-7.4253497 52.2060064),71,Public Toilet,Public Toilet,Small public restroom,Galway,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.5375296 52.0993842),72,Public Toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 7am-9pm,toilet_image.png
+POINT (-7.566000300000001 52.05049440000001),73,Public Toilets,Public Toilet,Public restrooms,Galway,Not wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-6.994895 52.1548892),74,Dunmore East public toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-8.277386800000002 54.48183439999999),75,Beach Public Toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 7am-8pm,toilet_image.png
+POINT (-8.2804186 54.4781384),76,Public Toilet,Public Toilet,Small public restroom,Galway,Not wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-8.268016599999997 54.49035279999999),77,Public Toilet Tullan,Public Toilet,Small public restroom,Galway,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-8.0378385 54.0494127),78,Public WC,Public Toilet,Public restroom,Galway,Not wheelchair accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-7.9195976 53.83209180000001),79,Rooskey Public Toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 8am-9pm,toilet_image.png
+POINT (-6.397797 54.0002637),80,Marshes Shopping Centre .,Public Toilet,Large shopping center,Galway,Wheelchair accessible,Mon-Sun: 9am-10pm,toilet_image.png
+POINT (-6.1848072 54.040204),81,Public toilet,Public Toilet,Small public restroom,Galway,Not wheelchair accessible,Mon-Sun: 7am-8pm,toilet_image.png
+POINT (-6.719404 53.9775995),82,Public Toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 8am-9pm,toilet_image.png
+POINT (-6.1866145 54.0427966),83,Public Toilet,Public Toilet,Small public restroom,Galway,Not wheelchair accessible,Mon-Sun: 7am-8pm,toilet_image.png
+POINT (-6.236846700000001 53.98564349999999),84,Toilet,Public Toilet,Small public restroom,Galway,Wheelchair accessible,Mon-Sun: 7am-9pm,toilet_image.png
+POINT (-8.0624849 53.5918764),85,Portrunny Public Toilets,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-8.051701 53.5461207),86,Lecarrow Public Toilets,Public Toilet,Public restrooms,Galway,Not wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-8.188204499999998 53.6315627),87,Tesco Superstore,Public Toilet,Large retail store,Galway,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-8.476657899999998 54.27131360000001),88,Tesco Superstore,Public Toilet,Large retail store,Galway,Not wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-7.339999999999998 53.52805559999999),89,Harbour Place Shopping Centre,Public Toilet,Shopping center,Galway,Wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-8.6446637 52.6397812),90,Crescent Shopping Centre Toilets,Public Toilet,Public restrooms,Galway,Not wheelchair accessible,Mon-Sun: 8am-7pm,toilet_image.png
+POINT (-6.3985087 54.0045669),91,Roden Place Dundalk,Public Toilet,Public restrooms,Galway,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.113229 53.2573568),92,Toilets,Public Toilet,Public restrooms,Galway,Not wheelchair accessible,Mon-Sun: 7am-7pm,toilet_image.png
+POINT (-6.180093800000001 53.2511137),93,Carrickmines Park,Public Toilet,Public restrooms in the park,Galway,Wheelchair accessible,Mon-Sun: 7am-10pm,toilet_image.png
+POINT (-6.3895013 53.3539371),94,Liffey Valley Shopping Centre Toilets,Public Toilet,Public restrooms in the shopping center,Galway,Wheelchair accessible,Mon-Sun: 8am-9pm,toilet_image.png
+POINT (-6.201424199999999 53.2898395),95,1st Floor Toilets,Public Toilet,Public restrooms on the first floor,Galway,Not wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-6.1151207 53.287218),96,Sandycove Public Toilets,Public Toilet,Public restrooms near Sandycove beach,Galway,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.455605100000001 55.1378201),97,Kavanagh's SuperValu Buncrana,Public Toilet,Supermarket,Buncrana,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.310510300000001 53.7014933),98,Southgate Shopping Centre,Public Toilet,Shopping Centre,Dublin,Wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-7.5319188 55.0951929),99,Rathmullan Beach Public Toilets,Public Toilet,Public restrooms at the beach,Rathmullan,Not wheelchair accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-8.1079745 54.6533826),100,Public Bathroom,Public Toilet,Public restroom,Galway,Not wheelchair accessible,Mon-Sun: 7am-7pm,toilet_image.png
+POINT (-6.7910844 53.5548754),101,Trim Visitor Centre Toilets,Public Toilet,Public restrooms at the visitor center,Trim Castle Co.Meath,Wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-6.136610200000001 53.44866990000001),102,Public Toilets,Public Toilet,Public restrooms,Dublin,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.1514776 53.4510445),103,Malahide Public Toilets,Public Toilet,Public restrooms in Malahide,Malahide,Not wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-6.3452794 53.7140762),104,Scotch Hall Shopping Centre Toilets,Public Toilet,Public restrooms in Scotch Hall Shopping Centre,Dublin,Wheelchair accessible,Mon-Sun: 10am-6pm,toilet_image.png
+POINT (-6.181314100000001 53.61100580000001),105,Public Toilets,Public Toilet,Public restrooms,Dublin,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.104936400000001 53.5828694),106,Public Toilet,Public Toilet,Public restroom,Dublin,Not wheelchair accessible,Mon-Sun: 7am-9pm,toilet_image.png
+POINT (-6.105150299999999 53.57909439999999),107,South Beach Public Toilets,Public Toilet,Public restrooms at South Beach,Dublin,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.0823961 53.5225617),108,Public Toilet - Seasonal,Public Toilet,Seasonal public restroom,Dublin,Not wheelchair accessible,Seasonal,toilet_image.png
+POINT (-6.168888099999999 53.486728),109,Public bathroom,Public Toilet,Public restroom,Dublin,Wheelchair accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-6.1236398 53.4340644),110,Public Toilet,Public Toilet,Public restroom,Dublin,Wheelchair accessible,Mon-Sun: 7am-8pm,toilet_image.png
+POINT (-7.480764099999999 52.8664675),111,Circle K Manor Stone,Public Toilet,Gas station with restroom,Manor Stone,Not wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.589653800000001 52.1726063),112,Public Toilets,Public Toilet,Public restrooms,Dublin,Wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-6.7203347 52.21661880000001),113,Public Toilets,Public Toilet,Public restrooms,Dublin,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.732372499999999 52.2403797),114,Public Toilet,Public Toilet,Public restroom,Dublin,Not wheelchair accessible,Mon-Sun: 7am-6pm,toilet_image.png
+POINT (-6.931268999999999 52.2198716),115,Duncannon Beach,Public Toilet,Beach area with restroom,Duncannon,Wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-7.137999100000001 52.15956380000001),116,Public Toilets,Public Toilet,Public restrooms,Dublin,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.1483173 52.1601495),117,Public Toilets,Public Toilet,Public restrooms,Dublin,Not wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-9.1116903 51.72164160000001),118,Dunmanway Public Toilets,Public Toilet,Public restrooms in Dunmanway,Dunmanway,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.5692736 52.5030117),119,Dunnes Stores,Public Toilet,Retail store,Dublin,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.969737899999999 54.2475713),120,Public Toilet,Public Toilet,Public restroom,Dublin,Not wheelchair accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-7.36243 53.990915),121,Cavan Town Hall Public Toilet,Public Toilet,Public restrooms at Cavan Town Hall,Cavan,Wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-8.4715825 51.91436),122,Blackpool Shopping Centre Toilets,Public Toilet,Shopping Centre restrooms,Blackpool,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.125466699999999 53.4432438),123,Robswalls Playground,Public Toilet,Public restrooms at Robswalls Playground,Dublin,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.5448847 51.5253355),124,Schull Harbour Public Toilets,Public Toilet,Public restrooms at Schull Harbour,Schull,Not wheelchair accessible,Mon-Sun: 8am-7pm,toilet_image.png
+POINT (-6.3236782 53.3662466),125,Hole in the Wall,Public Toilet,Public restroom,Dublin,Wheelchair accessible,Mon-Sun: 7am-9pm,toilet_image.png
+POINT (-8.5532355 52.6666959),126,Castletroy Shopping Centre Toilets,Public Toilet,Shopping Centre restrooms,Limerick,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.259705499999998 55.252411),127,Canny & Doherty's SuperValu Carndonagh,Public Toilet,Supermarket restrooms,Carndonagh,Wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-8.987756899999997 53.2904747),128,Dunnes Stores - Briarhill,Public Toilet,Retail store restrooms,Galway,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-9.1532514 54.1172212),129,Lidl,Public Toilet,Supermarket restrooms,Galway,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.705576700000002 52.2674482),130,Public Toilets,Public Toilet,Public restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.348619999999999 53.716023),131,Laurence Shopping Centre,Public Toilet,Shopping Centre restrooms,Dublin,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.4602429 52.3380236),132,Public Toilet,Public Toilet,Public restroom,Dublin,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.4654643 52.3431505),133,Redmond Road Public Toilet,Public Toilet,Public restroom,Dublin,Not wheelchair accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-8.473284 51.89986200000001),134,Crawford Art Gallery,Public Toilet,Art gallery with restroom,Cork,Not wheelchair accessible,Tue-Sun: 10am-5pm,toilet_image.png
+POINT (-8.4747401 51.8997381),135,Tesco Superstore,Public Toilet,Supermarket restrooms,Cork,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-7.359033 53.990363),136,Cavan Town Public Toilets,Public Toilet,Public restrooms,Cavan,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.925823699999998 52.37444169999999),137,Cahir Public Toilets,Public Toilet,Public restrooms,Cahir,Wheelchair accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-8.2959246 51.8025312),138,Crosshaven Public Toilets,Public Toilet,Public restrooms,Crosshaven,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.0609931 53.1449601),139,Public Toilet,Public Toilet,Public restroom,Dublin,Not wheelchair accessible,Mon-Sun: 7am-9pm,toilet_image.png
+POINT (-6.2644572 53.3227003),140,Swan Shopping Centre,Public Toilet,Shopping Centre restrooms,Dublin,Wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-9.521263717495378 53.79880255472055),141,Public Toilet Mill St Car Park,Public Toilet,Public restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.303348 53.85569160000001),142,Tesco Superstore,Public Toilet,Supermarket restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.9238764 52.83377460000001),143,Fairgreen Shopping Centre,Public Toilet,Shopping Centre restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.162853 53.445163),144,Malahide Castle Public Toilets,Public Toilet,Public restrooms,Malahide,Wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-6.891484399999999 53.9978759),145,Circle K,Public Toilet,Gas station with restroom,Unknown,Not wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-9.168028 51.937987),146,Public Toilet,Public Toilet,Public restroom,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.363149 53.723748),147,Circle K,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.373295000000001 53.70192300000001),148,Tesco Extra,Public Toilet,Supermarket restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-8.1998442 52.8653672),149,Public Toilet Nenagh,Public Toilet,Public restroom,Nenagh,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.452871600000001 53.34801030000001),150,SuperValu Lucan,Public Toilet,Supermarket restrooms,Lucan,Not wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.396244 53.3241005),151,The Mill Centre,Public Toilet,Shopping Centre restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.486955699999998 52.32296749999999),152,Min Ryan Park,Public Toilet,Park with restroom,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.2289309 53.4440497),153,Texaco,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.0903361 53.0442117),154,Coynes Cross Service Station,Public Toilet,Gas station with restroom,Unknown,Not wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.0633352787827315 52.87788484538195),155,Brittas Bay South Car Park Toilets,Public Toilet,Public restrooms,Brittas Bay,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.158576972281125 52.79723123856041),156,St Mary's & Peter's Church Toilets,Public Toilet,Public restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-6.202793432185457 52.750440060076365),157,Gorey Services,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.144135358081124 52.79951487111124),158,Arklow Leisure Centre Toilets,Public Toilet,Public restrooms,Arklow,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.146652229032367 52.79949730531537),159,Bridgewater Shopping Center Toilets,Public Toilet,Shopping Centre restrooms,Arklow,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.160827867999773 52.795040301253074),160,Arklow Tesco Toilets,Public Toilet,Supermarket restrooms,Arklow,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.156455600000001 52.79871869999999),161,Public Toilet,Public Toilet,Public restroom,Arklow,Not wheelchair accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-6.153552700000001 52.79682940000001),162,Castlepark public toilet,Public Toilet,Public restroom,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.134951999999998 53.29233559999999),163,Dun Laoghaire Shopping Centre,Public Toilet,Shopping Centre restrooms,Dun Laoghaire,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-8.482562099999999 51.8879753),164,Maxol,Public Toilet,Gas station with restroom,Unknown,Not wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-9.3060517 53.8543221),165,Circle K,Public Toilet,Gas station with restroom,Unknown,Not wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-8.682707599999999 52.35484659999999),166,Public Bathroom,Public Toilet,Public restroom,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.359820100000002 52.5874685),167,Public Toilet,Public Toilet,Public restroom,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-8.909156700000002 52.178149),168,Church Street Public Toilets,Public Toilet,Public restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-9.067135500000001 52.0599031),169,Public Toilets,Public Toilet,Public restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.5104088 52.0574275),170,Public Toilets,Public Toilet,Public restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.3778044 53.3864635),171,SuperValu Blanchardstown,Public Toilet,Supermarket restrooms,Blanchardstown,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.3821752 53.383742),172,Public Toilet,Public Toilet,Public restroom,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.273502499999999 53.3458874),173,Four Courts,Public Toilet,Landmark restrooms,Dublin,Not wheelchair accessible,Mon-Sun: 9am-5pm,toilet_image.png
+POINT (-7.8884084 52.5165625),174,Public Toilets,Public Toilet,Public restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.0945126 53.1981569),175,Bray Promenade Public Toilets,Public Toilet,Public restrooms,Bray,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.3666383 53.2463326),176,Seipeal Naomh Ainnin,Public Toilet,Landmark restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-6.2633661 53.34250590000001),177,George's Street Arcade,Public Toilet,Shopping Centre restrooms,Dublin,Wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-8.478646200000002 54.27292600000001),178,Quayside Shopping Centre,Public Toilet,Shopping Centre restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.7258913 54.9540947),179,Letterkenny Shopping Centre Toilets,Public Toilet,Shopping Centre restrooms,Letterkenny,Not wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-9.014593699999999 51.5661134),180,Public Toilets,Public Toilet,Public restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.1331397 51.5588487),181,Keelbeg Pier Public Toilets,Public Toilet,Public restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.401950599999998 54.013469),182,Applegreen,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-8.2201469 53.0844246),183,Portumna Castle Marina Toilets,Public Toilet,Public restrooms,Portumna,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.3745669 51.4823812),184,Public Toilets,Public Toilet,Public restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.5322663 53.1710824),185,Public Restroom,Public Toilet,Public restroom,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.687869199999999 53.64276),186,Circle K Beechmount,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-7.4941825 53.274245),187,The Bridge Centre,Public Toilet,Shopping Centre restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.394560599999999 53.98158069999999),188,Maxol,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-7.694280499999999 54.96578419999999),189,Alcorn's Flower & Garden Centre,Public Toilet,Retail restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-8.2952289 51.8498886),190,Toilet - WC,Public Toilet,Public restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-8.763693 51.643774),191,Public Toilets,Public Toilet,Public restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.281631900000001 53.28288149999999),192,Pearse Museum,Public Toilet,Museum restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-5pm,toilet_image.png
+POINT (-7.737584 54.948926),193,The Courtyard Shopping Centre Letterkenny,Public Toilet,Shopping Centre restrooms,Letterkenny,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-7.772764500000001 55.02668),194,Spar,Public Toilet,Retail restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-8.5222195 51.7052925),195,Kinsale Public Toilets,Public Toilet,Public restrooms,Kinsale,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.728635100000001 54.94813430000001),196,Homebase - Letterkenny,Public Toilet,Retail restrooms,Letterkenny,Not wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-7.729839999999999 54.94722999999999),197,Dunnes Stores,Public Toilet,Retail restrooms,Letterkenny,Not wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-7.724915499999998 54.952259),198,Circle K Tobin's,Public Toilet,Gas station with restroom,Letterkenny,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-7.679515399999999 55.0759033),199,Blaney Stores - Applegreen,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-7.700047400000001 54.9442652),200,Applegreen,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.228495700000001 53.2725229),201,Maxol Sandyford Service Station,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.1318425 53.29294470000001),202,dlr LexIcon Library and Cultural Centre,Public Toilet,Library restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-6.146033399999999 53.256269),203,Circle K Centenery,Public Toilet,Gas station with restroom,Unknown,Not wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-7.448012 54.10152),204,Public Toilet,Public Toilet,Public restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.683076399999999 52.35667399999999),205,Lidl,Public Toilet,Retail restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-7.660214300000001 52.3597199),206,Clonmel Oil Service Station,Public Toilet,Gas station with restroom,Unknown,Not wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-7.7003165 52.3604469),207,Prior Park Service Station,Public Toilet,Gas station with restroom,Unknown,Not wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-7.034709800000001 52.6799254),208,Applegreen,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-7.103123 52.257564),209,Public Toilets,Public Toilet,Public restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.691463999999999 52.35460680000001),210,Showgrounds Shopping Centre,Public Toilet,Shopping Centre restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-8.2701566 52.2658472),211,Public Toilets,Public Toilet,Public restrooms,Unknown,Not wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.9327855 52.9086431),212,Circle K,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.270041 53.27816809999999),213,Marlay Park Courtyard,Public Toilet,Public restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.932954899999999 53.4200001),214,Golden Island Shopping Centre,Public Toilet,Shopping Centre restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.1390692 53.2929174),215,Tesco Superstore,Public Toilet,Shopping Centre restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.1293142 53.2896498),216,People's Park Toilets,Public Toilet,Public restrooms,Unknown,Wheelchair accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-6.114890000000001 53.2666179),217,Tower Tea Rooms Killiney Hill,Public Toilet,Restaurant restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-6.177561799999999 53.3013607),218,Blackrock Market,Public Toilet,Market restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-8.925742300000001 53.2643636),219,Lidl,Public Toilet,Retail restrooms,Unknown,Wheelchair accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-7.4676531 53.0040764),220,Mighty Mols Petrol Station,Public Toilet,Gas station with restroom,Unknown,Wheelchair accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.1391068 53.17304120000001),221,Avoca Kilmacanoge,Public Toilet,"Part of Avoca but outside access. Free. Separate stalls, unisex. Very nice - well maintained.",,Not Wheelchair Accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.039244399999999 55.18836049999999),222,Public Toilets,Public Toilet,Located in an unspecified area.,,Wheelchair Accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-8.1605502 52.4745938),223,Tipperary Town Market,Public Toilet,Free to access,Tipperary Town Market,Not Wheelchair Accessible,Mon-Sun: 9am-7pm,toilet_image.png
+POINT (-8.5969435 52.6620096),224,Parkway Shopping Centre Toilets,Public Toilet,Located in Parkway Shopping Centre.,,Wheelchair Accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-8.9597224 51.90468669999999),225,Macroom Town Hall,Public Toilet,Fully accessible only a short dash from the street,,Not Wheelchair Accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-9.298715999999999 54.0936105),226,Gortnor Abbey Pier,Public Toilet,"Located at the motorhome camping facility, open 8am to 8pm in summer",,Wheelchair Accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.4656392 52.23066),227,Public Toilets,Public Toilet,"Free public toilets on the street, at the very end of the town at a junction between roads. Near the library car park.",,Not Wheelchair Accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-9.9097391 51.6509804),228,Public Toilet,Public Toilet,Located in an unspecified area.,,Wheelchair Accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-10.2734201 52.1392143),229,Dingle Public Toilets,Public Toilet,Located in Dingle.,,Wheelchair Accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-7.234595600000001 52.6430534),230,Blackquarry Service Station,Public Toilet,Accessible toilet downstairs and gender specific toilets upstairs on the right hand side,,Not Wheelchair Accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.296613100000001 53.0300166),231,Kyle Centre Portlaoise,Public Toilet,Located in Kyle Centre Portlaoise,,Not Wheelchair Accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.4744752 52.9997324),232,Mountrath Public Toilet,Public Toilet,Located in Mountrath.,,Wheelchair Accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.582882799999999 54.1153062),233,Top Oil Ballyconnell,Public Toilet,"Located inside the shopping centre attached to the gas station, free access",,Wheelchair Accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-7.514735999999999 54.99832499999999),234,Kernan's EUROSPAR,Public Toilet,"Located inside, in dining area, open until 10pm",,Not Wheelchair Accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.91099 52.84607399999999),235,Circle K,Public Toilet,Clean and well-maintained restroom facilities.,Near the fuel pumps.,Wheelchair accessible.,24-Jul,toilet_image.png
+POINT (-6.236251999999998 53.328157),236,Lolly and Cooks,Public Toilet,Public restroom maintained by the cafe.,Adjacent to the cafe entrance.,Wheelchair accessible.,"9am to 5pm, Monday to Sunday",toilet_image.png
+POINT (-6.1089222 53.0974671),237,Texaco Newtown Mount Kennedy,Public Toilet,Texaco gas station restroom.,Located on the side of the gas station building.,Wheelchair accessible.,24-Jul,toilet_image.png
+POINT (-6.671722 53.403462),238,Circle K,Public Toilet,Convenient restroom facilities.,Adjacent to the convenience store entrance.,Wheelchair accessible.,24-Jul,toilet_image.png
+POINT (-6.3914099 53.3946458),239,Blanchardstown Shopping Retail Park Toilet,Public Toilet,Restroom located near the Starbucks building.,Beside the Starbucks entrance.,Wheelchair accessible.,Varies,toilet_image.png
+POINT (-7.013064300000001 53.1452193),240,Toilets,Public Toilet,Basic public restroom facilities.,Near the town center.,Standard.,Varies,toilet_image.png
+POINT (-7.487490999999998 54.8334981),241,Circle K Daly's,Public Toilet,Restroom facilities at Circle K Daly's.,Within the convenience store.,Standard.,24-Jul,toilet_image.png
+POINT (-7.902246100000002 55.1728345),242,Public Toilets,Public Toilet,Public restrooms.,Near the beachfront.,Standard.,Varies,toilet_image.png
+POINT (-7.609841400000001 55.18840100000001),243,Beach Toilet Facilities,Public Toilet,Restrooms available at the beach.,Adjacent to the beach entrance.,Standard.,Varies,toilet_image.png
+POINT (-7.4744752 52.9997324),244,Mountrath Public Toilet,Public Toilet,Public restroom in Mountrath town.,Near the town square.,Standard.,Varies,toilet_image.png
+POINT (-7.296613100000001 53.0300166),245,Kyle Centre Portlaoise,Public Toilet,Restroom facilities at Kyle Centre Portlaoise.,Within the shopping center.,Standard.,Varies,toilet_image.png
+POINT (-6.1391068 53.17304120000001),246,Avoca Kilmacanoge,Public Toilet,Avoca's restroom facilities.,Near the cafe entrance.,Standard.,Varies,toilet_image.png
+POINT (-7.039244399999999 55.18836049999999),247,Public Toilets,Public Toilet,Public restrooms available for visitors.,Near the town center.,Standard.,Varies,toilet_image.png
+POINT (-8.1605502 52.4745938),248,Tipperary Town Market,Public Toilet,Public restroom facilities at Tipperary Town Market.,Within the market area.,Standard.,Varies,toilet_image.png
+POINT (-9.789057500000002 52.10702269999999),249,Library Place,Public Toilet,Public restroom near the library.,Adjacent to the library entrance.,Standard.,Varies,toilet_image.png
+POINT (-8.211182899999999 53.6415657),250,Circle K,Public Toilet,Restroom facilities at Circle K.,Within the convenience store.,Standard.,24-Jul,toilet_image.png
+POINT (-9.0500059 53.2743705),251,Public Toilet,Public Toilet,Public restroom facilities.,Near the town center.,Standard.,Varies,toilet_image.png
+POINT (-8.186584 53.628836),252,Casey's Circle K,Public Toilet,Restroom facilities at Casey's Circle K.,Within the convenience store.,Standard.,24-Jul,toilet_image.png
+POINT (-8.464214499999999 52.835968),253,Public Toilet,Public Toilet,Public restroom facilities.,Near the town center.,Standard.,Varies,toilet_image.png
+POINT (-9.2262495 53.7133943),254,Moore Hall,Public Toilet,Restroom facilities at Moore Hall.,Within the premises.,Standard.,Varies,toilet_image.png
+POINT (-8.1702185 51.9133194),255,Public Toilets,Public Toilet,Public restroom facilities.,Near the town center.,Standard.,Varies,toilet_image.png
+POINT (-9.5105962 53.7970708),256,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within the supermarket.,Standard.,Varies,toilet_image.png
+POINT (-9.5485655 51.7501238),257,Public Toilet,Public Toilet,Public restroom facilities near Quills in Glengarriff.,Near Quills.,Standard.,Varies,toilet_image.png
+POINT (-9.30159 53.85590999999999),258,Dunnes Stores,Public Toilet,Restroom facilities at Dunnes Stores.,Within the store.,Standard.,Varies,toilet_image.png
+POINT (-8.4372941 51.8776824),259,Douglas Village Shopping Centre,Public Toilet,Restroom facilities at Douglas Village Shopping Centre.,Within the shopping center.,Standard.,Varies,toilet_image.png
+POINT (-8.625490499999998 52.66509569999999),260,Arthur's Quay Shopping Centre,Public Toilet,Restroom facilities at Arthur's Quay Shopping Centre.,Within the shopping center.,Standard.,Varies,toilet_image.png
+POINT (-9.0469229 53.27349049999999),261,Galway Station,Public Toilet,Accessible restroom facilities at Galway Station.,Within the station building.,Wheelchair accessible.,24-Jul,toilet_image.png
+POINT (-9.045643799999999 53.2749937),262,Galway Coach Station,Public Toilet,Restroom facilities at Galway Coach Station.,Within the coach station.,Standard.,Varies,toilet_image.png
+POINT (-9.3481318 52.9342187),263,Lahinch Playground,Public Toilet,Public restroom facilities near Lahinch Playground.,Adjacent to the playground.,Wheelchair accessible.,Varies,toilet_image.png
+POINT (-6.1801606 53.4009106),264,Clarehall Shopping Centre Toilets,Public Toilet,Restroom facilities at Clarehall Shopping Centre.,"Towards the Tesco exit on the first floor beside Easons, down a corridor.",Standard.,Varies,toilet_image.png
+POINT (-6.530289999999999 53.349127),265,Castletown House,Public Toilet,Portaloos available with lots of toilet paper and hand sanitizer.,"Beside the house, while the house is closed due to COVID restrictions.",Standard.,Varies,toilet_image.png
+POINT (-6.470455800000001 53.3679555),266,Car Park - St. Catherine's Park,Public Toilet,Public restroom facilities beside park warden's office in St. Catherine's Park.,Near the park entrance.,Wheelchair accessible.,Varies,toilet_image.png
+POINT (-8.4707387 51.89889890000001),267,Brown Thomas Cork,Public Toilet,Clean restroom facilities at Brown Thomas Cork.,Within the store.,Standard.,Varies,toilet_image.png
+POINT (-9.677463099999999 52.5120069),268,Ballybunion Castle,Public Toilet,Restroom facilities at Ballybunion Castle.,On Castle green.,Standard.,Varies,toilet_image.png
+POINT (-7.111157 52.2621048),269,Public Toilets,Public Toilet,Public restrooms with 20c access fee.,Near the town center.,Standard.,Varies,toilet_image.png
+POINT (-7.3514024 53.5276449),270,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within the supermarket.,Standard.,Varies,toilet_image.png
+POINT (-9.303601999999998 53.2440898),271,Public toilet,Public Toilet,Basic public restroom facilities.,Near the town center.,Standard.,Varies,toilet_image.png
+POINT (-8.5301238 52.91072800000001),272,Scarriff Public Library,Public Toilet,Restroom facilities at Scarriff Public Library.,Just inside the side door into the building on the left.,Wheelchair accessible.,Varies,toilet_image.png
+POINT (-7.809076200000002 52.6784927),273,Thurles Playground,Public Toilet,Public restroom facilities near Thurles Playground.,Beside the children's playground in Thurles Town Park.,Standard.,Varies,toilet_image.png
+POINT (-7.4966154 53.3631411),274,Circle K M6 Kilbeggan,Public Toilet,Restroom facilities at Circle K M6 Kilbeggan.,Within the convenience store.,Standard.,Varies,toilet_image.png
+POINT (-7.643336 53.4259317),275,Saint Thomas' Church,Public Toilet,Restroom facilities at Saint Thomas' Church.,Back of the church.,Standard.,Varies,toilet_image.png
+POINT (-6.548624 53.33415420000001),276,Texaco Spar Celbridge (Apache Pizza & Subway),Public Toilet,Restroom facilities at Texaco Spar Celbridge (Apache Pizza & Subway).,Within the building.,Standard.,Varies,toilet_image.png
+POINT (-8.3925197 51.813793),277,Collins's SuperValu Carrigaline,Public Toilet,Restroom facilities at Collins's SuperValu Carrigaline.,Across from the inside entrance into Supervalu.,Standard.,Varies,toilet_image.png
+POINT (-8.3923676 51.8133601),278,Public Toilets,Public Toilet,Public restroom facilities with a 30c access fee.,Near the town center.,Standard.,Varies,toilet_image.png
+POINT (-8.740515 51.74490400000001),279,Riverview Shopping Centre,Public Toilet,Restroom facilities at Riverview Shopping Centre.,Within the shopping center.,Standard.,Varies,toilet_image.png
+POINT (-8.660701999999999 51.76551),280,Centra Innishannon,Public Toilet,Restroom facilities at Centra Innishannon.,Within the store.,Standard.,Varies,toilet_image.png
+POINT (-8.740204399999998 51.7413873),281,Centra & Topaz Service Station,Public Toilet,Restroom facilities at Centra & Topaz Service Station.,Within the service station.,Standard.,Varies,toilet_image.png
+POINT (-8.7255511 51.7468142),282,Texaco Bandon,Public Toilet,Restroom facilities at Texaco Bandon.,Within the gas station.,Standard.,Varies,toilet_image.png
+POINT (-6.435784600000002 53.5529603),283,Circle K Coolfore,Public Toilet,Restroom facilities at Circle K Coolfore.,Within the convenience store.,Standard.,Varies,toilet_image.png
+POINT (-7.810152299999999 52.6759512),284,IMC,Public Toilet,Restroom facilities at IMC cinema.,Accessible on 2nd floor with escalator located outside cinema.,Wheelchair accessible.,Varies,toilet_image.png
+POINT (-6.6483197 53.6363734),285,Public Toilet,Public Toilet,Public restroom facilities near the church.,Beside the steps up to the parking lot.,Standard.,Varies,toilet_image.png
+POINT (-6.207576599999999 53.148412),286,Powerscourt Waterfall Parking,Public Toilet,Restroom facilities at Powerscourt Waterfall Parking.,Only accessible for visitors to the Waterfall.,Standard.,Varies,toilet_image.png
+POINT (-6.364799999999998 53.96422099999999),287,"Centra Blackrock, Louth",Public Toilet,"Restroom facilities at Centra Blackrock, Louth.",Beside the bottle bank and Centra supermarket.,Standard.,Varies,toilet_image.png
+POINT (-10.363489 51.886098),288,Portmagee Public Toilets,Public Toilet,Restroom facilities at Portmagee Public Toilets.,Near the town center.,Standard.,Varies,toilet_image.png
+POINT (-6.1092708 53.494055),289,Public Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.7225042 51.951815),290,Ardmore Beach,Public Toilet,Public restroom facilities at Ardmore Beach.,Near the beach.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.115229899999999 53.4786157),291,Donabate Beach Public Restroom,Public Toilet,Public toilets managed by Fingal County Council at Donabate Beach.,"Near Donabate Beach, Donabate, Co. Dublin.",Standard.,7:30 AM - 9:00 PM,toilet_image.png
+POINT (-6.1589732 53.5862344),292,Argillan Castle Toilets,Public Toilet,Public toilets managed by Fingal County Council in the grounds of Ardgillan Castle and Demesne beside the Castle.,Adjacent to Ardgillan Castle.,Limited access.,10:00 AM - 5:00 PM,toilet_image.png
+POINT (-6.197056 53.607483),293,Public toilets,Public Toilet,Public toilets in Millfield Shopping Centre in Balbriggan.,Within Millfield Shopping Centre.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-8.527950099999998 54.3898148),294,"CIRCLE K, Grange",Public Toilet,"Restroom facilities at CIRCLE K, Grange.",Near the carwash.,Standard.,6:00 AM - 11:00 PM,toilet_image.png
+POINT (-10.2747203 51.8209359),295,Public Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-10.287381 51.9260644),296,Public Toilets,Public Toilet,Basic public restroom facilities.,Near the harbor.,Not confirmed.,8:30 AM - 6:30 PM,toilet_image.png
+POINT (-6.253187499999999 53.2753467),297,SuperValu Ballinteer,Public Toilet,Restroom facilities at SuperValu Ballinteer.,Within SuperValu Ballinteer.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-7.299661300000001 53.0145511),298,Midway Food Court Portlaoise,Public Toilet,Restroom facilities at Midway Food Court Portlaoise.,Within the food court.,Standard.,10:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.581855099999999 53.3808264),299,Tesco Extra,Public Toilet,Restroom facilities at Tesco Extra.,Within Tesco Extra.,Standard.,7:00 AM - 12:00 AM,toilet_image.png
+POINT (-6.2186663 53.4538665),300,Swords Pavilions Shopping Centre Toilets,Public Toilet,Restroom facilities at Swords Pavilions Shopping Centre.,Within the shopping centre.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.2431052 53.4268925),301,Dublin Airport Toilets,Public Toilet,Restroom facilities at Dublin Airport.,Within Dublin Airport.,Standard.,Open 24 hours,toilet_image.png
+POINT (-6.24497 53.4273061),302,Dublin Airport Departures Toilets,Public Toilet,Restroom facilities at Dublin Airport Departures area.,Within Dublin Airport.,Standard.,Open 24 hours,toilet_image.png
+POINT (-6.247866 53.398634),303,Public Toilets,Public Toilet,Public toilets managed by Fingal County Council in Santry Demesne.,At the playground in Santry Demesne.,Same as playground.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-7.853466299999999 51.95915960000001),304,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,6:30 AM - 11:00 PM,toilet_image.png
+POINT (-9.4553722 51.6804944),305,Bantry Town Square,Public Toilet,Restroom facilities at Bantry Town Square.,Within Bantry Town Square.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.626302 52.08661300000001),306,Amber,Public Toilet,Restroom facilities at Amber.,Nearby.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.889343399999999 53.7309947),307,"Park Rí, Kells",Public Toilet,"Restroom facilities at Park Rí, Kells.",Within Park Rí.,Standard.,7:30 AM - 9:00 PM,toilet_image.png
+POINT (-6.687313 53.6537867),308,Navan Shopping Centre,Public Toilet,Restroom facilities at Navan Shopping Centre.,Within the shopping centre.,Standard.,10:00 AM - 6:00 PM,toilet_image.png
+POINT (-9.835648100000002 52.3891619),309,Waterfront Car Park,Public Toilet,Restroom facilities at Waterfront Car Park.,Within the car park.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-9.4825258 52.4504011),310,Lidl,Public Toilet,Restroom facilities at Lidl.,Within Lidl.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-9.4788199 52.4497234),311,ALDI,Public Toilet,Restroom facilities at ALDI.,Within ALDI.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-9.4653719 52.4486073),312,Applegreen,Public Toilet,Restroom facilities at Applegreen.,Nearby.,Standard.,7:00 AM - 11:00 PM,toilet_image.png
+POINT (-9.4871537 52.4469882),313,Public Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.1048742 53.2677599),314,Public Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-10.0444256 51.64159979999999),315,Allihies Playground Public Toilets,Public Toilet,Restroom facilities at Allihies Playground.,Near the playground.,Standard.,8:30 AM - 6:30 PM,toilet_image.png
+POINT (-9.9570659 51.6949885),316,Public Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,10:00 AM - 6:00 PM,toilet_image.png
+POINT (-7.933184600000001 52.1378072),317,Lismore Playground,Public Toilet,Restroom facilities at Lismore Playground.,Near the playground.,Standard.,9:00 AM - 5:00 PM,toilet_image.png
+POINT (-9.6634965 53.7876809),318,Public Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-7.624444399999998 52.09055559999999),319,Dungarvan Shopping Centre,Public Toilet,Restroom facilities at Dungarvan Shopping Centre.,Within the shopping centre.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.8825973 51.6241868),320,Scally 's SuperValu Clonakilty,Public Toilet,Restroom facilities at Scally 's SuperValu Clonakilty.,Within Scally 's SuperValu.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.6439989 52.1359682),321,O'Connell Funeral Directors,Public Toilet,Restroom facilities at O'Connell Funeral Directors.,Nearby.,Standard.,8:30 AM - 5:30 PM,toilet_image.png
+POINT (-6.352405699999999 53.7143349),322,Drogheda Town Centre,Public Toilet,Restroom facilities at Drogheda Town Centre.,Within Drogheda Town Centre.,Standard.,10:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.091678899999999 53.5187664),323,Public Toilet,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-9.668521300000002 53.11948940000001),324,Public Toilet,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-9.750711899999999 53.1305311),325,Public Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,7:30 AM - 9:00 PM,toilet_image.png
+POINT (-8.986245000000002 53.17070500000001),326,Traught Beach,Public Toilet,Restroom facilities at Traught Beach.,Near the beach.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-9.629910899999999 53.2490686),327,Coral Strand,Public Toilet,Restroom facilities at Coral Strand.,Near Coral Strand.,Standard.,10:00 AM - 7:00 PM,toilet_image.png
+POINT (-7.677598300000001 52.35773289999999),328,Mulcahy Park,Public Toilet,Restroom facilities at Mulcahy Park.,Within Mulcahy Park.,Standard.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.661574799999999 53.2401182),329,Tesco Extra,Public Toilet,Restroom facilities at Tesco Extra.,Within Tesco Extra.,Standard.,7:00 AM - 11:00 PM,toilet_image.png
+POINT (-9.1739954 52.7390936),330,Public Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.5489458 52.4811972),331,Centra Bruff,Public Toilet,Restroom facilities at Centra Bruff.,Within Centra Bruff.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.352548899999999 53.71172809999999),332,Spar,Public Toilet,Restroom facilities at Spar.,Within Spar.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.2380565 53.6783832),333,Public Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.207228499999998 53.3242558),334,Circle K Martello,Public Toilet,Restroom facilities at Circle K Martello.,Nearby.,Standard.,6:00 AM - 11:00 PM,toilet_image.png
+POINT (-6.2601552 53.3486874),335,Eason,Public Toilet,Restroom facilities at Eason.,Within Eason.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.375045599999999 53.28523999999999),336,Circle K The Square,Public Toilet,Restroom facilities at Circle K The Square.,Nearby.,Standard.,7:00 AM - 10:00 PM,toilet_image.png
+POINT (-9.266294499999999 51.5490611),337,Field's SuperValu Skibbereen,Public Toilet,Restroom facilities at Field's SuperValu Skibbereen.,Within Field's SuperValu.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-9.5204758 52.0610344),338,Knockreer Playground,Public Toilet,Restroom facilities at Knockreer Playground.,Near the playground.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.155648999999999 53.3854464),339,Centra Greendale,Public Toilet,Restroom facilities at Centra Greendale.,Within Centra Greendale.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.216676100000001 53.2785243),340,Dunnes Stores - Beacon Court,Public Toilet,Restroom facilities at Dunnes Stores - Beacon Court.,Nearby.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.927895 52.835304),341,Carlow Shopping Centre Toilets,Public Toilet,Restroom facilities at Carlow Shopping Centre.,Within the shopping centre.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-10.194886 53.969635),342,Keem Beach Public Toilets,Public Toilet,Restroom facilities at Keem Beach.,Near the beach.,Standard.,10:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.239280099999999 53.41183179999999),343,Applegreen,Public Toilet,Restroom facilities at Applegreen.,Nearby.,Standard.,7:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.1176802 53.2221587),344,Shanganagh Cemetery Toilets,Public Toilet,Restroom facilities at Shanganagh Cemetery.,Nearby the park and recycling centre.,Limited access.,9:00 AM - 5:00 PM,toilet_image.png
+POINT (-6.2633135 53.3497637),345,Dunnes Stores - Henry Street,Public Toilet,Restroom facilities at Dunnes Stores - Henry Street.,Nearby.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.2181239 53.376222),346,Circle K Maypark,Public Toilet,Restroom facilities at Circle K Maypark.,Within Circle K Maypark.,Standard.,7:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.191506099999999 53.35865099999999),347,Circle K (bull),Public Toilet,Restroom facilities at Circle K (bull).,Within Circle K (bull).,Standard.,6:00 AM - 11:00 PM,toilet_image.png
+POINT (-6.213117899999999 53.3541566),348,Circle K Dublin Port,Public Toilet,Restroom facilities at Circle K Dublin Port.,Within Circle K Dublin Port.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.214434199999999 53.3840467),349,Maxol Artane,Public Toilet,Restroom facilities at Maxol Artane.,Within Maxol Artane.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.608888899999999 52.0972222),350,Centra Coolagh,Public Toilet,Restroom facilities at Centra Coolagh.,Within Centra Coolagh.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.961017 52.9962902),351,Conlans Family Centra,Public Toilet,Restroom facilities at Conlans Family Centra.,Within Conlans Family Centra.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.988286999999999 53.00167330000001),352,Applegreen,Public Toilet,Restroom facilities at Applegreen.,Within Applegreen.,Standard.,6:00 AM - 12:00 AM,toilet_image.png
+POINT (-6.967412199999999 52.9943226),353,Circle K Athy Dublin Road,Public Toilet,Restroom facilities at Circle K Athy Dublin Road.,Within Circle K Athy Dublin Road.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.3621414 52.38817719999999),354,Curracloe Beach,Public Toilet,Restroom facilities at Curracloe Beach.,Near Curracloe Beach.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.359216099999998 52.399807),355,Car Park,Public Toilet,Restroom facilities at Car Park.,Nearby.,Standard.,7:00 AM - 8:00 PM,toilet_image.png
+POINT (-9.2624797 51.5534774),356,Norton House Car Park,Public Toilet,Restroom facilities at Norton House Car Park.,Nearby.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.291937000000001 53.33137300000001),357,Dolphin's Barn Library,Public Toilet,Restroom facilities at Dolphin's Barn Library.,Within Dolphin's Barn Library.,Standard.,"1:00 PM - 8:00 PM (Mon), 10:00 AM - 4:00 PM (Tue-Sat)",toilet_image.png
+POINT (-6.968998 53.917844),358,Tesco Bailieborough Toilets,Public Toilet,Restroom facilities at Tesco Bailieborough.,Within Tesco Bailieborough.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.256538300000001 53.3432286),359,Trinity Arts block. Downstairs from the Perch cafe,Public Toilet,Restroom facilities at Trinity Arts block.,Near the Perch cafe.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-7.342356 53.515231),360,Centra Lynn Road,Public Toilet,Restroom facilities at Centra Lynn Road.,Within Centra Lynn Road.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-8.582559 51.645155),361,Garretstown Strand,Public Toilet,Restroom facilities at Garretstown Strand.,Near Garretstown Strand.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.563956 51.640195),362,Toilets,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-9.2170921 53.6272855),363,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.2256636 53.32317190000001),364,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,9:00 AM - 9:00 PM,toilet_image.png
+POINT (-8.0806234 53.94500230000001),365,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,7:00 AM - 11:00 PM,toilet_image.png
+POINT (-8.953745000000001 53.939281),366,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.998656900000002 53.7251316),367,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,9:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.1593896 53.2974482),368,Seapoint Beach,Public Toilet,Restroom facilities at Seapoint Beach.,Near Seapoint Beach.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.560746199999997 53.18610409999999),369,The Long Point,Public Toilet,Restroom facilities at The Long Point.,Near The Long Point.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.179874999999999 53.3019361),370,Blackrock Shopping Centre,Public Toilet,Restroom facilities at Blackrock Shopping Centre.,Bottom floor under the stairs.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-7.7020244 52.35704680000001),371,Dunnes Stores,Public Toilet,Restroom facilities at Dunnes Stores.,Within Dunnes Stores.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.950218899999999 52.3895001),372,New Ross Park (Pearse Park),Public Toilet,Restroom facilities at New Ross Park (Pearse Park).,Near New Ross Park (Pearse Park).,Standard.,7:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.197899500000001 53.2585585),373,Leopardstown Valley Shopping Centre,Public Toilet,Restroom facilities at Leopardstown Valley Shopping Centre.,Within Leopardstown Valley Shopping Centre.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.302879 53.4037122),374,Charlestown Shopping Centre Toilets,Public Toilet,Restroom facilities at Charlestown Shopping Centre.,Within Charlestown Shopping Centre.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.2661904 53.38206929999999),375,Circle K Nevin,Public Toilet,Restroom facilities at Circle K Nevin.,Within Circle K Nevin.,Standard.,6:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.331370908709985 51.84961197106684),376,Public Toilet,Public Toilet,Coin-operated public toilet.,Nearby.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.2680445 53.3209935),377,Circle K Grosvenor (Rathmines),Public Toilet,Restroom facilities at Circle K Grosvenor (Rathmines).,Within Circle K Grosvenor (Rathmines).,Standard.,7:00 AM - 11:00 PM,toilet_image.png
+POINT (-9.0483711 53.2796671),378,Galway Shopping Centre Toilets,Public Toilet,Restroom facilities at Galway Shopping Centre.,Within Galway Shopping Centre.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-9.0460765 53.2805894),379,Galway Shopping Centre Toilets,Public Toilet,Restroom facilities at Galway Shopping Centre.,Within Galway Shopping Centre.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.729919099999998 51.74591309999999),380,ALDI,Public Toilet,Restroom facilities at ALDI.,Within ALDI.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.379635299999999 53.35030740000001),381,Moriarty's SuperValu Palmerstown,Public Toilet,Restroom facilities at Moriarty's SuperValu Palmerstown.,Within Moriarty's SuperValu Palmerstown.,Standard.,7:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.708749 52.597613),382,Centra Patrickswell,Public Toilet,Restroom facilities at Centra Patrickswell.,Within Centra Patrickswell.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.6243483 52.6589727),383,Limerick Bus Station Toilets,Public Toilet,Restroom facilities at Limerick Bus Station.,Within Limerick Bus Station.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-7.2512311 52.65045689999999),384,Toilet,Public Toilet,Basic public restroom facilities.,Nearby.,Standard.,6:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.327184400000001 53.3356016),385,Applegreen,Public Toilet,Restroom facilities at Applegreen.,Within Applegreen.,Standard.,7:00 AM - 11:00 PM,toilet_image.png
+POINT (-8.6280126 52.6591824),386,Public Toilet,Public Toilet,Coin-operated public toilet.,Nearby.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-9.3195219 51.8387),387,Gougane Barra Toilets,Public Toilet,Restroom facilities at Gougane Barra.,Near Gougane Barra.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.6600095 53.6436901),388,Johnstown Shopping Centre Toilets,Public Toilet,Restroom facilities at Johnstown Shopping Centre.,Within Johnstown Shopping Centre.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.651369099999998 52.65546939999999),389,Bunclody Public Toilets,Public Toilet,Restroom facilities at Bunclody.,Near Bunclody.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.4949699 52.5899444),390,Applegreen,Public Toilet,Restroom facilities at Applegreen.,Within Applegreen.,Standard.,6:00 AM - 12:00 AM,toilet_image.png
+POINT (-8.606826200000002 51.8914337),391,Regional Park Ballincollig Toilet,Public Toilet,Restroom facilities at Regional Park Ballincollig.,Near Regional Park Ballincollig.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.459403000000001 53.35300729999999),392,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,7:00 AM - 10:00 PM,toilet_image.png
+POINT (-7.466447400000003 53.2664061),393,Tesco Extra,Public Toilet,Restroom facilities at Tesco Extra.,Within Tesco Extra.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-7.497010299999999 53.2914426),394,Circle K Tullamore,Public Toilet,Restroom facilities at Circle K Tullamore.,Within Circle K Tullamore.,Standard.,6:00 AM - 11:00 PM,toilet_image.png
+POINT (-6.798187400000002 53.17810770000001),395,WhiteWater Shopping Centre,Public Toilet,Restroom facilities at WhiteWater Shopping Centre.,Within WhiteWater Shopping Centre.,Standard.,9:00 AM - 9:00 PM,toilet_image.png
+POINT (-9.832074 52.3385552),396,Banna Beach Toilets,Public Toilet,Restroom facilities at Banna Beach.,Near Banna Beach.,Standard.,7:00 AM - 8:00 PM,toilet_image.png
+POINT (-9.180451 53.338798),397,SuperValu Moycullen,Public Toilet,Restroom facilities at SuperValu Moycullen.,Within SuperValu Moycullen.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.733160000000001 52.80449970000001),398,Flynns Foodhall & Supermac's,Public Toilet,Restroom facilities at Flynns Foodhall & Supermac's.,Within Flynns Foodhall & Supermac's.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.111205000000002 54.65054600000001),399,SuperValu,Public Toilet,Restroom facilities at SuperValu.,Within SuperValu.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-8.661664000000002 52.669838),400,Dunnes Stores,Public Toilet,Restroom facilities at Dunnes Stores.,Within Dunnes Stores.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.975269899999999 52.8388824),401,Ennis,Public Toilet,Restroom facilities in Ennis.,Within Ennis.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.4400516 52.8075065),402,Public Toilets,Public Toilet,Coin-operated public toilet.,Nearby.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.1890651 53.3960894),403,Lidl,Public Toilet,Restroom facilities at Lidl.,Within Lidl.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.2135875 53.3957994),404,Northside Shopping Centre Toilets,Public Toilet,Restroom facilities at Northside Shopping Centre.,Within Northside Shopping Centre.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.6617588 52.66974800000001),405,Jetland Shopping Centre,Public Toilet,Restroom facilities at Jetland Shopping Centre.,Within Jetland Shopping Centre.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.796345100000002 53.72718),406,St Mel's Cathedral,Public Toilet,Restroom facilities at St Mel's Cathedral.,Within St Mel's Cathedral.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-9.126871 53.2512899),407,Silverstrand Beach,Public Toilet,Restroom facilities at Silverstrand Beach.,Near Silverstrand Beach.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.691281499999997 52.42717380000001),408,O'Rourkes Cross Petrol Station,Public Toilet,Restroom facilities at O'Rourkes Cross Petrol Station.,Within O'Rourkes Cross Petrol Station.,Standard.,6:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.6823555 52.36057270000001),409,Lees Centra/Applegreen,Public Toilet,Restroom facilities at Lees Centra/Applegreen.,Within Lees Centra/Applegreen.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.710308 52.59669179999999),410,Circle K Patrickswell McDermott's,Public Toilet,Restroom facilities at Circle K Patrickswell McDermott's.,Within Circle K Patrickswell McDermott's.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-7.803469199999999 53.7241261),411,Davis's SuperValu Longford,Public Toilet,Restroom facilities at Davis's SuperValu Longford.,Within Davis's SuperValu Longford.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.796098599999999 53.72430749999999),412,Longford Train Station,Public Toilet,Restroom facilities at Longford Train Station.,Within Longford Train Station.,Standard.,6:00 AM - 10:00 PM,toilet_image.png
+POINT (-9.4845839 52.6380083),413,Public Toilets,Public Toilet,Coin-operated public toilet.,Nearby.,Standard.,7:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.150440799999998 53.76887909999999),414,Top Oil Oldcastle Service Station,Public Toilet,Restroom facilities at Top Oil Oldcastle Service Station.,Within Top Oil Oldcastle Service Station.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.9279803 52.3906366),415,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Upstairs at Tesco Superstore.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-8.4967889 51.8955232),416,Public Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.410870999999999 53.40629),417,Maxol M3 Mulhuddart Services,Public Toilet,Restroom facilities at Maxol M3 Mulhuddart Services.,Within Maxol M3 Mulhuddart Services.,Standard.,7:00 AM - 11:00 PM,toilet_image.png
+POINT (-7.6915942 52.3618263),418,Tesco Extra,Public Toilet,Restroom facilities at Tesco Extra.,Within Tesco Extra.,Standard.,9:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.910636900000001 52.1342391),419,Slade Harbour,Public Toilet,Restroom facilities at Slade Harbour.,Within Slade Harbour.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.854755100000002 53.51563460000001),420,Tuam Shopping Centre,Public Toilet,Restroom facilities at Tuam Shopping Centre.,Within Tuam Shopping Centre.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-9.047027000000002 52.44968000000001),421,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,7:00 AM - 10:00 PM,toilet_image.png
+POINT (-9.903721099999999 53.76182129999999),422,Roonagh Pier @ Wild Atlantic Way,Public Toilet,Restroom facilities at Roonagh Pier @ Wild Atlantic Way.,Near Roonagh Pier.,Standard.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-7.543637999999999 52.05445520000001),423,Public Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.3858337 52.2725281),424,Public Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.79328 53.919073),425,Dún na Rí Forest Park Toilets,Public Toilet,Restroom facilities at Dún na Rí Forest Park.,Within Dún na Rí Forest Park.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.5948723 53.3821862),426,Lyreen Manor Shopping Centre Toilets,Public Toilet,Restroom facilities at Lyreen Manor Shopping Centre.,Within Lyreen Manor Shopping Centre.,Standard.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.982889300000002 52.8451625),427,Public toilet,Public Toilet,Coin-operated public toilet.,Nearby.,Standard.,7:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.3483215 52.1972262),428,Carne Public Toilets,Public Toilet,Restroom facilities at Carne.,Near Carne.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.273548 53.273972),429,Marlay Park Toilets,Public Toilet,Restroom facilities at Marlay Park.,Within Marlay Park.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.416333 53.311536),430,Corkagh Park Toilets,Public Toilet,Restroom facilities at Corkagh Park.,Within Corkagh Park.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-8.521569 51.7047222),431,Public Toilet,Public Toilet,Coin-operated public toilet.,Nearby.,Standard.,7:00 AM - 10:00 PM,toilet_image.png
+POINT (-9.0859976 53.25776),432,Ladies Beach Toilets,Public Toilet,Restroom facilities at Ladies Beach.,Near Ladies Beach.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.541020199999999 53.5132413),433,Lidl Dunshaughlin,Public Toilet,Restroom facilities at Lidl Dunshaughlin.,Within Lidl Dunshaughlin.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.5883181 53.38007750000001),434,Shoda Market Cafe,Public Toilet,Restroom facilities at Shoda Market Cafe.,Within Shoda Market Cafe.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.303389 53.2989104),435,MACE Templeogue,Public Toilet,Restroom facilities at MACE Templeogue.,Within MACE Templeogue.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.2320167 53.3321808),436,Avoca Ballsbridge Food Market,Public Toilet,Restroom facilities at Avoca Ballsbridge Food Market.,Within Avoca Ballsbridge Food Market.,Standard.,10:00 AM - 7:00 PM,toilet_image.png
+POINT (-7.909369399999999 53.0901066),437,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.1054386 53.5853667),438,Public Toilet,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-8.464598799999997 51.87872280000001),439,Tramore Valley Park,Public Toilet,Restroom facilities at Tramore Valley Park.,Within Tramore Valley Park.,Standard.,7:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.949504999999999 54.24152979999999),440,Bogue Londis,Public Toilet,Restroom facilities at Bogue Londis.,Within Bogue Londis.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.958794999999999 54.25888699999999),441,Maxol,Public Toilet,Restroom facilities at Maxol.,Within Maxol.,Standard.,9:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.9597913 54.2636809),442,Circle K Mullamurphy,Public Toilet,Restroom facilities at Circle K Mullamurphy.,Within Circle K Mullamurphy.,Standard.,6:00 AM - 10:00 PM,toilet_image.png
+POINT (-10.0154791 51.8050524),443,Staigue Stone Fort,Public Toilet,Restroom facilities at Staigue Stone Fort.,Near Staigue Stone Fort.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-10.1047638 52.0244318),444,Public Toilet,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.310946800000001 53.3763908),445,Aldi,Public Toilet,Restroom facilities at Aldi.,Within Aldi.,Standard.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.950878599999999 55.0502151),446,Limavady public toilets,Public Toilet,Restroom facilities at Limavady public toilets.,Within Limavady.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.718458199999999 55.1878015),447,Public Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-7.472362700000001 54.7845804),448,Public toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-7.2333789 54.7177471),449,Gortin public toilets.,Public Toilet,Restroom facilities at Gortin public toilets.,Within Gortin.,Standard.,10:00 AM - 5:00 PM,toilet_image.png
+POINT (-7.300831100000001 54.598949),450,Omagh public toilets,Public Toilet,Restroom facilities at Omagh public toilets.,Within Omagh.,Standard.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.0592235 54.17945899999999),451,Public Toilet,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-5.902500600000002 54.66398470000001),452,Public Toilets Hazelbank Park,Public Toilet,Restroom facilities at Hazelbank Park.,Within Hazelbank Park.,Standard.,10:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.3725307 54.29262569999999),453,Public Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-7.638689699999999 54.34616479999999),454,Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-5.9560701 54.5747088),455,Public Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-5.9207893 54.5823946),456,Ormeau Park Public Toilets,Public Toilet,Restroom facilities at Ormeau Park.,Within Ormeau Park.,Standard.,10:00 AM - 6:00 PM,toilet_image.png
+POINT (-5.925247700000001 54.5996506),457,Belfast City Council Public Toilet,Public Toilet,Restroom facilities at Belfast City Council.,Within Belfast City Council.,Standard.,9:00 AM - 5:00 PM,toilet_image.png
+POINT (-5.926696600000001 54.6095936),458,Public Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.2422933 55.20816379999999),459,Public Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,10:00 AM - 5:00 PM,toilet_image.png
+POINT (-7.132389099999997 54.42822539999999),460,Augher Public Toilets,Public Toilet,Restroom facilities at Augher.,Within Augher.,Standard.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-7.459382 54.37742309999999),461,Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-7.405577699999999 54.31482399999999),462,Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,9:00 AM - 5:00 PM,toilet_image.png
+POINT (-7.1695802 54.23853399999999),463,Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,10:00 AM - 6:00 PM,toilet_image.png
+POINT (-7.402294099999998 54.15188039999999),464,Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-7.568586799999999 54.1934681),465,Public Toilets,Public Toilet,Restroom facilities at public toilets.,Nearby.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.3558995 54.8887301),466,WC,Public Toilet,Restroom facilities at WC.,Nearby.,Standard.,10:00 AM - 5:00 PM,toilet_image.png
+POINT (-7.945201399999998 52.885143),467,Barack Obama Plaza,Public Toilet,Restroom facilities at Barack Obama Plaza.,Within Barack Obama Plaza.,Standard.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-8.198384899999999 52.8703866),468,Tesco Superstore,Public Toilet,Restroom facilities at Tesco Superstore.,Within Tesco Superstore.,Standard.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-6.059133368839224 53.141490216383126),469,Greystones South Beach Car Park,Public Toilet,Restroom facilities at Greystones South Beach Car Park.,Within Greystones South Beach Car Park.,Standard.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-8.361463 54.950428),470,Public Toilets Dungloe,Public Toilet,,Within Dungloe.,Accessible.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-8.790534799999998 52.5551087),471,Adare Play Ground,Public Toilet,Self-cleaning Portaloo in carpark.,Within Adare.,Accessible.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.772080099999999 52.7424048),472,Nolan's Service Station,Public Toilet,,Nearby.,Accessible.,24 Hours,toilet_image.png
+POINT (-5.808250499999999 54.71355209999999),473,Public Toilets,Public Toilet,,Nearby.,Accessible.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.289101499999998 52.7312688),474,Jenkinstown Wood And Walled Garden Walk,Public Toilet,,Within Jenkinstown.,Accessible.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-8.2804113 54.7951207),475,Glenties Public Toilets,Public Toilet,,Within Glenties.,Accessible.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-8.4420685 54.9831633),476,Arranmore Ferry Pier,Public Toilet,"Free Toilet beside the ferry pier, yes accessible. Men’s/women’s and accessible.",Near Arranmore Ferry Pier.,Accessible.,7:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.249314000000001 54.098687),477,Public toilet,Public Toilet,,Nearby.,Accessible.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.214990899999999 53.4447684),478,Tesco Superstore,Public Toilet,,Within Tesco Superstore.,Accessible.,9:00 AM - 10:00 PM,toilet_image.png
+POINT (-9.8262514 51.54582589999999),479,Sheep's Head Walk - Tooreen Turning Point,Public Toilet,,Near Tooreen Turning Point.,Accessible.,8:00 AM - 5:00 PM,toilet_image.png
+POINT (-10.0775302 53.9749206),480,Keel beach public toilets,Public Toilet,,Near Keel Beach.,Accessible.,10:00 AM - 6:00 PM,toilet_image.png
+POINT (-6.320135000000001 54.7504349),481,Randalstown public toilets.,Public Toilet,,Within Randalstown.,Accessible.,9:00 AM - 6:00 PM,toilet_image.png
+POINT (-8.664271099999999 54.6265271),482,Slieve League Car Park,Public Toilet,,Within Slieve League.,Accessible.,8:00 AM - 7:00 PM,toilet_image.png
+POINT (-8.914187099999998 53.3669497),483,H91 E7F4,Public Toilet,,Near H91 E7F4.,Accessible.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-7.7999662 53.7255933),484,Public Toilet,Public Toilet,Pay to use.,Nearby.,Accessible.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-8.710078 51.635197),485,Courtmacsherry Public Toilets,Public Toilet,,Within Courtmacsherry.,Accessible.,10:00 AM - 5:00 PM,toilet_image.png
+POINT (-8.6472008 52.640473),486,Crescent Shopping Centre Toilets,Public Toilet,,Within Crescent Shopping Centre.,Accessible.,9:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.540958 53.858254),487,Ardee Public Toilets,Public Toilet,Toilets are located on the left hand side of the library building exterior. Street sign pointing to them. They’re open and kept in reasonable condition. Wheelchair bathroom also there.,Near Ardee.,Accessible.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-8.9468571 53.3406448),488,Hughes's SuperValu Claregalway,Public Toilet,Downstairs bathroom can be seen when you enter the back entrance to your right. When you enter front entrance there is a stairs to your right go up the stairs go straight and take the right turn at the end. Bathroom should be 2nd/3rd door on the right.,Within Claregalway.,Accessible.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.319166700000001 54.99472220000001),489,Foyleside Shopping Centre,Public Toilet,Modern public toilet facilities.,Within Foyleside Shopping Centre.,Accessible.,9:00 AM - 9:00 PM,toilet_image.png
+POINT (-7.3206394 54.9957848),490,Richmond Shopping Centre,Public Toilet,Clean and well-maintained restrooms.,Within Richmond Shopping Centre.,Accessible.,9:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.755753999999999 52.4123133),491,St Michaels church,Public Toilet,Public restroom located near St Michaels church.,Near St Michaels church.,Accessible.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-8.448025699999997 54.83838240000001),492,Pirates of the Coffeebean,Public Toilet,Convenient toilets available.,Within Pirates of the Coffeebean.,Accessible.,10:00 AM - 7:00 PM,toilet_image.png
+POINT (-8.5912023 51.8891231),493,CastleWest Shopping Centre Toilets,Public Toilet,Toilet facilities in CastleWest Shopping Centre.,Within CastleWest Shopping Centre.,Accessible.,9:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.317565 53.31594699999999),494,Ashleaf Shopping Centre,Public Toilet,Public restroom in Ashleaf Shopping Centre.,Within Ashleaf Shopping Centre.,Accessible.,10:00 AM - 6:00 PM,toilet_image.png
+POINT (-8.7277147 54.05558120000001),495,Daybreak/Top Oil,Public Toilet,Clean restrooms available at Daybreak/Top Oil.,Within Daybreak/Top Oil.,Accessible.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-8.8002509 53.9617832),496,MACE Charlestown,Public Toilet,Restroom facilities at MACE Charlestown.,Within MACE Charlestown.,Accessible.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-7.9724062 55.1838457),497,Public Toilets,Public Toilet,Free to use public toilets.,Nearby.,Accessible.,8:00 AM - 6:00 PM,toilet_image.png
+POINT (-7.0585576 53.3428838),498,Edenderry Shopping Centre,Public Toilet,Convenient restroom facilities in Edenderry Shopping Centre.,Within Edenderry Shopping Centre.,Accessible.,10:00 AM - 8:00 PM,toilet_image.png
+POINT (-6.1626969 53.3948826),499,Donaghmede Shopping Centre Toilets,Public Toilet,Modern restroom facilities in Donaghmede Shopping Centre.,Within Donaghmede Shopping Centre.,Accessible.,9:00 AM - 9:00 PM,toilet_image.png
+POINT (-6.733000400000001 54.11539440000001),500,Circle K Castleblaney,Public Toilet,Circle K Castleblaney offers restroom facilities.,Within Circle K Castleblaney.,Accessible.,8:00 AM - 10:00 PM,toilet_image.png
+POINT (-7.226248000000001 54.1816082),501,Circle K,Public Toilet,Restroom facilities available at Circle K.,Within Circle K.,Accessible.,24 Hours,toilet_image.png
+POINT (-7.227853499999998 54.1802272),502,Applegreen,Public Toilet,Applegreen offers clean restroom facilities.,Within Applegreen.,Accessible.,6:00 AM - 11:00 PM,toilet_image.png
+POINT (-6.2278917 52.6439436),503,Courtown Public Toilets,Public Toilet,Public toilets available in Courtown.,Near Courtown.,Accessible.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.979248699999999 54.41717360000001),504,Daly's SuperValu Aughnacloy,Public Toilet,Restroom facilities at Daly's SuperValu Aughnacloy.,Within Daly's SuperValu Aughnacloy.,Accessible.,8:00 AM - 8:00 PM,toilet_image.png
+POINT (-7.609279399999999 53.341195),505,Clara Filling Station,Public Toilet,Convenient restroom facilities at Clara Filling Station.,Within Clara Filling Station.,Accessible.,10:00 AM - 6:00 PM,toilet_image.png
+POINT (-9.3178057 53.42785189999999),506,Top Oil Oughterard Service Station,Public Toilet,Restroom facilities available at Top Oil Oughterard Service Station.,Within Top Oil Oughterard Service Station.,Accessible.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-6.588386100000001 53.3804433),507,Casey/Nally's SuperValu Maynooth,Public Toilet,Public restrooms located at Casey/Nally's SuperValu Maynooth.,Within Casey/Nally's SuperValu Maynooth.,Accessible.,8:00 AM - 9:00 PM,toilet_image.png
+POINT (-8.5823624 52.2205457),508,Doneraile Park Toilets,Public Toilet,Restroom facilities available at Doneraile Park.,Within Doneraile Park.,Accessible.,9:00 AM - 7:00 PM,toilet_image.png
+POINT (-8.194543 52.8634036),509,Lidl,Public Toilet,A popular retail store offering a variety of products.,Shopping district,Accessible,"Mon-Sat: 9am-9pm, Sun: 10am-6pm",toilet_image.png
+POINT (-6.2614631 53.82717359999999),510,Port Beach,Public Toilet,A beautiful sandy beach perfect for relaxation and recreation.,Nearby coastal area,Accessible,Open 24/7,toilet_image.png
+POINT (-6.2210367 53.7977393),511,Port Oriel Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Port Oriel,Accessible,Open during daylight hours,toilet_image.png
+POINT (-9.197799 54.2332393),512,Ross Beach Public Toilets,Public Toilet,Public toilets conveniently located near Ross Beach.,Near Ross Beach,Accessible,Open daily,toilet_image.png
+POINT (-8.4207923 51.8966605),513,Circle K,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Main road,Accessible,Open 24/7,toilet_image.png
+POINT (-8.9579285 54.2918565),514,Public Toilets - O'Dowd Castle,Public Toilet,Public toilets near O'Dowd Castle.,Near O'Dowd Castle,Accessible,Open during daylight hours,toilet_image.png
+POINT (-7.9001929 53.41508409999999),515,Smyths Toys Superstores,Public Toilet,A large toy store offering a wide range of toys and games.,Shopping mall,Accessible,"Mon-Sat: 9am-8pm, Sun: 10am-6pm",toilet_image.png
+POINT (-8.656468 52.633091),516,Maxol Service Station,Public Toilet,A private gas station in Dooradoyle.,Dooradoyle area,Accessible,Open 24/7,toilet_image.png
+POINT (-9.280230000000001 53.85026999999999),517,Circle K Castlebar Londis,Public Toilet,A gas station offering fuel and convenience items.,Nearby intersection,Accessible,Open 24/7,toilet_image.png
+POINT (-9.284866500000001 53.8568928),518,Mulroy's Filling Station,Public Toilet,A filling station offering fuel and basic amenities.,Main road,Accessible,Open 24/7,toilet_image.png
+POINT (-9.3017671 53.84839479999999),519,Corrib Oil Castlebar Petrol Station,Public Toilet,A petrol station providing fuel and convenience items.,Near Castlebar,Accessible,Open 24/7,toilet_image.png
+POINT (-7.3916694 52.5423538),520,Public Toilets Callan,Public Toilet,Public toilets available for use by visitors and locals.,Callan town center,Accessible,Open during daylight hours,toilet_image.png
+POINT (-9.118786055535722 51.565337675284894),521,Glandore Gardens Toilets,Public Toilet,Public toilets located in Glandore Gardens.,Glandore Gardens,Accessible,Open during daylight hours,toilet_image.png
+POINT (-9.520684 53.8020627),522,Maxol Service Station,Public Toilet,"A private gas station on Newport Road, with toilets in the middle of the seating area.\nPlease do support them when using toilet :)",Newport Road,Accessible,Open 24/7,toilet_image.png
+POINT (-9.495295899999999 53.8039436),523,Corrib Oil Westport Petrol Station,Public Toilet,Private toilets around the back on the left-hand side. Open most of the day until after 5pm. Then you have to request the key. Please do purchase something small to support them!,Westport area,Accessible,Open during operating hours,toilet_image.png
+POINT (-6.2668937 53.2897123),524,Toilets Nutgrove Shopping Centre,Public Toilet,Public toilets available inside Nutgrove Shopping Centre.,Nutgrove Shopping Centre,Accessible,Open during shopping center hours,toilet_image.png
+POINT (-9.5451112 53.7991079),525,Centra The Quay,Public Toilet,"A convenience store located at The Quay, offering a variety of products.",The Quay area,Accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-6.4045893 53.9981612),526,Tesco Extra,Public Toilet,"A large retail store offering groceries, clothing, and household items.",Retail park,Accessible,"Mon-Sat: 8am-10pm, Sun: 10am-6pm",toilet_image.png
+POINT (-6.2411149 52.5140257),527,Morriscastle Public Toilets,Public Toilet,Public toilets located near Morriscastle Beach.,Near Morriscastle Beach,Accessible,Open during daylight hours,toilet_image.png
+POINT (-7.7986726 52.9552049),528,Roscrea Shopping Centre,Public Toilet,A shopping center offering a variety of stores and services.,Shopping center area,Accessible,"Mon-Sat: 9am-8pm, Sun: 11am-6pm",toilet_image.png
+POINT (-6.7188364 55.1832677),529,portstewart town hall,Public Toilet,Female and Male toilets beside the crescent/library,Portstewart town hall,Accessible,Open during operating hours,toilet_image.png
+POINT (-9.6532958 52.6777616),530,Kilkee Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Kilkee area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-5.8841716 54.6809819),531,Loughshore Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Loughshore area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-8.2125214 52.86169659999999),532,Daybreak Cleary's,Public Toilet,A convenience store offering a variety of products.,Near Cleary's,Accessible,Mon-Sun: 6am-10pm,toilet_image.png
+POINT (-8.68025824453436 52.631824914042554),533,Mungret Park Toilet,Public Toilet,Coin-operated public toilet located right beside the playground.,Mungret Park,Accessible,Open during park hours,toilet_image.png
+POINT (-7.3117293 54.9979836),534,Ebrington Square,Public Toilet,"Three toilets beside car park, all with disabled access.",Beside Ebrington Square,Accessible,Open during operating hours,toilet_image.png
+POINT (-8.467371500000002 54.2620151),535,Innisfree Service Station,Public Toilet,A service station offering fuel and convenience items.,Near Innisfree,Accessible,Open 24/7,toilet_image.png
+POINT (-6.267678 53.337481),536,Kevin Street Library,Public Toilet,"A public library with varying opening hours, check schedule for details.",Kevin Street,Accessible,Mon: 1pm-8pm,toilet_image.png
+POINT (-8.4472687 51.9161498),537,Dunnes Stores,Public Toilet,A retail store offering a variety of products.,Shopping district,Accessible,"Mon-Sat: 9am-9pm, Sun: 10am-7pm",toilet_image.png
+POINT (-6.3526886 53.30949330000001),538,Applegreen,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Main road,Accessible,Open 24/7,toilet_image.png
+POINT (-10.0582885 51.6322871),539,Ballydonegan Beach,Public Toilet,A beautiful sandy beach perfect for relaxation and recreation.,Ballydonegan area,Accessible,Open 24/7,toilet_image.png
+POINT (-6.112715400000001 53.0912068),540,Dunnes Stores,Public Toilet,A retail store offering a variety of products.,Shopping district,Accessible,"Mon-Sat: 9am-9pm, Sun: 10am-7pm",toilet_image.png
+POINT (-8.250932100000002 53.7776356),541,Applegreen,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Main road,Accessible,Open 24/7,toilet_image.png
+POINT (-7.396982299999999 52.73264640000001),542,Mace/Inver,Public Toilet,A gas station offering fuel and convenience items.,Near Mace/Inver,Accessible,Open 24/7,toilet_image.png
+POINT (-7.202150999999999 52.80722),543,Castlecomer Discovery Park,Public Toilet,A recreational park offering various activities and amenities.,Castlecomer area,Accessible,Open during park hours,toilet_image.png
+POINT (-7.4670034 54.0065467),544,Killykeen Forest Park Toilets,Public Toilet,Public toilets available for use by visitors to Killykeen Forest Park.,Killykeen Forest Park,Accessible,Open during daylight hours,toilet_image.png
+POINT (-6.4234987 53.72295829999999),545,Brambles Cafe,Public Toilet,A cafe offering a variety of food and beverages.,Near Brambles Cafe,Accessible,Mon-Sun: 8am-6pm,toilet_image.png
+POINT (-7.548040799999999 54.7927049),546,Mackles Ice Cream,Public Toilet,A cafe offering delicious ice cream and snacks.,Near Mackles Ice Cream,Accessible,Mon-Sun: 10am-8pm,toilet_image.png
+POINT (-9.5540313 53.2889404),547,Centra Costelloe,Public Toilet,A convenience store offering a variety of products.,Costelloe area,Accessible,Mon-Sun: 7am-10pm,toilet_image.png
+POINT (-6.0666362 53.1502099),548,Public Toilets Greystones,Public Toilet,This public toilet has been closed for many years but has recently been refurbished and is now open to the public from 10.30am to 4.30pm. It is directly beside Sweeney's take-away,Greystones,Accessible,Mon-Sun: 10:30am-4:30pm,toilet_image.png
+POINT (-8.0897154 54.6591698),549,Donegal Service Station,Public Toilet,A service station offering fuel and convenience items.,Donegal area,Accessible,Open 24/7,toilet_image.png
+POINT (-6.301512 53.311287),550,Circle K Kimmage,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Kimmage area,Accessible,Open 24/7,toilet_image.png
+POINT (-7.256698200000002 53.9849821),551,H12 WA25,Public Toilet,Random data,Random location,Random accessibility,Random opening hours,toilet_image.png
+POINT (-8.4424621 54.92916030000001),552,Ionad An Mháchaire,Public Toilet,Random data,Random location,Random accessibility,Random opening hours,toilet_image.png
+POINT (-7.087435200000001 53.83393650000001),553,Lidl,Public Toilet,A supermarket offering groceries and household items.,Near Lidl,Accessible,Mon-Sun: 8am-8pm,toilet_image.png
+POINT (-8.312667099999999 51.7755531),554,Public Toilet,Public Toilet,Public toilet available for use by visitors and locals.,Nearby area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-8.46702 54.2689),555,Dunnes Stores,Public Toilet,Upstairs in clothes section,Near Dunnes Stores,Accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-8.2115058 52.8616141),556,Dunnes Stores,Public Toilet,A retail store offering a variety of products.,Near Dunnes Stores,Accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-6.178243200000001 53.3764774),557,MACE Raheny,Public Toilet,"Between the ATM and deli, may have to ask for key",Near MACE Raheny,Accessible,Mon-Sun: 7am-10pm,toilet_image.png
+POINT (-9.107218999999999 53.4690542),558,Joyce's Supermarket Headford,Public Toilet,A supermarket offering groceries and household items.,Headford area,Accessible,Mon-Sun: 8am-9pm,toilet_image.png
+POINT (-9.105922999999999 53.467834),559,Centra Headford,Public Toilet,A convenience store offering a variety of products.,Headford area,Accessible,Mon-Sun: 7am-10pm,toilet_image.png
+POINT (-6.3174541 53.28276049999999),560,SuperValu Knocklyon,Public Toilet,A supermarket offering groceries and household items.,Knocklyon area,Accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-8.2942968 51.80261609999999),561,La Scala,Public Toilet,A restaurant serving a variety of dishes.,Near La Scala,Accessible,Mon-Sun: 12pm-10pm,toilet_image.png
+POINT (-8.1745447 51.9178568),562,Hurley's SuperValu Midleton,Public Toilet,A supermarket offering groceries and household items.,Midleton area,Accessible,Mon-Sun: 8am-9pm,toilet_image.png
+POINT (-8.4882863 51.8835777),563,Ryan's SuperValu Togher,Public Toilet,A supermarket offering groceries and household items.,Togher area,Accessible,Mon-Sun: 8am-9pm,toilet_image.png
+POINT (-8.4716107 51.8989193),564,Dunnes Stores,Public Toilet,On the top floor beside the cafe,Near Dunnes Stores,Accessible,Mon-Sun: 9am-9pm,toilet_image.png
+POINT (-8.175613799999999 52.4787268),565,Tipperary Town Plaza,Public Toilet,Random data,Random location,Random accessibility,Random opening hours,toilet_image.png
+POINT (-8.1693686 52.47485210000001),566,Amber Service Station,Public Toilet,A service station offering fuel and convenience items.,Amber area,Accessible,Open 24/7,toilet_image.png
+POINT (-8.1674914 52.4743338),567,Applegreen,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Main road,Accessible,Open 24/7,toilet_image.png
+POINT (-8.1772984 52.4784513),568,Tipp Town Shopping Centre,Public Toilet,A shopping center offering various stores and amenities.,Tipp Town area,Accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-7.3194165 54.4971124),569,Fintona public toilets,Public Toilet,Public toilets available for use by visitors and locals.,Fintona area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-7.6489856 54.34885489999999),570,Toilets,Public Toilet,Random data,Random location,Random accessibility,Random opening hours,toilet_image.png
+POINT (-7.724784099999999 54.5235602),571,Kesh Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Kesh area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-9.632289700000001 52.0404433),572,Public Toilet,Public Toilet,Public toilet available for use by visitors and locals.,Random location,Accessible,Open during daylight hours,toilet_image.png
+POINT (-9.9814989 52.142418),573,Public Toilet,Public Toilet,Public toilet available for use by visitors and locals.,Random location,Accessible,Open during daylight hours,toilet_image.png
+POINT (-6.297876100000001 53.2959675),574,Rathfarnham Shopping Centre,Public Toilet,On the ground floor at the stair well,Rathfarnham area,Accessible,Mon-Sun: 9am-6pm,toilet_image.png
+POINT (-9.2856383 53.11789650000001),575,Fanore Beach Public Toilets,Public Toilet,Public toilets available for use by visitors to Fanore Beach.,Fanore Beach area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-7.8708717 54.2965044),576,Belcoo Public Toilets,Public Toilet,Public toilets available for use by visitors to Belcoo.,Belcoo area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-6.306932999999999 53.41686),577,Applegreen,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Main road,Accessible,Open 24/7,toilet_image.png
+POINT (-6.3331964 53.3761543),578,SuperValu Rathborne,Public Toilet,A supermarket offering groceries and household items.,Rathborne area,Accessible,Mon-Sun: 7am-10pm,toilet_image.png
+POINT (-6.4648369 53.3681007),579,Playground - St. Catherine's Park,Public Toilet,Random data,Random location,Random accessibility,Random opening hours,toilet_image.png
+POINT (-6.6861835 53.6542036),580,Navan Shopping Centre Toilets,Public Toilet,Random data,Random location,Random accessibility,Random opening hours,toilet_image.png
+POINT (-8.090505000000002 54.61516700000001),581,Robert Kee Service Station,Public Toilet,A service station offering fuel and convenience items.,Robert Kee area,Accessible,Open 24/7,toilet_image.png
+POINT (-6.5411733 53.8565244),582,Lanney's SuperValu Ardee,Public Toilet,A supermarket offering groceries and household items.,Ardee area,Accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.416462900000001 53.9317047),583,Applegreen Castlebellingham - Northbound,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Castlebellingham area,Accessible,Open 24/7,toilet_image.png
+POINT (-6.2583412 53.63761),584,Circle K,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Near Circle K,Accessible,Open 24/7,toilet_image.png
+POINT (-7.369448 52.139674),585,Bunmahon Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Bunmahon area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-6.247418699999999 53.6974438),586,Tesco Superstore,Public Toilet,A retail store offering a variety of products.,Near Tesco Superstore,Accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-5.5486637 54.3817401),587,Public Toilet,Public Toilet,Public toilet available for use by visitors and locals.,Nearby area,Accessible,Pay to use,toilet_image.png
+POINT (-5.472272799999999 54.4363475),588,Toilet,Public Toilet,Random data,Random location,Random accessibility,Random opening hours,toilet_image.png
+POINT (-5.616827000000001 54.6764072),589,Groomsport Harbour Public toilets,Public Toilet,Public toilets available for use by visitors and locals.,Groomsport Harbour area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-5.5322079 54.6348183),590,The Commons Public Toilet,Public Toilet,Public toilet available for use by visitors and locals.,The Commons area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-5.6521946 54.6655433),591,Ballyholme Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Ballyholme area,Accessible,Open during daylight hours,toilet_image.png
+POINT (-7.591112899999998 54.70656049999999),592,SPAR Dergvalley Castlederg,Public Toilet,A retail store offering a variety of products.,Near SPAR Dergvalley Castlederg,Accessible,Mon-Sun: 8am-10pm,toilet_image.png
+POINT (-6.974744599999998 52.7426123),593,"Arboretum Home & Garden Heaven, private, Inspirational Gardens & Rachel's Café",Public Toilet,Private facility,Near Arboretum Home & Garden Heaven,Accessible,Unknown,toilet_image.png
+POINT (-7.136728999999998 52.25035370000001),594,Waterford Shopping Centre,Public Toilet,A shopping center offering various stores and amenities.,Waterford area,Accessible,Mon-Sun: 9am-8pm,toilet_image.png
+POINT (-5.8193743 54.8499811),595,Public Toilet,Public Toilet,Public toilet available for use by visitors and locals.,Nearby area,Accessible,Unknown,toilet_image.png
+POINT (-5.815681199999999 54.8520851),596,Public Toilets Larne (2),Public Toilet,Public toilets available for use by visitors and locals.,Larne area,Accessible,Unknown,toilet_image.png
+POINT (-8.2789784 52.92451),597,Dromineer Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Dromineer area,Accessible,Unknown,toilet_image.png
+POINT (-6.0433337 52.9812125),598,"Wicklow Town Public Toilet,public,Pay to use",Public Toilet,Public toilet available for use by visitors and locals.,Wicklow Town area,Accessible,Pay to use,toilet_image.png
+POINT (-5.7621346 54.39758),599,Crossgar Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Crossgar area,Accessible,Unknown,toilet_image.png
+POINT (-5.698156200000001 54.5934166),600,Newtownards Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Newtownards area,Accessible,Unknown,toilet_image.png
+POINT (-10.0180042 53.4890638),601,Clifden Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Clifden area,Accessible,Unknown,toilet_image.png
+POINT (-6.984197 52.1920663),602,Woodstown Beach Public Toilets,Public Toilet,Public toilets available for use by visitors to Woodstown Beach.,Woodstown Beach area,Accessible,Unknown,toilet_image.png
+POINT (-7.7285197 54.95373250000001),603,"Bus Eireann Letterkenny,public,it is accessible. Usually very clean and has toilet paper. I have used this toilet many a time even when I wasn't waiting on a bus/using the bus services",Public Toilet,Public toilets available for use by visitors and locals.,Bus Eireann Letterkenny area,Accessible,Unknown,toilet_image.png
+POINT (-6.3720939 53.2866051),604,"The Square Tallaght Toilets,public,Free to use",Public Toilet,Public toilets available for use by visitors and locals.,The Square Tallaght area,Accessible,Free to use,toilet_image.png
+POINT (-7.4104339 52.3479397),605,"Public Toilet,public, Pay to use - 25c for entry",Public Toilet,Public toilets available for use by visitors and locals.,Nearby area,Accessible,Pay to use - 25c for entry,toilet_image.png
+POINT (-6.1876157 53.1847703),606,"Powerscourt House & Gardens Toilets,Free to use",Public Toilet,Public toilets available for use by visitors and locals.,Powerscourt House & Gardens area,Accessible,Free to use,toilet_image.png
+POINT (-8.20751 53.059362),607,Terryglass Harbour Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Terryglass Harbour area,Accessible,Unknown,toilet_image.png
+POINT (-8.9421529 53.3037576),608,Topaz Glynn's / Circle K,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Near Topaz Glynn's / Circle K,Accessible,Open 24/7,toilet_image.png
+POINT (-9.0720807 53.2772855),609,Topaz Arch,Public Toilet,Random data,Random location,Random accessibility,Random opening hours,toilet_image.png
+POINT (-9.2098398 53.2492481),610,"Slemon's Daybreak,priavte,Outside service station. Must go inside for key",Public Toilet,Private facility,Near Slemon's Daybreak,Accessible,Unknown,toilet_image.png
+POINT (-9.0486111 53.2758333),611,"TK Maxx,public,Toilets are upstairs",Public Toilet,Public toilets available for use by visitors and locals.,Near TK Maxx,Accessible,Unknown,toilet_image.png
+POINT (-9.0992129 53.2730129),612,"Harvey Norman Galway,public,Upstairs accessible by elevator and escalator",Public Toilet,Public toilets available for use by visitors and locals.,Near Harvey Norman Galway,Accessible,Unknown,toilet_image.png
+POINT (-9.8244648 53.769176),613,Carrowmore Beach Public Toilets,Public Toilet,Public toilets available for use by visitors to Carrowmore Beach.,Carrowmore Beach area,Accessible,Unknown,toilet_image.png
+POINT (-9.054075400000002 53.2697482),614,Spanish Arch Portaloos,Public Toilet,Public toilets available for use by visitors and locals.,Spanish Arch area,Accessible,Unknown,toilet_image.png
+POINT (-8.87003 51.596714),615,Inchydoney Beach Toilets,Public Toilet,Public toilets available for use by visitors to Inchydoney Beach.,Inchydoney Beach area,Accessible,Unknown,toilet_image.png
+POINT (-9.902697 52.1120176),616,Cromane Strand Toilets,Public Toilet,Public toilets available for use by visitors to Cromane Strand.,Cromane Strand area,Accessible,Unknown,toilet_image.png
+POINT (-9.9763291 52.0541089),617,Rossbeigh Strand Toilets,Public Toilet,Public toilets available for use by visitors to Rossbeigh Strand.,Rossbeigh Strand area,Accessible,Unknown,toilet_image.png
+POINT (-9.7711892 53.7764775),618,Old Head Beach Car Park,Public Toilet,Public toilets available for use by visitors to Old Head Beach.,Old Head Beach area,Accessible,Unknown,toilet_image.png
+POINT (-7.780505799999999 52.9580818),619,"Mulrooneys Gala Shop & Inver Service Station,public,Not the cleanest but open to the public. Wheelchair friendly. Outside the shop so you don't have to go inside or look for a key.",Public Toilet,Public toilets available for use by visitors and locals.,Near Mulrooneys Gala Shop & Inver Service Station,Accessible,Unknown,toilet_image.png
+POINT (-6.0825 53.5475),620,"Public Toilet,public,Behind Cove Cottage",Public Toilet,Public toilets available for use by visitors and locals.,Behind Cove Cottage area,Accessible,Unknown,toilet_image.png
+POINT (-6.359700799999999 53.2990477),621,Kilnamanagh Shopping Centre,Public Toilet,A shopping center offering various stores and amenities.,Kilnamanagh area,Accessible,Unknown,toilet_image.png
+POINT (-8.00187 51.859391),622,Garryvoe Beach Toilets,Public Toilet,Public toilets available for use by visitors to Garryvoe Beach.,Garryvoe Beach area,Accessible,Unknown,toilet_image.png
+POINT (-6.969912300000001 54.2484355),623,Fleming 's SuperValu Monaghan,Public Toilet,A supermarket offering groceries and household items.,Near Fleming's SuperValu Monaghan,Accessible,Unknown,toilet_image.png
+POINT (-6.1656262 53.281865),624,Deansgrange Cemetery Toilet,Public Toilet,Public toilets available for use by visitors to Deansgrange Cemetery.,Deansgrange Cemetery area,Accessible,Unknown,toilet_image.png
+POINT (-8.5720061 54.3078383),625,Rosses Point Toilets,Public Toilet,Public toilets available for use by visitors to Rosses Point.,Rosses Point area,Accessible,Unknown,toilet_image.png
+POINT (-6.167209599999999 53.3882916),626,Kilbarrack Shopping Centre,Public Toilet,A shopping center offering various stores and amenities.,Kilbarrack area,Accessible,Unknown,toilet_image.png
+POINT (-6.3872738 53.7266401),627,Lidl,Public Toilet,A supermarket offering groceries and household items.,Near Lidl,Accessible,Unknown,toilet_image.png
+POINT (-6.16082 53.26644899999999),628,Dunnes Stores,Public Toilet,A retail store offering a variety of products.,Near Dunnes Stores,Accessible,Unknown,toilet_image.png
+POINT (-6.236348899999999 53.4169129),629,Dardistown Crematorium,Public Toilet,Public toilets available for use by visitors to Dardistown Crematorium.,Dardistown Crematorium area,Accessible,Unknown,toilet_image.png
+POINT (-8.9309082 53.26973530000001),630,Tesco Superstore,Public Toilet,A retail store offering a variety of products.,Near Tesco Superstore,Accessible,Unknown,toilet_image.png
+POINT (-6.062579800000001 53.1444314),631,Meridian Point Shopping Centre,Public Toilet,A shopping center offering various stores and amenities.,Meridian Point area,Accessible,Unknown,toilet_image.png
+POINT (-9.677879299999997 52.26292429999999),632,"Manor West Shopping Centre,public,Opposite Tesco upstairs",Public Toilet,A shopping center offering various stores and amenities.,Manor West Shopping Centre area,Accessible,Unknown,toilet_image.png
+POINT (-6.2962718 52.6710624),633,"Spice Retail Home & Garden,public,At the back of the shop near the paint section, ",Public Toilet,A retail store offering a variety of products.,Near Spice Retail Home & Garden,Accessible,Unknown,toilet_image.png
+POINT (-6.107603999999999 53.2856027),634,"Bullock Harbour,public,Portaloos",Public Toilet,Public toilets available for use by visitors to Bullock Harbour.,Bullock Harbour area,Accessible,Unknown,toilet_image.png
+POINT (-8.656286399999999 52.14646579999999),635,Supermac's & Papa John's,Public Toilet,A restaurant serving a variety of dishes.,Near Supermac's & Papa John's,Accessible,Unknown,toilet_image.png
+POINT (-6.2449719 53.6987051),636,"Public Toilets Bettystown,public,50c to use open during the day",Public Toilet,Public toilets available for use by visitors and locals.,Near Bettystown area,Accessible,Unknown,toilet_image.png
+POINT (-6.2973038 53.38259739999999),637,Tesco Extra,Public Toilet,A retail store offering a variety of products.,Near Tesco Extra,Accessible,Unknown,toilet_image.png
+POINT (-6.8825762 52.8024892),638,"Circle K Rathcrogue Junction 5 M9,public,Door between deli and cantina",Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Near Circle K Rathcrogue Junction 5 M9,Accessible,Unknown,toilet_image.png
+POINT (-9.953347199999998 53.80707899999999),639,Clare Island Community Centre,Public Toilet,A community center providing various services and facilities.,Clare Island area,Accessible,Unknown,toilet_image.png
+POINT (-5.9384084 54.6183961),640,Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Nearby area,Accessible,Unknown,toilet_image.png
+POINT (-6.2827122 53.3242318),641,"Mount Jerome Victorian Chapel,public,On the left of the victorian chapel (crematorium) up the Avenue. Wheelchair accessible toilet.",Public Toilet,Public toilets available for use by visitors to Mount Jerome Victorian Chapel.,Mount Jerome Victorian Chapel area,Accessible,Unknown,toilet_image.png
+POINT (-5.890084400000001 54.5956862),642,Connswater Shopping Centre,Public Toilet,A shopping center offering various stores and amenities.,Connswater area,Accessible,Unknown,toilet_image.png
+POINT (-6.2769398 53.3695898),643,"Glasnevin Cemetery Museum Toilets,public, accessible from outside beside the Tower Cafe",Public Toilet,Public toilets available for use by visitors to Glasnevin Cemetery Museum.,Glasnevin Cemetery Museum area,Accessible,Unknown,toilet_image.png
+POINT (-10.0340826 52.3105744),644,Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Nearby area,Accessible,Unknown,toilet_image.png
+POINT (-6.388377300000001 53.5013493),645,Daybreak,Public Toilet,A retail store offering a variety of products.,Near Daybreak,Accessible,Unknown,toilet_image.png
+POINT (-6.272340400000001 53.2692773),646,The Wicklow Way Café,Public Toilet,A restaurant serving a variety of dishes.,Near The Wicklow Way Café,Accessible,Unknown,toilet_image.png
+POINT (-6.175542399999999 53.3695471),647,"Olive’s Room,public,9am to 6pm Monday to Sunday",Public Toilet,A restaurant serving a variety of dishes.,Olive’s Room area,Accessible,9am to 6pm Monday to Sunday,toilet_image.png
+POINT (-6.2670798 53.3439636),648,"City Hall,public,10am to 5pm Monday to Sunday",Public Toilet,Public toilets available for use by visitors to City Hall.,City Hall area,Accessible,10am to 5pm Monday to Sunday,toilet_image.png
+POINT (-6.265021000000001 53.39040199999999),649,Ballymun Library Road Ballymun Dublin 9,Public Toilet,Public toilets available for use by visitors to Ballymun Library.,Ballymun Library area,Accessible,Unknown,toilet_image.png
+POINT (-6.2996629 53.3617347),650,Cabra Library,Public Toilet,A public library offering various books and resources.,Cabra area,Accessible,"Tuesday, Wednesday, Friday & Saturday 10am to 4pm",toilet_image.png
+POINT (-6.212140399999999 53.39634249999999),651,Coolock Library,Public Toilet,A public library offering various books and resources.,Coolock area,Accessible,"Tuesday, Wednesday, Friday & Saturday 10am to 4pm",toilet_image.png
+POINT (-6.173108 53.38001499999999),652,Raheny Library,Public Toilet,A public library offering various books and resources.,Raheny area,Accessible,"Tuesday, Wednesday, Friday & Saturday 10am to 4pm",toilet_image.png
+POINT (-6.3516951 53.34008859999999),653,Ballyfermot Library,Public Toilet,A public library offering various books and resources.,Ballyfermot area,Accessible,"Tuesday, Wednesday, Friday & Saturday 10am to 4pm",toilet_image.png
+POINT (-6.2451938 53.3431398),654,Pearse Street Library,Public Toilet,A public library offering various books and resources.,Pearse Street area,Accessible,"Tuesday, Wednesday, Friday & Saturday 10am to 4pm",toilet_image.png
+POINT (-6.265871000000001 53.324196),655,Rathmines Library,Public Toilet,A public library offering various books and resources.,Rathmines area,Accessible,"Tuesday, Wednesday, Friday & Saturday 10am to 4pm",toilet_image.png
+POINT (-6.2589884 53.3698971),656,Drumcondra Library,Public Toilet,A public library offering various books and resources.,Drumcondra area,Accessible,"Tuesday, Wednesday, Friday & Saturday 10am to 4pm",toilet_image.png
+POINT (-6.230509000000001 53.328127),657,Pembroke Library,Public Toilet,A public library offering various books and resources.,Pembroke area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-6.285241399999999 53.3089573),658,Terenure Library,Public Toilet,A public library offering various books and resources.,Terenure area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-6.321790399999999 53.3186921),659,Walkinstown Library,Public Toilet,A public library offering various books and resources.,Walkinstown area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-6.959638000000001 52.70192369999999),660,Toilet,Public Toilet,A private toilet facility available for public use with a pay-to-use system.,Unknown,"Private, Pay to use","Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-8.436341399999998 51.8780691),661,Circle K Douglas,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Douglas area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-8.508618499999999 51.90260869999999),662,Applegreen,Public Toilet,"A public gas station offering fuel, snacks, and convenience items in Hollyhill.",Hollyhill area,Public,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-8.937635799999997 51.8913287),663,Circle K,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Unknown,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-9.292791699999999 53.85129449999999),664,Maxol Service Station,Public Toilet,A private service station offering fuel and convenience items at Duffy's.,Unknown,Private,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-9.9422448 52.0557637),665,Centra Glenbeigh,Public Toilet,A convenience store offering groceries and household items.,Glenbeigh area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-8.789831300000001 52.5647887),666,Adare Heritage Centre,Public Toilet,A heritage center providing information and exhibits about Adare.,Adare area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-9.460905 51.6797656),667,Bantry Marina Toilets,Public Toilet,Public toilets available for use by visitors to Bantry Marina.,Bantry area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-10.1736738 51.8279643),668,Public Toilets,Public Toilet,Public toilets available for use by visitors and locals.,Unknown,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-8.3917016 51.8196077),669,Maxol Carraig Uí Leighin,Public Toilet,"A gas station offering fuel, snacks, and convenience items.",Unknown,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-8.5071734 54.2113702),670,Whiteside's SuperValu Ballisodare,Public Toilet,A supermarket offering groceries and household items.,Ballisodare area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-9.1524994 54.1159311),671,Dunnes Stores Ballina,Public Toilet,A retail store offering a variety of products in Ballina.,Ballina area,Public,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-9.09632 54.2201249),672,Enniscrone Pier Public Toilets,Public Toilet,Public toilets available for use by visitors to Enniscrone Pier.,Enniscrone area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-8.6318245 54.6235345),673,Teelin Pier Toilets,Public Toilet,Public toilets available for use by visitors to Teelin Pier.,Teelin area,Public,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-6.199135899999999 53.6077001),674,Applegreen Toilets,Public Toilet,Public toilets available at an Applegreen location.,Unknown,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-7.9765439 53.5684121),675,Public Toilets Barley Harbour,Public Toilet,"Public toilets available for use by visitors near Barley Harbour, with limited accessibility and running water.",Barley Harbour area,Public,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-8.4190285 54.7600982),676,Maloney's Texaco Service Station,Public Toilet,A service station providing portaloos for public use.,Unknown,Public,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-6.257516 54.0888685),677,Public Toilets Omeath,Public Toilet,Public toilets available for use by visitors to Omeath.,Omeath area,Accessible,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-6.9611049 52.3888932),678,Manor Four Courts Gala Shop,Public Toilet,A Gala shop offering various items.,Unknown,Unknown,"Tuesday, Wednesday, Thursday, Friday and Saturday 10am to 4pm",toilet_image.png
+POINT (-8.575866399999999 53.9003034),679,Top Oil Ballaghaderreen Towey's Service Station,Public Toilet,"A service station providing fuel, snacks, and convenience items at Top Oil Ballaghaderreen Towey's Service Station.",Ballaghaderreen area,Accessible,Open 24/7,toilet_image.png
+POINT (-6.377799 53.9885462),680,Park Cafe,Public Toilet,A cozy cafe offering a variety of drinks and snacks amidst the scenic beauty of the park.,Park area,Accessible,Tuesday-Saturday: 9am-5pm,toilet_image.png
+POINT (-7.888126619956786 55.158242527899304),681,Toilet at Ards Forest Park Donegal,Public Toilet,"Public toilets available at Ards Forest Park Donegal, with a barrier entry fee for cars, but free entry for pedestrians.",Ards Forest Park Donegal,Public,Tuesday-Sunday: 9am-6pm,toilet_image.png
+POINT (-9.817889899999999 53.3245254),682,Siopa Dowd,Public Toilet,Siopa Dowd at Top Oil Service Station providing various items.,Top Oil Service Station.,Public,"Monday-Saturday: 7am-10pm, Sunday: 8am-9pm",toilet_image.png
+POINT (-6.7477432 53.3403097),683,Donadea Coffee House,Public Toilet,A charming coffee house offering freshly brewed coffee and delicious pastries in Donadea.,Donadea area,Accessible,"Monday-Friday: 8am-6pm, Saturday: 9am-5pm, Sunday: 10am-4pm",toilet_image.png
+POINT (-8.675561000000002 52.34734830000001),684,Amber Charleville,Public Toilet,A retail store offering a variety of products in Charleville.,Charleville area,Accessible,"Monday-Saturday: 9am-8pm, Sunday: 10am-6pm",toilet_image.png
+POINT (-9.502554600000002 52.0194737),685,Muckross House Public Toilets,Public Toilet,Public toilets available for use by visitors to Muckross House.,Muckross area,Public,Monday-Sunday: 9am-6pm,toilet_image.png
+POINT (-9.058175 53.271487),686,Portaloo in Mill St Car Park,Public Toilet,A portable toilet available for public use in Mill St Car Park.,Mill St Car Park,Public,Monday-Sunday: 8am-8pm,toilet_image.png
+POINT (-7.219006200000003 52.2408954),687,Mount Congreve Gardens,Public Toilet,"Mount Congreve Gardens, with public toilets available in the yard area.",Mount Congreve area,Public,Tuesday-Sunday: 9am-5pm,toilet_image.png
+POINT (-7.0628222 54.0670483),688,Argues Applegreen,Public Toilet,"A gas station offering fuel, snacks, and convenience items at Argues Applegreen.",Argues area,Accessible,Monday-Sunday: 7am-10pm,toilet_image.png
+POINT (-6.969275700000001 54.25226139999999),689,Monaghan Bus Station Toilets,Public Toilet,Public toilets available at Monaghan Bus Station.,Monaghan area,Public,Monday-Sunday: 6am-10pm,toilet_image.png
+POINT (-7.356075 54.0095892),690,Maxol Service Station,Public Toilet,"A service station offering fuel, snacks, and convenience items at Maxol Service Station.",Cullies area,Public,Monday-Sunday: 6am-10pm,toilet_image.png
+POINT (-7.031006 53.7968273),691,Top Oil Yore's Garage Virginia,Public Toilet,"A gas station offering fuel, snacks, and convenience items at Top Oil Yore's Garage Virginia.",Virginia area,Public,Monday-Sunday: 7am-9pm,toilet_image.png
+POINT (-6.1317945 53.2941171),692,Public Toilets Dun Laoghaire,Public Toilet,Public toilets available for use in Dun Laoghaire.,Dun Laoghaire area,Public,Tuesday-Saturday: 9am-6pm,toilet_image.png
+POINT (-9.0595698 52.4517201),693,Public Toilet Newcastle West,Public Toilet,Public toilet available for use in Newcastle West.,Newcastle West area,Public,Tuesday-Saturday: 10am-4pm,toilet_image.png
+POINT (-7.7320196 54.9538874),694,The Regional Cultural Centre,Public Toilet,The Regional Cultural Centre with accessible public toilets.,Letterkenny area,Accessible,Tuesday-Saturday: 10am-5pm,toilet_image.png
+POINT (-6.235045 53.3441816),695,Mackenzie's,Public Toilet,A restaurant with accessible toilets available.,Unknown,Accessible,Tuesday-Saturday: 11am-9pm,toilet_image.png
+POINT (-6.2650966 53.27739979999999),696,Lidl,Public Toilet,A supermarket with accessible toilets available.,Unknown,Accessible,Tuesday-Saturday: 8am-10pm,toilet_image.png
+POINT (-6.2680013 53.2924081),697,Homebase - Dublin Nutgrove,Public Toilet,A retail store with accessible toilets available.,Unknown,Accessible,Tuesday-Saturday: 9am-6pm,toilet_image.png
+POINT (-6.3408432 53.280792),698,Firhouse Shopping Centre Toilets,Public Toilet,Public toilets available at Firhouse Shopping Centre.,Firhouse area,Public,Tuesday-Saturday: 10am-4pm,toilet_image.png
+POINT (-9.899472222222222 51.639),699,Bere Island Public Toilets,Public Toilet,Public toilets available for use in Bere Island.,Bere Island area,Public,Tuesday-Saturday: 10am-4pm,toilet_image.png
+POINT (-7.334562699999999 53.5188643),700,Buckleys Centra,Public Toilet,A supermarket with accessible toilets available.,Unknown,Accessible,Tuesday-Saturday: 9am-7pm,toilet_image.png
+POINT (-6.1008837 53.20452359999999),701,Daly Station Bray,Public Toilet,Public toilet available at Daly Station Bray.,Bray area,Public,Tuesday-Saturday: 9am-5pm,toilet_image.png
+POINT (-6.289584700000001 53.35794180000001),702,Lidl Cabra East,Public Toilet,A supermarket with accessible toilets available.,Dublin area,Accessible,Tuesday-Saturday: 8am-10pm,toilet_image.png
+POINT (-7.634051899999999 52.0837786),703,Circle K Dungarvan,Public Toilet,"A gas station offering fuel, snacks, and convenience items at Circle K Dungarvan.",Dungarvan area,Public,Tuesday-Saturday: 7am-9pm,toilet_image.png
+POINT (-8.264627400000002 52.1641261),704,Circle K Fermoy,Public Toilet,"A gas station offering fuel, snacks, and convenience items at Circle K Fermoy.",Fermoy area,Public,Tuesday-Saturday: 6am-10pm,toilet_image.png
+POINT (-8.450052353956048 54.46416934989597),705,Public Toilets Mullaghmore Harbour,Public Toilet,Public toilets available at Mullaghmore Harbour.,Mullaghmore Harbour,Public,Tuesday-Saturday: 10am-4pm,toilet_image.png
+POINT (-6.8129393 52.8571835),706,Duckett's Grove House,Public Toilet,Duckett's Grove House with accessible and clean toilets available.,Duckett's Grove area,Accessible,Tuesday-Saturday: 10am-4pm,toilet_image.png
+POINT (-6.27983 53.35213),707,The Barbers Bar,Public Toilet,Toilets in The Barbers pub available to the public for a €2 charity donation to a local homeless shelter.,The Barbers area,Public,Tuesday-Saturday: 12pm-11pm,toilet_image.png
+POINT (-9.458825100000002 51.56262629999999),708,Ballydehob Community Hall,Public Toilet,Clean and accessible toilets available at Ballydehob Community Hall.,Ballydehob area,Accessible,Tuesday-Saturday: 10am-4pm,toilet_image.png
+POINT (-6.647404 55.2031873),709,East Strand Pay and Display Car Park,Public Toilet,Public toilets available at East Strand Pay and Display Car Park.,East Strand area,Public,Tuesday-Saturday: 10am-4pm,toilet_image.png
+POINT (-5.806616399999999 54.716216),710,De Courcy Centre,Public Toilet,Public toilets available at De Courcy Centre.,De Courcy area,Public,Tuesday-Saturday: 10am-4pm,toilet_image.png
+POINT (-6.4309941 53.2952406),711,Circle K City Avenue,Public Toilet,"A gas station offering fuel, snacks, and convenience items at Circle K City Avenue.",City Avenue area,Public,Tuesday-Saturday: 10am-6pm,toilet_image.png
+POINT (-6.4229098 53.28319289999999),712,Citywest Shopping Centre,Public Toilet,Public toilets available at Citywest Shopping Centre.,Citywest area,Public,Tuesday-Saturday: 10am-8pm,toilet_image.png
+POINT (-6.456439499999999 53.2842142),713,Avoca Rathcoole,Public Toilet,A retail store with accessible toilets available at Avoca Rathcoole.,Rathcoole area,Accessible,Tuesday-Saturday: 9am-7pm,toilet_image.png
+POINT (-5.801092000000001 54.717066),714,Marine Gardens,Public Toilet,"A beautiful public park with lush greenery, walking paths, and benches for visitors to relax and enjoy nature.",Nearby the coastal area,Accessible,"Daily, 9am - 6pm",toilet_image.png
+POINT (-7.636602200000001 54.3436645),715,Erneside Shopping Centre,Public Toilet,"A modern shopping center featuring a variety of shops, restaurants, and entertainment options.",City center,Accessible,"Monday - Saturday: 9am - 8pm, Sunday: 11am - 6pm",toilet_image.png
+POINT (-7.6320491 54.340612),716,Asda Enniskillen Superstore,Public Toilet,"A large supermarket offering a wide range of groceries, household items, and electronics.",Commercial area,Accessible,Monday - Sunday: 7am - 10pm,toilet_image.png
+POINT (-6.4208322 53.2907159),717,Lean Bean,Public Toilet,"A cozy cafe serving freshly brewed coffee, sandwiches, and pastries in a relaxed atmosphere.",Downtown area,Accessible,"Monday - Friday: 7am - 5pm, Saturday: 8am - 3pm, Closed on Sunday",toilet_image.png
+POINT (-6.418069999999999 53.2856476),718,Lidl,Public Toilet,"A well-known supermarket chain offering affordable groceries, fresh produce, and household essentials.",Residential area,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 9am - 7pm",toilet_image.png
+POINT (-6.2480209 53.34332740000001),719,Dublin Pearse,Public Toilet,A major train station providing commuter and intercity rail services.,City center,Accessible,24-Jul,toilet_image.png
+POINT (-6.248465 53.7579577),720,Seapoint Bay Beach,Public Toilet,"A popular sandy beach with clean waters, suitable for swimming and sunbathing.",Coastal area,Accessible,"Daily, Dawn to Dusk",toilet_image.png
+POINT (-9.069356 53.263391),721,Portable Toilet,Public Toilet,A temporary toilet facility available for public use in outdoor events or construction sites.,Public event area,Accessible,24-Jul,toilet_image.png
+POINT (-6.1017355 53.3921681),722,Burrow Beach Toilets,Public Toilet,"Public toilets located near the main entrance of Burrow Beach, providing facilities for beachgoers.",Beach area,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-7.190534 53.864841),723,Circle K Express,Public Toilet,"A convenient gas station offering fuel, snacks, and refreshments for travelers on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-7.800874100000001 52.9580546),724,Texaco Spar Roscrea,Public Toilet,"A roadside gas station providing fuel, snacks, and convenience items for motorists.",Main road,Accessible,Monday - Sunday: 6am - 10pm,toilet_image.png
+POINT (-7.258424699999998 52.1740376),725,Anne Valley Nature And Wildlife Walk,Public Toilet,"A scenic nature reserve with walking trails, birdwatching, and picnic areas.",Rural area,Accessible,"Daily, Sunrise to Sunset",toilet_image.png
+POINT (-6.5683842 52.51086099999999),726,St. Mary's Cemetery,Public Toilet,"A historic cemetery with burial plots, tombstones, and memorial gardens.",Nearby the church,Accessible,"Daily, 9am - 6pm",toilet_image.png
+POINT (-6.324343099999999 53.010461),727,Glendalough Visitor Centre,Public Toilet,"A visitor center providing information, maps, and guided tours for visitors exploring Glendalough.",Near the entrance of Glendalough,Accessible,Monday - Sunday: 9am - 5pm,toilet_image.png
+POINT (-9.301855999999999 53.24440989999999),728,Centra Spiddal,Public Toilet,"A Centra convenience store offering groceries, snacks, and household essentials in Spiddal.",Town center,Accessible,"Monday - Saturday: 7am - 10pm, Sunday: 8am - 9pm",toilet_image.png
+POINT (-7.939240299999998 53.4328537),729,Applegreen,Public Toilet,"A popular gas station chain providing fuel, snacks, and convenience items for travelers.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.247752299999999 53.75978380000001),730,Termonfeckin Beach,Public Toilet,"A sandy beach with facilities for swimming, sunbathing, and picnicking.",Coastal area,Accessible,"Daily, Sunrise to Sunset",toilet_image.png
+POINT (-8.904883599999998 51.62100539999999),731,Dunnes Stores Clonakilty,Public Toilet,"A Dunnes Stores retail outlet offering a wide range of clothing, groceries, and household goods in Clonakilty.",City center,Accessible,"Monday - Saturday: 9am - 7pm, Sunday: 10am - 6pm",toilet_image.png
+POINT (-8.5074382 51.8809011),732,Wilton Shopping Centre,Public Toilet,"A modern shopping mall featuring a variety of shops, restaurants, and entertainment options.",Suburban area,Accessible,"Monday - Saturday: 9am - 8pm, Sunday: 10am - 6pm",toilet_image.png
+POINT (-8.268513699999998 52.2627927),733,Tesco Superstore,Public Toilet,"A Tesco supermarket offering groceries, fresh produce, and household items.",Retail park,Accessible,Monday - Sunday: 7am - 10pm,toilet_image.png
+POINT (-8.2708211 52.2613808),734,Lidl,Public Toilet,"A Lidl supermarket providing affordable groceries, fresh produce, and household essentials.",Retail area,Accessible,"Monday - Saturday: 8am - 10pm, Sunday: 9am - 8pm",toilet_image.png
+POINT (-8.485126300000001 54.27649),735,LMS Xpress,Public Toilet,"A gas station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.220224399999998 53.45951059999999),736,Swords Castle,Public Toilet,A medieval castle with guided tours and events for visitors to learn about its history.,City center,Accessible,"Tuesday - Sunday: 10am - 5pm, Closed on Monday",toilet_image.png
+POINT (-6.241677900000001 53.2865247),737,Marks and Spencer,Public Toilet,"A Marks and Spencer retail store offering a wide range of clothing, home goods, and food items.",Shopping district,Accessible,"Monday - Saturday: 9am - 8pm, Sunday: 10am - 6pm",toilet_image.png
+POINT (-8.871690899999999 53.50825529999999),738,N17 Plaza Tuam,Public Toilet,"A plaza area with shops, restaurants, and services for travelers and locals.",Main road,Accessible,Monday - Sunday: 8am - 10pm,toilet_image.png
+POINT (-8.8746757 53.5301744),739,Top Oil Airglooney Service Station,Public Toilet,"A Top Oil service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-9.6396681 53.7791817),740,Coffey's Barista,Public Toilet,"A cozy cafe serving freshly brewed coffee, pastries, and light meals in a welcoming atmosphere.",Town center,Accessible,"Monday - Friday: 7am - 6pm, Saturday: 8am - 4pm, Closed on Sunday",toilet_image.png
+POINT (-8.928929 53.27298),741,Oranmore Town Centre,Public Toilet,"A vibrant town center with shops, restaurants, and entertainment options for residents and visitors.",Commercial area,Accessible,"Monday - Saturday: 9am - 7pm, Sunday: 11am - 5pm",toilet_image.png
+POINT (-8.930185999999999 53.268153),742,Centra Oranmore,Public Toilet,"A Centra convenience store offering groceries, snacks, and household essentials in Oranmore.",Main street,Accessible,Monday - Sunday: 7am - 10pm,toilet_image.png
+POINT (-6.050484700000001 52.98304450000001),743,Tesco Superstore,Public Toilet,"A Tesco supermarket offering groceries, fresh produce, and household items.",Retail park,Accessible,Monday - Sunday: 7am - 11pm,toilet_image.png
+POINT (-6.916707100000001 53.1540269),744,Kildare Village,Public Toilet,"A luxury retail outlet featuring designer brands, boutiques, and cafes in a village-style setting.",Shopping village,Accessible,"Monday - Saturday: 9am - 8pm, Sunday: 10am - 7pm",toilet_image.png
+POINT (-6.1616998 53.2605344),745,Cabinteely Park Toilets,Public Toilet,Public toilets available at Cabinteely Park.,Park area,Accessible,"Daily, 9am - 6pm",toilet_image.png
+POINT (-6.134323600000001 53.2943137),746,Dun Laoghaire Rathdown County Council,Public Toilet,Dun Laoghaire Rathdown County Council offices providing local government services.,Town center,Accessible,Monday - Friday: 9am - 5pm,toilet_image.png
+POINT (-8.4580156 51.90176079999999),747,Cork (Kent),Public Toilet,A train station providing transportation services to passengers at Cork (Kent) station.,City center,Accessible,24-Jul,toilet_image.png
+POINT (-5.9547924 54.9687757),748,Public toilet,Public Toilet,A public toilet available for use by visitors and passersby.,City center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.623039 53.238098),749,Johnstown Garden Centre,Public Toilet,"A garden centre offering plants, gardening supplies, and outdoor decor at Johnstown Garden Centre.",Commercial area,Accessible,"Monday - Saturday: 9am - 6pm, Sunday: 10am - 5pm",toilet_image.png
+POINT (-7.3083564 52.8869321),750,Heywood Gardens Toilet,Public Toilet,Public toilets available at Heywood Gardens.,Garden area,Accessible,"Daily, 9am - 5pm",toilet_image.png
+POINT (-8.595030999999997 54.632132),751,Áislann Chill Chartha,Public Toilet,A community centre offering facilities and services for locals in Chill Chartha.,Town center,Accessible,"Monday - Friday: 9am - 8pm, Saturday: 10am - 6pm, Closed on Sunday",toilet_image.png
+POINT (-7.8082404 54.05596159999999),752,Ballinamore Marina,Public Toilet,A marina providing mooring services and facilities for boaters at Ballinamore Marina.,Waterfront area,Accessible,24-Jul,toilet_image.png
+POINT (-9.8650502 52.2757432),753,Fenit Pier Public Toilets,Public Toilet,Public toilets available at Fenit Pier.,Coastal area,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.4678036 52.33222079999999),754,Pettitt's SuperValu Wexford St. Aidan's,Public Toilet,"A Pettitt's SuperValu supermarket offering groceries, fresh produce, and household items at St. Aidan's.",Town center,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 9am - 7pm",toilet_image.png
+POINT (-6.127202199999999 53.1420985),755,Glenview Hotel and Leisure Club,Public Toilet,"A hotel and leisure club offering accommodations, dining, and leisure facilities at Glenview Hotel.",Countryside,Accessible,24-Jul,toilet_image.png
+POINT (-9.4636094 53.7844321),756,Westport Country Lodge Hotel,Public Toilet,"A hotel offering accommodations, dining, and event facilities at Westport Country Lodge Hotel.",Rural area,Accessible,24-Jul,toilet_image.png
+POINT (-6.142279599999998 53.17315199999999),757,Avoca Kilmacanoge,Public Toilet,"An Avoca retail store offering clothing, home goods, and food items in Kilmacanoge.",Retail area,Accessible,"Monday - Saturday: 9am - 6pm, Sunday: 10am - 5pm",toilet_image.png
+POINT (-6.116576200000001 53.1845011),758,Pettitt's SuperValu Bray,Public Toilet,"A Pettitt's SuperValu supermarket offering groceries, fresh produce, and household items in Bray.",Town center,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 9am - 7pm",toilet_image.png
+POINT (-6.1856588 53.2516269),759,Carrickmines Park,Public Toilet,A park area with walking trails and recreational facilities at Carrickmines Park.,Suburban area,Accessible,"Daily, Sunrise to Sunset",toilet_image.png
+POINT (-6.108737700000001 53.1956021),760,Tesco Superstore,Public Toilet,"A Tesco supermarket offering groceries, fresh produce, and household items.",Retail park,Accessible,Monday - Sunday: 7am - 10pm,toilet_image.png
+POINT (-6.3633915 53.31914260000001),761,Red Cow Moran Hotel,Public Toilet,"A hotel offering accommodations, dining, and event facilities at Red Cow Moran Hotel.",City outskirts,Accessible,24-Jul,toilet_image.png
+POINT (-9.266741099999999 51.5448129),762,Lidl,Public Toilet,"A Lidl supermarket offering groceries, fresh produce, and household items.",Commercial area,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 9am - 7pm",toilet_image.png
+POINT (-8.178333299999998 51.9166667),763,Market Green Shopping Centre,Public Toilet,A shopping centre offering a variety of stores and services at Market Green Shopping Centre.,Retail park,Public,Monday - Sunday: 9am - 8pm,toilet_image.png
+POINT (-6.2282979 53.2590572),764,Fernhill Park & Gardens,Public Toilet,"A public park and gardens with walking trails, picnic areas, and scenic views at Fernhill Park & Gardens.",Suburban area,Accessible,"Daily, Sunrise to Sunset",toilet_image.png
+POINT (-7.890668500000001 52.5104714),765,Cashel Town Shopping Centre,Public Toilet,"A shopping centre with various retail stores, restaurants, and amenities.",Town center,Accessible,"Monday - Saturday: 9am - 7pm, Sunday: 11am - 5pm",toilet_image.png
+POINT (-8.879648999999999 52.7104578),766,Skycourt Shopping Centre,Public Toilet,"A large shopping centre featuring a wide range of shops, eateries, and entertainment options.",Town center,Accessible,"Monday - Saturday: 9am - 8pm, Sunday: 10am - 6pm",toilet_image.png
+POINT (-8.087098600000001 54.658295),767,Lidl,Public Toilet,"A Lidl supermarket offering groceries, fresh produce, and household items.",Retail area,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 9am - 7pm",toilet_image.png
+POINT (-6.6823115 53.29010529999999),768,Condron's SuperValu Clane,Public Toilet,"A SuperValu supermarket providing groceries, fresh produce, and household goods.",Town center,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 10am - 7pm",toilet_image.png
+POINT (-6.1095311 53.3902247),769,SuperValu Sutton,Public Toilet,"A SuperValu supermarket offering groceries, fresh produce, and household items.",Suburban area,Accessible,"Monday - Saturday: 7am - 10pm, Sunday: 9am - 9pm",toilet_image.png
+POINT (-6.1032188 53.3864256),770,Public toilets,Public Toilet,Public toilets available for use by visitors and passersby.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.919351700000001 53.1493928),771,Centra Junction 13,Public Toilet,"A Centra convenience store offering groceries, snacks, and household essentials.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-7.3620484 53.9943425),772,"Cathedral of Saints Patrick & Felim, public",Public Toilet,Public toilets available at the Cathedral of Saints Patrick & Felim in Cavan.,City center,Accessible,"Daily, 9am - 6pm",toilet_image.png
+POINT (-8.03781 52.849068),773,Centra Toomevara,Public Toilet,"A Centra convenience store offering groceries, snacks, and household essentials.",Main street,Accessible,Monday - Sunday: 6am - 10pm,toilet_image.png
+POINT (-6.8346665 53.41492089999999),774,Applegreen,Public Toilet,"An Applegreen service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-8.4972275 53.7689788),775,Lidl,Public Toilet,"A Lidl supermarket offering groceries, fresh produce, and household items.",Town center,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 9am - 7pm",toilet_image.png
+POINT (-6.969844599999998 54.24663289999999),776,Monaghan Shopping Centre,Public Toilet,"A shopping centre with a variety of retail stores, restaurants, and entertainment options.",Town center,Accessible,"Monday - Saturday: 9am - 6pm, Sunday: 11am - 5pm",toilet_image.png
+POINT (-8.1984148 52.8625297),777,O'Connors SuperValu Kenyon Street Market,Public Toilet,"A SuperValu supermarket providing groceries, fresh produce, and household goods.",Town center,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 10am - 7pm",toilet_image.png
+POINT (-8.2220286 53.0907087),778,Portumna Playground Toilets,Public Toilet,Public toilets available at Portumna Playground.,Park area,Accessible,"Daily, 9am - 6pm",toilet_image.png
+POINT (-7.4604118361378555 52.126594859692105),779,Stradbally Cove Toilets,Public Toilet,Public toilets available at Stradbally Cove.,Coastal area,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-8.174106199999999 54.30314699999999),780,Rooney's SuperValu Manorhamilton,Public Toilet,"A SuperValu supermarket offering groceries, fresh produce, and household items.",Town center,Accessible,"Monday - Saturday: 7am - 9pm, Sunday: 8am - 8pm",toilet_image.png
+POINT (-8.369005399999999 54.3385785),781,Toilet,Public Toilet,Public toilets available for use by visitors and passersby.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-8.1674568 51.905135),782,Circle K Lakeview,Public Toilet,"A Circle K service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.2963691 52.671734),783,Gorey Shopping Centre,Public Toilet,"A shopping centre with various retail stores, eateries, and entertainment options.",Town center,Accessible,"Monday - Saturday: 9am - 6pm, Sunday: 10am - 5pm",toilet_image.png
+POINT (-7.8462101 51.939817),784,Front Strand Public Toilets,Public Toilet,Public toilets available at Front Strand beach.,Coastal area,Accessible,"Daily, 9am - 6pm",toilet_image.png
+POINT (-7.934467199999999 52.37450390000001),785,Texaco R688,Public Toilet,"A Texaco service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.5338822 53.3384018),786,Applegreen,Public Toilet,"An Applegreen service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.210191300000001 53.5402312),787,Applegreen Southbound.,Public Toilet,"An Applegreen service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.2150106 53.5371791),788,Applegreen,Public Toilet,"An Applegreen service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-7.1981006 53.10778879999999),789,Toilets,Public Toilet,Public toilets available for use by visitors and passersby.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-8.500294 51.88319749999999),790,St. Finbarr’s Cemetery,Public Toilet,A cemetery offering burial plots and memorial services.,Suburban area,Accessible,"Daily, Sunrise to Sunset",toilet_image.png
+POINT (-6.0526003 52.9880122),791,Wicklow Train Station,Public Toilet,A train station providing passenger services to various destinations.,City center,Accessible,Monday - Sunday: 6am - 10pm,toilet_image.png
+POINT (-7.935225799999999 53.4265877),792,"Athlone Bus Station, public",Public Toilet,A public bus station providing intercity and regional bus services.,City center,Accessible,Monday - Sunday: 6am - 11pm,toilet_image.png
+POINT (-7.822069600000001 52.6767768),793,Thurles,Public Toilet,"A town with various shops, restaurants, and amenities.",Town center,Accessible,"Monday - Saturday: 9am - 7pm, Sunday: 11am - 5pm",toilet_image.png
+POINT (-6.7322668 53.4819883),794,Londis - Supermarket,Public Toilet,"A Londis supermarket offering groceries, fresh produce, and household items.",Suburban area,Accessible,"Monday - Saturday: 7am - 9pm, Sunday: 9am - 7pm",toilet_image.png
+POINT (-8.1338327 55.12034699999999),795,EUROSPAR Gortahork,Public Toilet,"A EUROSPAR supermarket offering groceries, fresh produce, and household items.",Town center,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 10am - 6pm",toilet_image.png
+POINT (-6.1478112 52.9292653),796,"National Botanic Gardens, public",Public Toilet,A public botanical garden featuring a wide variety of plant species.,Suburban area,Accessible,Monday - Sunday: 9am - 6pm,toilet_image.png
+POINT (-6.2168025 53.41258240000001),797,Circle K Clonshaugh,Public Toilet,"A Circle K service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.816372800000002 53.16709039999999),798,Maxol Service Station Newbridge,Public Toilet,"A Maxol service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-8.6066974 53.2645083),799,The Galway Plaza,Public Toilet,"A plaza with various shops, restaurants, and amenities.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-8.09399 53.9430642),800,Carrick on Shannon Public Toilets,Public Toilet,Public toilets available for use by visitors and passersby.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-7.442920999999999 55.150172),801,McDaids Bathroom Plumbing Tiles,Public Toilet,"A store offering bathroom, plumbing, and tiling supplies.",Suburban area,Accessible,"Monday - Saturday: 9am - 6pm, Sunday: Closed",toilet_image.png
+POINT (-7.2662923 55.2512772),802,Carndonagh Shopping Centre Toilets,Public Toilet,Public toilets available at Carndonagh Shopping Centre.,Shopping center,Accessible,"Daily, 9am - 6pm",toilet_image.png
+POINT (-9.0536151 53.2696822),803,Galway City Museum,Public Toilet,A museum showcasing the history and culture of Galway city.,City center,Accessible,"Tuesday - Sunday: 10am - 5pm, Monday: Closed",toilet_image.png
+POINT (-9.439117000000001 51.9030402),804,Kilgarvan Community Centre,Public Toilet,"A community centre offering various events, activities, and facilities for local residents.",Town center,Accessible,"Monday - Friday: 9am - 9pm, Saturday: 10am - 6pm, Sunday: Closed",toilet_image.png
+POINT (-8.485721 53.7615202),805,Castlerea Train Station,Public Toilet,A train station providing passenger services to various destinations.,Town center,Accessible,Monday - Sunday: 6am - 10pm,toilet_image.png
+POINT (-6.4649051 52.7999378),806,Centra Tinahely,Public Toilet,"A Centra convenience store offering groceries, snacks, and household essentials.",Town center,Accessible,"Monday - Saturday: 7am - 9pm, Sunday: 8am - 8pm",toilet_image.png
+POINT (-8.9538824 53.1395692),807,Emo Oil - Wild Atlantic Way Service Station,Public Toilet,"A service station offering fuel, snacks, and convenience items for motorists on the Wild Atlantic Way.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-7.318224 54.99675000000001),808,Foyle Street Buscentre,Public Toilet,A bus station providing local and regional bus services.,City center,Accessible,Monday - Sunday: 5am - 11pm,toilet_image.png
+POINT (-8.0010689 51.8272478),809,Ballycotton pier Bathrooms,Public Toilet,Public toilets available at Ballycotton pier.,Coastal area,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.696444 54.876001),810,Drumnaph Nature Reserve,Public Toilet,"A nature reserve with walking trails, birdwatching opportunities, and picnic areas.",Rural area,Accessible,"Daily, Sunrise to Sunset",toilet_image.png
+POINT (-6.6733647 54.8438846),811,Maghera Public Toilets,Public Toilet,Public toilets available in Maghera.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-9.265498299999997 51.5027901),812,Trá na Móna,Public Toilet,"A scenic beach with sandy shores, suitable for swimming and picnics.",Coastal area,Accessible,"Daily, Sunrise to Sunset",toilet_image.png
+POINT (-6.147544799999999 53.9819677),813,Templetown Beach Car Park,Public Toilet,A parking area near Templetown Beach.,Coastal area,Accessible,24-Jul,toilet_image.png
+POINT (-9.9993251 51.6775049),814,Travara Playground,Public Toilet,"A children's playground with swings, slides, and climbing frames.",Suburban area,Accessible,"Daily, 9am - 7pm",toilet_image.png
+POINT (-7.627263700000001 52.9397025),815,Inver,Public Toilet,"A gas station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-8.584659799999999 53.2020042),816,Supermac’s & Papa John’s,Public Toilet,"A fast food restaurant offering burgers, fries, pizza, and more.",Town center,Accessible,Monday - Sunday: 11am - 11pm,toilet_image.png
+POINT (-8.574591899999998 52.6492502),817,B&Q Limerick,Public Toilet,"A hardware store offering tools, DIY supplies, and home improvement products.",Retail area,Accessible,"Monday - Saturday: 9am - 8pm, Sunday: 10am - 6pm",toilet_image.png
+POINT (-7.987557799999998 53.1900809),818,Flynn's SuperValu Banagher,Public Toilet,"A SuperValu supermarket offering groceries, fresh produce, and household items.",Town center,Accessible,"Monday - Saturday: 7am - 9pm, Sunday: 8am - 8pm",toilet_image.png
+POINT (-9.3156007 54.10056900000001),819,Mulhern’s Service Station,Public Toilet,"A service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-7.349353 52.9135268),820,Breslin's SuperValu Abbeyleix,Public Toilet,"A SuperValu supermarket offering groceries, fresh produce, and household items.",Town center,Accessible,"Monday - Saturday: 8am - 9pm, Sunday: 9am - 8pm",toilet_image.png
+POINT (-6.540936400000001 53.5111324),821,Healy's SuperValu Dunshaughlin,Public Toilet,"A SuperValu supermarket offering groceries, fresh produce, and household items.",Town center,Accessible,"Monday - Saturday: 7am - 10pm, Sunday: 8am - 8pm",toilet_image.png
+POINT (-9.8233278 54.02445849999999),822,Ballycroy Visitor Centre - Wild Nephin National Park,Public Toilet,A visitor center providing information about the Wild Nephin National Park.,Rural area,Accessible,Monday - Sunday: 9am - 5pm,toilet_image.png
+POINT (-6.178846300000001 53.3027896),823,Blackrock,Public Toilet,"A coastal town with shops, restaurants, and scenic views of the sea.",Town center,Accessible,"Monday - Saturday: 9am - 7pm, Sunday: 10am - 5pm",toilet_image.png
+POINT (-6.462160300000001 52.3380334),824,National Opera House,Public Toilet,A national opera house hosting various musical and theatrical performances.,City center,Accessible,Event dependent,toilet_image.png
+POINT (-6.569379700000001 52.4967188),825,National 1798 Rebellion Centre,Public Toilet,A museum and exhibition center dedicated to the 1798 Rebellion.,Town center,Accessible,"Tuesday - Sunday: 10am - 5pm, Monday: Closed",toilet_image.png
+POINT (-6.500065799999999 52.5906289),826,Ferns Castle Visitor Centre,Public Toilet,A visitor center providing information about Ferns Castle and its history.,Town center,Accessible,"Monday - Saturday: 9am - 5pm, Sunday: 11am - 4pm",toilet_image.png
+POINT (-8.6255223 52.669718),827,King John's Castle,Public Toilet,A historic castle offering guided tours and exhibits.,Town center,Accessible,"Monday - Saturday: 10am - 5pm, Sunday: 11am - 4pm",toilet_image.png
+POINT (-5.8738218 54.1746478),828,Blood Bridge Car Park,Public Toilet,A parking area near Blood Bridge.,Rural area,Accessible,24-Jul,toilet_image.png
+POINT (-7.5680687 52.0460139),829,An Rinn Playground,Public Toilet,"A children's playground with swings, slides, and climbing frames.",Suburban area,Accessible,"Daily, 9am - 6pm",toilet_image.png
+POINT (-9.2624848 51.5550181),830,Public Toilet,Public Toilet,Public toilet available for use by visitors and passersby.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-9.891276099999999 53.5611083),831,Kylemore Visitor Information Point,Public Toilet,A visitor information point providing information about Kylemore Abbey and its surroundings.,Rural area,Accessible,Monday - Sunday: 9am - 5pm,toilet_image.png
+POINT (-6.395093399999999 53.32372520000001),832,D22 E9X5,Public Toilet,Unknown,Unknown,Unknown,Unknown,toilet_image.png
+POINT (-6.434685199999998 54.42835609999999),833,Asda Portadown Superstore,Public Toilet,"An Asda supermarket offering groceries, fresh produce, and household items.",Suburban area,Accessible,"Monday - Saturday: 7am - 11pm, Sunday: 1pm - 6pm",toilet_image.png
+POINT (-6.6511911 54.3463618),834,Public Toilets,Public Toilet,Public toilets available for use by visitors and passersby.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.653997 54.34568),835,Public Toilets,Public Toilet,Public toilets available for use by visitors and passersby.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.6526723 54.3480526),836,Public Toilets,Public Toilet,Public toilets available for use by visitors and passersby.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.651193 54.3476317),837,Sainsbury's,Public Toilet,"A Sainsbury's supermarket offering groceries, fresh produce, and household items.",Town center,Accessible,"Monday - Saturday: 8am - 10pm, Sunday: 10am - 4pm",toilet_image.png
+POINT (-6.0175322 54.694219),838,Applegreen Temple Patrick Services Northbound M2,Public Toilet,"An Applegreen service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-5.7270816 54.8477337),839,Portmuck Harbour Public Toilets,Public Toilet,Public toilets available at Portmuck Harbour.,Coastal area,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-7.985871399999998 53.44965649999999),840,Top Oil Hodson Bay Service Station,Public Toilet,"A Top Oil service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.4176391 53.2775719),841,Spar,Public Toilet,"A Spar convenience store offering groceries, snacks, and household items.",Suburban area,Accessible,"Monday - Saturday: 7am - 10pm, Sunday: 9am - 9pm",toilet_image.png
+POINT (-5.961861499999999 54.5760628),842,The Range,Public Toilet,"A retail store offering a variety of products including home goods, furniture, and decor.",Retail area,Accessible,"Monday - Saturday: 9am - 8pm, Sunday: 11am - 5pm",toilet_image.png
+POINT (-8.478090499999999 51.9004078),843,North Main Street Car Park,Public Toilet,A parking area located on North Main Street.,Urban area,Accessible,24-Jul,toilet_image.png
+POINT (-6.3269231 54.4645023),844,Lurgan Park Toilets,Public Toilet,Public toilets available at Lurgan Park.,Park,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.2110652 52.86146049999999),845,Avoca Cafe,Public Toilet,"An Avoca cafe offering coffee, pastries, and light meals.",Town center,Accessible,"Monday - Saturday: 8am - 6pm, Sunday: 10am - 5pm",toilet_image.png
+POINT (-9.4277773 52.8689736),846,Public Toilets,Public Toilet,Public toilets available for use by visitors and passersby.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.260882199999999 53.3502635),847,McDonald's Toilet,Public Toilet,Toilet facilities available at McDonald's.,Retail area,Accessible,24/7 (Code is 3838),toilet_image.png
+POINT (-7.801226600000001 51.97424479999999),848,Applegreen Kinsalebeg Toilets,Public Toilet,Public toilets available at Applegreen Kinsalebeg.,Highway rest stop,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-8.6435228 52.6303219),849,Centra Dooradoyle,Public Toilet,"A Centra convenience store offering groceries, snacks, and household items.",Suburban area,Accessible,"Monday - Saturday: 7am - 10pm, Sunday: 9am - 9pm",toilet_image.png
+POINT (-6.135762199999999 53.1696955),850,Circle K Kilmacanogue (N11 Southbound),Public Toilet,"A Circle K service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.1364503 53.1690954),851,Kilmacanogue Service Station,Public Toilet,"A service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.0803554 52.9929577),852,Rathnew Community Centre,Public Toilet,"A community centre offering various events, activities, and facilities for local residents.",Suburban area,Accessible,"Daily, 8am onwards (Wheelchair accessible)",toilet_image.png
+POINT (-9.0465109 51.93592220000001),853,M. & J. Kelleher Ltd.,Public Toilet,Unknown,Unknown,Unknown,Unknown,toilet_image.png
+POINT (-9.145726 51.9365224),854,Centra Ballymakeera,Public Toilet,"A Centra convenience store offering groceries, snacks, and household items.",Suburban area,Accessible,"Monday - Saturday: 7am - 9pm, Sunday: 8am - 8pm",toilet_image.png
+POINT (-6.590614 53.378086),855,Maynooth,Public Toilet,"A town with various shops, restaurants, and amenities.",Town center,Accessible,"Monday - Saturday: 9am - 7pm, Sunday: 10am - 5pm",toilet_image.png
+POINT (-6.15819 53.44297),856,Malahide Playground Toilets,Public Toilet,Public toilets available at Malahide Playground.,Park,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-9.508792 52.0582114),857,Killarney Bus Tours with Deros Tours,Public Toilet,A tour operator offering bus tours around Killarney and its attractions.,Urban area,Accessible,Monday - Sunday: 9am - 5pm,toilet_image.png
+POINT (-6.9269128 52.8321567),858,Woodie's Carlow,Public Toilet,"A Woodie's hardware store offering tools, DIY supplies, and home improvement products.",Retail area,Accessible,"Monday - Saturday: 8am - 8pm, Sunday: 10am - 6pm (Storage room/Toilet available before exit on the right side)",toilet_image.png
+POINT (-6.2585813 53.36312859999999),859,Drumcondra Dart Station,Public Toilet,A train station providing Dart services to commuters.,Transport hub,Accessible,Monday - Sunday: 5am - 12am,toilet_image.png
+POINT (-9.691108999999999 52.270146),860,Dunnes Stores Tralee,Public Toilet,"A Dunnes Stores supermarket offering groceries, fresh produce, and household items.",Retail area,Accessible,"Monday - Saturday: 9am - 9pm, Sunday: 10am - 7pm",toilet_image.png
+POINT (-8.8754823 52.7126169),861,Circle K Shannon,Public Toilet,"A Circle K service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24-Jul,toilet_image.png
+POINT (-6.2856618 52.6755172),862,Applegreen Gorey,Public Toilet,"An Applegreen service station offering fuel, snacks, and convenience items for motorists on the go.",Highway rest stop,Accessible,24/7 (Located just off the roundabout at the bottom of Esmonde Street),toilet_image.png
+POINT (-8.4716103 51.89847040000001),863,Penneys,Public Toilet,"A retail store offering clothing, accessories, and homeware.",Retail area,Accessible,"Monday - Saturday: 9am - 7pm, Sunday: 11am - 6pm",toilet_image.png
+POINT (-10.2230277 51.9477506),864,Cahersiveen Public toilets,Public Toilet,Public toilets available for use by visitors and passersby in Cahersiveen.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.2289194 53.46154389999999),865,Lidl,Public Toilet,"A Lidl supermarket offering groceries, fresh produce, and household items.",Retail area,Accessible,"Monday - Saturday: 8am - 10pm, Sunday: 10am - 8pm",toilet_image.png
+POINT (-9.9455127 53.5506192),866,Connemara National Park Visitor Centre,Public Toilet,A visitor centre providing information about Connemara National Park and its trails.,Rural area,Accessible,Monday - Sunday: 9am - 5:30pm,toilet_image.png
+POINT (-7.7101405 52.35354200000001),867,ALDI,Public Toilet,"An ALDI supermarket offering groceries, fresh produce, and household items.",Retail area,Accessible,"Monday - Saturday: 9am - 9pm, Sunday: 10am - 7pm",toilet_image.png
+POINT (-8.1047012 55.1364505),868,Batch Donegal,Public Toilet,"A cafe offering food, drinks, and a public toilet for patrons.",Urban area,Accessible,"Monday - Saturday: 9am - 6pm, Sunday: 10am - 5pm (Toilet available in the cafe)",toilet_image.png
+POINT (-6.0433978 55.1276958),870,Cushendun public toilets,Public Toilet,Public toilets available for use by visitors and passersby in Cushendun.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT (-6.18006 53.60626),871,Testing,Public Toilet,Testing,Testing,Testing,Testing,toilet_image.png
+POINT(-6.153446687981211 53.27974594015489),873,yep,Public Toilet,yep,yep,yep,yep,toilet_image.png

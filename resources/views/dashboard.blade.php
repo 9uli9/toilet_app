@@ -1,3 +1,6 @@
+
+
+
 <x-app-layout>
     @auth
 
@@ -20,6 +23,9 @@
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> <!-- Added 'flex justify-center' classes -->
                 <h2 class="text-2xl font-semibold mb-4">Our Purpose</h2>
             </div>
+
+
+
 
 
 

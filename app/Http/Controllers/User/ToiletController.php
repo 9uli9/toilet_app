@@ -39,19 +39,19 @@ class ToiletController extends Controller
     public function store(Request $request): RedirectResponse
     {
         $rules = [
-            'point' => 'required|regex:/^POINT \(\s*-?\d+(\.\d+)?\s* \s*-?\d+(\.\d+)?\s*\)$/',
+            'WKT' => 'required|regex:/^POINT\s*\(\s*-?\d+(\.\d+)?\s+-?\d+(\.\d+)?\s*\)$/',
             'title' => 'required|string|min:2|max:150',
             'type' => 'required|in:Public Toilet,Private Toilet',
             'description' => 'required|string|min:2|max:255',
             'location' => 'required|string|min:2|max:255',
             'accessibility' => 'required|string|min:2|max:1000',
             'opening_hours' => 'nullable|string|min:2|max:1000',
-            'toilet_image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
+            'toilet_image' => 'nullable|image|mimes:jpeg,png,jpg,gif',
         ];
 
         $messages = [
-            'point.required' => 'The point field is required.',
-            'point.regex' => 'The point field must be in the format "POINT (longitude latitude)".',
+            'WKT.required' => 'The POINT field is required.',
+            'WKT.regex' => 'The POINT field must be in the format "POINT (longitude latitude)".',
             'title.required' => 'The title field is required.',
             'type.required' => 'The type field is required.',
             'type.in' => 'Invalid type selected.',
@@ -86,7 +86,7 @@ if ($request->hasFile('toilet_image')) {
         try {
             // Fill the Toilet instance with request data and save it to the database
             $toilet->fill($request->only([
-                'point', 'title', 'type', 'description', 'location', 'accessibility', 'opening_hours','toilet_image'
+                'WKT', 'title', 'type', 'description', 'location', 'accessibility', 'opening_hours','toilet_image'
             ]))->save();
         
             $this->saveToCsv($toilet);
@@ -107,15 +107,15 @@ if ($request->hasFile('toilet_image')) {
         // Define the CSV file path
         $csvFilePath = storage_path('app/toilets.csv');
     
-        // Check if the file exists, if not, Creating Empty File
+        // Check if the file exists, if not, create an empty file
         if (!file_exists($csvFilePath)) {
             touch($csvFilePath); 
         }
     
         // Prep data to be written 
         $csvData = [
+            "{$toilet->WKT}",
             $toilet->id,
-            "{$toilet->point}",
             $toilet->title,
             $toilet->type,
             $toilet->description,
@@ -160,19 +160,19 @@ if ($request->hasFile('toilet_image')) {
     {
 
         $rules = [
-            'point' => 'required|regex:/^POINT \(\s*-?\d+(\.\d+)?\s* \s*-?\d+(\.\d+)?\s*\)$/',
+            'WKT' => 'required|regex:/^POINT \(\s*-?\d+(\.\d+)?\s* \s*-?\d+(\.\d+)?\s*\)$/',
             'title' => 'required|string|min:2|max:150',
             'type' => 'required|in:Public Toilet,Private Toilet',
             'description' => 'required|string|min:2|max:255',
             'location' => 'required|string|min:2|max:255',
             'accessibility' => 'required|string|min:2|max:1000',
             'opening_hours' => 'nullable|string|min:2|max:1000',
-            'toilet_image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048',
+            'toilet_image' => 'nullable|image|mimes:jpeg,png,jpg,gif|',
         ];
 
         $messages = [
-            'point.required' => 'The point field is required.',
-            'point.regex' => 'The point field must be in the format "POINT (longitude latitude)".',
+            'WKT.required' => 'The POINT field is required.',
+            'WKT.regex' => 'The POINT field must be in the format "POINT (longitude latitude)".',
             'title.required' => 'The title field is required.',
             'type.required' => 'The type field is required.',
             'type.in' => 'Invalid type selected.',
@@ -187,7 +187,7 @@ if ($request->hasFile('toilet_image')) {
 
     // Update toilet instance with new data
     $toilet->fill($request->only([
-        'point', 'title', 'type', 'description', 'location', 'accessibility', 'opening_hours'
+        'WKT', 'title', 'type', 'description', 'location', 'accessibility', 'opening_hours'
     ]));
 
     // Check for a new image
@@ -221,7 +221,7 @@ private function updateCsv(Toilet $toilet)
     // Find and replace the line corresponding to the updated toilet
     foreach ($csvData as $key => $line) {
         $data = str_getcsv($line);
-        if ($data[0] == $toilet->id) {
+        if ($data[0] == $toilet->WKT) { // Changed from $data[0] == $toilet->id
             $csvData[$key] = $toilet->toCsv() . "\n";
             break;
         }

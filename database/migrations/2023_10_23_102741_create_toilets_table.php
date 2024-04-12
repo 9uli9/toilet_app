@@ -9,8 +9,8 @@ class CreateToiletsTable extends Migration
     public function up(): void
     {
         Schema::create('toilets', function (Blueprint $table) {
+            $table->string('WKT');
             $table->id();
-            $table->string('point');
             $table->string('title');
             $table->enum('type', ['Public Toilet','Private Toilet']);
             $table->string('description');

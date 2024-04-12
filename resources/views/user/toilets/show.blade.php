@@ -11,7 +11,7 @@
     </x-slot>
 
     <div class="py-12 bg-white dark:bg-green-800">
-        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> <!-- Added 'flex justify-center' classes -->
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
             <h2 class="text-2xl font-semibold mb-4">{{ $toilet->title }}</h2>
         </div>
 
@@ -34,7 +34,9 @@
                                 <table class="w-full border-collapse table-auto">
                                     <thead>
                                         <tr>
-                                            <th class="border px-4 py-2">Title</th>
+                                            <th class="border px-4 py-2">Id</th>
+                                            <th class="border px-4 py-2">Toilet</th>
+                                            <th class="border px-4 py-2">Review Title</th>
                                             <th class="border px-4 py-2">Description</th>
                                             <th class="border px-4 py-2">Rating</th>
                                             <th class="border px-4 py-2">User</th>
@@ -43,6 +45,8 @@
                                     <tbody>
                                         @foreach ($toilet->reviews as $review)
                                             <tr>
+                                                <td class="border px-4 py-2">{{ $review->toilet_id }}</td>
+                                                <td class="border px-4 py-2">{{ $toilet->title }}</td>
                                                 <td class="border px-4 py-2">{{ $review->title }}</td>
                                                 <td class="border px-4 py-2">{{ $review->description }}</td>
                                                 <td class="border px-4 py-2">{{ $review->rating }}</td>
@@ -51,6 +55,8 @@
                                         @endforeach
                                     </tbody>
                                 </table>
+
+                                <a href="{{ route('user.reviews.create', $toilet->id) }}" class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Write A Review</a>
                             </div>
                         </div>
                     </div>
@@ -85,7 +91,7 @@
                                 <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
                                         {{ $toilet->id }}</td>
                                     <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
-                                        {{ $toilet->point }}</td>
+                                        {{ $toilet->WKT }}</td>
                                     <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
                                         {{ $toilet->title }}</td>
                                     <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
@@ -109,7 +115,9 @@
                                     <td class="px-6 py-4 font-medium text-green-900 whitespace-nowrap dark:text-white">
                                         
                                         <a href="{{ route('user.toilets.edit', $toilet->id) }}" class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Edit</a>
+                                        
                                     </td>
+
                                 </tr>
                             </tbody>
                         </table>

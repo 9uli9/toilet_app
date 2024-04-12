@@ -29,14 +29,14 @@
                                 @method('PUT')
 
                                 <div class="mb-4">
-                                    <label for="point" style="color: black;" class="font-bold">Enter A Point With
+                                    <label for="WKT" style="color: black;" class="font-bold">Enter A POINT With
                                         Latitude And Longitude</label>
-                                    <input type="text" name="point" id="point"
-                                        value="{{ old('point', $toilet->point) }}"
+                                    <input type="text" name="WKT" id="WKT"
+                                        value="{{ old('WKT', $toilet->WKT) }}"
                                         placeholder="POINT (-6.263287000000001 53.343151)"
                                         class="w-full px-4 py-2 border rounded-md focus:border-green-500"
                                         style="color: black;">
-                                    @error('point')
+                                    @error('WKT')
                                         <span class="text-red-500">{{ $message }}</span>
                                     @enderror
                                 </div>
