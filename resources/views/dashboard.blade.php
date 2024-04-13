@@ -119,7 +119,7 @@
 
 
         <div class="py-12 bg-white dark:bg-green-800">
-            <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> <!-- Added 'flex justify-center' classes -->
+            <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
                 <h2 class="text-2xl font-semibold mb-4">Articles</h2>
             </div>
 
@@ -204,9 +204,31 @@
                 </div>
             </div>
         </div>
+        {{--  --}}
 
+        {{-- <div class="py-12 bg-white dark:bg-green-800">
+            <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+                <h2 class="text-2xl font-semibold mb-4">United Notions Sustainable Development Goal 6</h2>
+            </div>
 
-
+        <div class="w-full md:w-1/2 lg:w-1/4 bg-green-600 dark:bg-green-700 overflow-hidden shadow-sm mb-4">
+            <div class="p-4 text-white">
+                <h2 class="text-xl font-semibold mb-4">Ensure availability and sustainable management of water and sanitation for all</h2>
+                <img src="https://sdgs.un.org/sites/default/files/2023-08/SDG_report_2023_infographics_Goal%206.jpg"
+                    alt="Featured Image" class="w-full rounded-lg">
+            </div>
+            <div class="p-4 text-white">
+                <h3 class="text-lg font-semibold mb-2">Let’s talk about the LACK of public TOILETS in Dublin
+                </h3>
+                <p class="text-sm">Up until the 1970s, there were dozens of public toilets scattered around
+                    Dublin. Now, there are only just a couple.</p>
+                <button class="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded">
+                    <a href="https://sdgs.un.org/goals/goal6#overview"
+                        target="_blank">Read</a>
+                </button>
+            </div>
+        </div> --}}
+{{--  --}}
         <div class="py-12 bg-white dark:bg-green-800">
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -245,6 +267,9 @@
                 </div>
             </div>
         </div>
+
+ 
+          
 
 
         <!-- Footer -->
