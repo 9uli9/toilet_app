@@ -149,25 +149,3 @@
             </footer>
 </x-app-layout>
 
-<script>
-    $(document).ready(function() {
-        $('#searchButton').click(function() {
-            var location = $('#search').val();
-            fetchToilets(location);
-        });
-
-        function fetchToilets(location) {
-            $.ajax({
-                url: '{{ route("user.toilets.index") }}',
-                type: 'GET',
-                data: { location: location },
-                success: function(response) {
-                    $('#toiletTable').html(response);
-                },
-                error: function(xhr, status, error) {
-                    console.error(error);
-                }
-            });
-        }
-    });
-</script>

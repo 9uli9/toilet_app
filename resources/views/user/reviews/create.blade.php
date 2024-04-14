@@ -15,7 +15,9 @@
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
                 <div class="p-6 bg-green-600 dark:bg-green-600 rounded-lg shadow-sm">
-                    <h2 class="text-2xl font-semibold mb-4">Our Map</h2>
+                    <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+                        <h2 class="text-2xl font-semibold mb-4">Our Map</h2>
+                    </div>
                     <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1spU-V5yT2mrPfqBhfzLo3WoFjwisQ4Y&ehbc=2E312F&noprof=1" width="100%" height="500"></iframe>
                     <div class="p-6 text-white">
                         <h2 class="text-xl font-semibold mb-4">Featured Image</h2>
@@ -27,7 +29,9 @@
     
                 <div class="bg-green-600 dark:bg-green-600 rounded-lg shadow-sm">
                     <div class="p-6">
-                        <h2 class="text-2xl font-semibold mb-4">Review A Toilet On The Map</h2>
+                        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+                            <h2 class="text-2xl font-semibold mb-4">Review A Toilet On The Map</h2>
+                        </div>
                         
                         <div class="py-6">
                             <div class="max-w-lg mx-auto sm:px-6 lg:px-8">

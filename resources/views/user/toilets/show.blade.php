@@ -14,18 +14,16 @@
 
     <div class="py-12 bg-green-800">
 
-        <h2 class="text-2xl font-semibold mb-4">
-            {{ $toilet->title }}
-            <div class="flex-grow">
-                
-            </div>
-            
-        </h2>
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+            <h2 class="text-2xl font-semibold mb-4">{{ $toilet->title }}</h2>
+        </div>
         
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
                 <div class="p-6 bg-green-600 dark:bg-green-600 rounded-lg shadow-sm">
-                    <h2 class="text-2xl font-semibold mb-4">Reviews</h2>
+                    <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+                        <h2 class="text-2xl font-semibold mb-4">Reviews</h2>
+                    </div>
 
                     <div class="flex justify-center mb-4 border border-gray-400 rounded-md p-1">
 
@@ -78,15 +76,17 @@
 
                 <div class="bg-green-600 dark:bg-green-600 rounded-lg shadow-sm">
                     <div class="p-6 bg-green-600 dark:bg-green-600 rounded-lg shadow-sm">
-                        <h2 class="text-2xl font-semibold mb-4">Toilet Details</h2>
+                        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+                            <h2 class="text-2xl font-semibold mb-4">Toilet Details</h2>
+                        </div>
                         <div class="bg-white border-b border-gray-200 shadow-sm sm:rounded-lg">
                             <div class="relative overflow-x-auto shadow-md rounded-lg">
                                 <table class="w-full text-sm text-left text-green-500 dark:text-green-400">
                                     <thead
-                                        class="text-lg text-green-700 bg-green-50 dark:bg-green-700 dark:text-green-400">
+                                        class="text-lg text-green-700 bg-green-50 dark:bg-green-700 dark:text-green-400 ">
                                         <tr>
                                             <th class="px-4 py-2 text-white">Attribute</th>
-                                            <th class="px-4 py-2 text-white">Value</th>
+                                            <th class="px-4 py-2 text-white flex justify-center">Value</th>
                                         </tr>
                                     </thead>
                                     <tbody>

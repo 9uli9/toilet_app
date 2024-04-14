@@ -14,19 +14,8 @@ class ToiletController extends Controller
     // Shows all drivers
     public function index(Request $request)
     {
-        $query = $request->query('location');
         $toilets = Toilet::query();
-
-        if ($query) {
-            $toilets->where('location', 'like', '%' . $query . '%');
-        }
-
         $toilets = $toilets->paginate(10);
-
-        if ($request->ajax()) {
-            return view('user.toilets.toilet_table', ['toilets' => $toilets])->render();
-        }
-
         return view('user.toilets.index', ['toilets' => $toilets]);
     }
 
@@ -160,7 +149,7 @@ if ($request->hasFile('toilet_image')) {
     {
 
         $rules = [
-            'WKT' => 'required|regex:/^POINT \(\s*-?\d+(\.\d+)?\s* \s*-?\d+(\.\d+)?\s*\)$/',
+            'WKT' => 'required|regex:/^POINT\s*\(\s*-?\d+(\.\d+)?\s+-?\d+(\.\d+)?\s*\)$/',
             'title' => 'required|string|min:2|max:150',
             'type' => 'required|in:Public Toilet,Private Toilet',
             'description' => 'required|string|min:2|max:255',
