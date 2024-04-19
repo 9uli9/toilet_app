@@ -8,7 +8,7 @@ class Review extends Model
 {
     protected $fillable = ['title', 'description', 'rating', 'toilet_id', 'user_id'];
     
-    // Define relationships
+   
     public function toilet()
     {
         return $this->belongsTo(Toilet::class);

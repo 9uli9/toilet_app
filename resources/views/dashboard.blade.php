@@ -135,12 +135,12 @@
                             <!-- First Image and Article Section -->
                             <div class="w-full md:w-1/4 lg:w-1/4 bg-green-600 dark:bg-green-700 overflow-hidden shadow-sm relative">
                                 <div class="p-4 text-white">
-                                    <h2 class="text-xl font-semibold mb-4">Featured Image</h2>
+                                    <h2 class="text-xl font-semibold mb-4">The Problem is:</h2>
                                     <img src="https://www.irelandbeforeyoudie.com/wp-content/uploads/2024/02/ib4ud-collages-1-1536x864.png"
                                         alt="Featured Image" class="w-full rounded-lg h-48 object-cover">
                                 </div>
                                 <div class="p-4 text-white">
-                                    <h3 class="text-lg font-semibold mb-2">Let’s talk about the LACK of public TOILETS in Dublin</h3>
+                                    <h3 class="text-lg font-semibold mb-2">The LACK of public TOILETS in Dublin</h3>
                                     <p class="text-sm">Up until the 1970s, there were dozens of public toilets scattered around Dublin. Now, there are only just a couple.</p>
                                 </div>
                                 <div class="p-4 text-white">
@@ -154,12 +154,12 @@
                             <!-- Second Image and Article Section -->
                             <div class="w-full md:w-1/4 lg:w-1/4 bg-green-600 dark:bg-green-700 overflow-hidden shadow-sm relative">
                                 <div class="p-4 text-white">
-                                    <h2 class="text-xl font-semibold mb-4">Featured Image</h2>
+                                    <h2 class="text-xl font-semibold mb-4">Let’s Talk About:</h2>
                                     <img src="https://www.irishtimes.com/resizer/gullXiU7hp8oYK7mlQ3btbCvIu4=/1600x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6EA2R5XPII3WV2RWKZ2DTDCXVM.jpg"
                                         alt="Featured Image" class="w-full rounded-lg h-48 object-cover">
                                 </div>
                                 <div class="p-4 text-white">
-                                    <h3 class="text-lg font-semibold mb-2">‘Crazy’: Why would people object to public toilets in Dublin city?</h3>
+                                    <h3 class="text-lg font-semibold mb-2">Why would people object to public toilets in Dublin city?</h3>
                                     <p class="text-sm">First facility beside DCU opened last year but remaining five sites are still unused</p>
                                 </div>
                                 <div class="p-4 text-white">
@@ -173,12 +173,12 @@
                             <!-- Third Image and Article Section -->
                             <div class="w-full md:w-1/4 lg:w-1/4 bg-green-600 dark:bg-green-700 overflow-hidden shadow-sm relative">
                                 <div class="p-4 text-white">
-                                    <h2 class="text-xl font-semibold mb-4">Featured Image</h2>
+                                    <h2 class="text-xl font-semibold mb-4">Campaigners Calling:</h2>
                                     <img src="https://focus.independent.ie/thumbor/zfIEPRLuTMcQlOubAINckWPFyJY=/0x0:630x405/fit-in/960x640/prod-mh-ireland/f3786a6d-86f0-4a7c-b61c-8d79607d677f/d9ceba98-2cca-4612-9060-14cb55d13268/f3786a6d-86f0-4a7c-b61c-8d79607d677f.jpg"
                                         alt="Featured Image" class="w-full rounded-lg h-48 object-cover">
                                 </div>
                                 <div class="p-4 text-white">
-                                    <h3 class="text-lg font-semibold mb-2">Campaigners call for more public toilets in Dublin city centre</h3>
+                                    <h3 class="text-lg font-semibold mb-2">Calling for more public toilets in Dublin city centre</h3>
                                     <p class="text-sm">‘Not much has changed’ despite promises during pandemic</p>
                                 </div>
                                 <div class="p-4 text-white">
@@ -192,7 +192,7 @@
                             <!-- Fourth Image and Article Section -->
                             <div class="w-full md:w-1/4 lg:w-1/4 bg-green-600 dark:bg-green-700 overflow-hidden shadow-sm relative">
                                 <div class="p-4 text-white">
-                                    <h2 class="text-xl font-semibold mb-4">Featured Image</h2>
+                                    <h2 class="text-xl font-semibold mb-4">Issues With:</h2>
                                     <img src="https://i.guim.co.uk/img/media/2078afc95f596a330a9ff9b050733a4cb777a93d/56_263_3443_2066/master/3443.jpg?width=620&dpr=2&s=none"
                                         alt="Featured Image" class="w-full rounded-lg h-48 object-cover">
                                 </div>

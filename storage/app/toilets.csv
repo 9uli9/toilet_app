@@ -5,7 +5,7 @@ POINT (-6.264737899999999 53.3499889),3,Ilac Shopping Centre,Public Toilet,Retai
 POINT (-6.293491699999999 53.3461854),4,Heuston,Public Toilet,Train station,Dublin,Wheelchair accessible,24-Jul,toilet_image.png
 POINT (-6.251856500000001 53.3496261),5,Busáras Central Station,Public Toilet,Bus station,Dublin,Wheelchair accessible,24-Jul,toilet_image.png
 POINT (-6.264867999999999 53.34464599999999),6,Irish Film Institute,Public Toilet,Cinema and film archive,Dublin,Wheelchair accessible,Varies by showtimes,toilet_image.png
-POINT (-6.2594935 53.3422196),7,Marks and Spencer,Public Toilet,Department store,Dublin,Wheelchair accessible,Mon-Sat: 9am-8pm Sun: 10am-7pm,toilet_image.png
+POINT (-6.2594935 53.3422196),7,Marks and Spencer,Public Toilet,Department store,Dublin,No,Mon-Sat: 9am-8pm Sun: 10am-7pm,toilet_image.png
 POINT (-6.264739799999999 53.3488949),8,Marks and Spencer,Public Toilet,Department store,Dublin,Wheelchair accessible,Mon-Sat: 9am-8pm Sun: 10am-7pm,toilet_image.png
 POINT (-6.261817299999999 53.34223649999999),9,Powerscourt Townhouse Centre,Public Toilet,Retail shopping center,Dublin,Wheelchair accessible,Mon-Sun: 10am-6pm,toilet_image.png
 POINT (-6.2656231 53.3482143),10,Jervis Shopping Centre,Public Toilet,Retail shopping mall,Dublin,Wheelchair accessible,Mon-Sat: 9am-8pm Sun: 10am-7pm,toilet_image.png
@@ -868,3 +868,4 @@ POINT (-9.9455127 53.5506192),866,Connemara National Park Visitor Centre,Public 
 POINT (-7.7101405 52.35354200000001),867,ALDI,Public Toilet,"An ALDI supermarket offering groceries, fresh produce, and household items.",Retail area,Accessible,"Monday - Saturday: 9am - 9pm, Sunday: 10am - 7pm",toilet_image.png
 POINT (-8.1047012 55.1364505),868,Batch Donegal,Public Toilet,"A cafe offering food, drinks, and a public toilet for patrons.",Urban area,Accessible,"Monday - Saturday: 9am - 6pm, Sunday: 10am - 5pm (Toilet available in the cafe)",toilet_image.png
 POINT (-6.0433978 55.1276958),870,Cushendun public toilets,Public Toilet,Public toilets available for use by visitors and passersby in Cushendun.,Town center,Accessible,"Daily, 8am - 8pm",toilet_image.png
+POINT(-6.18006 53.60626),871,Testing,Public Toilet,Testing,Testing,Testing,Testing,toilet_image.png

@@ -18,6 +18,10 @@ Route::get('/dashboard',
 ->middleware(['auth', 'verified'])
 ->name('dashboard');
 
+Route::get('/admin/dashboard', [DashboardController::class, 'index'])
+    ->middleware(['auth', 'verified'])
+    ->name('admin.dashboard');
+
 
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
@@ -38,13 +42,19 @@ Route::resource('/reviews', UserReviewController::class)
     ->names('user.reviews')
     ->only(['index', 'show','create','store','edit','update','delete']);
 
-Route::resource('/admin/reviews', AdminReviewController::class)
-    ->middleware(['auth', 'role:admin'])
-    ->names('admin.reviews');
+    Route::resource('/admin/reviews', AdminReviewController::class)->middleware(['auth', 'role:admin'])->names('admin.reviews');
 
     Route::get('/toilets/{toilet}/reviews/create', [UserReviewController::class, 'create'])
     ->middleware(['auth', 'role:user,admin'])
     ->name('user.reviews.create');
+
+    Route::get('/toilets/{toilet}/reviews/create', [AdminReviewController::class, 'create'])
+    ->middleware(['auth', 'role:user,admin'])
+    ->name('admin.reviews.create');
+
+
+
+
 
 
 // php artisan route:list

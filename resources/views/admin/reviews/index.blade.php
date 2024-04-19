@@ -2,10 +2,10 @@
 @section('header')
 @auth
         <h2 class="font-semibold text-xl text-white leading-tight flex items-center space-x-2">
-            Search For Toilets By Location
+            Search For reviews By user_id
             <div class="flex-grow">
                 <div class="flex justify-end items-center">
-                    <input type="text" id="search" placeholder="Search..." class="px-4 py-2 border rounded-md focus:border-green-500 text-black">
+                    <input rating="text" id="search" placeholder="Search..." class="px-4 py-2 border rounded-md focus:border-green-500 text-black">
                     <button id="searchButton" class="ml-4 px-6 py-2 bg-green-600 text-white font-semibold rounded-md hover:bg-green-700">Search</button>
                 </div>
             </div>
@@ -15,9 +15,9 @@
 
         @section('content')
 
-    <div class=" pt-6 max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+    <div class=" pt-6 max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> <!-- Added 'flex justify-center' classes -->
         <h2 class="text-2xl font-semibold mb-4 ">
-            Toilet Index
+            Review Index
         </h2>
     </div>
 
@@ -26,7 +26,7 @@
             <div class="bg-white border-b border-gray-200 shadow-sm sm:rounded-lg">
                 <ul role="list" class="divide-green-100 dark:divide-green-700">
                     <div class="relative overflow-x-auto shadow-md">
-                        <table id="toiletTable" class="w-full text-sm text-left text-black dark:text-black">
+                        <table id="reviewTable" class="w-full text-sm text-left text-black dark:text-black">
                             <thead
                             class="text-lg text-green-700 bg-green-50 dark:bg-green-700 dark:text-green-400">
                                 <tr>
@@ -37,42 +37,42 @@
                                         Title
                                     </th>
                                     <th scope="col" class="px-6 py-3">
-                                        Type
+                                        Rating
                                     </th>
                                     <th scope="col" class="px-6 py-3">
                                         Description
                                     </th>
                                     <th scope="col" class="px-6 py-3">
-                                        Location
+                                        User-Id
                                     </th>
                                     <th scope="col" class="px-6 py-3">
-                                        Actions
+                                        review-Id
                                     </th>
                                 </tr>
                             </thead>
                             <tbody>
-                                @forelse($toilets as $toilet)
+                                @forelse($reviews as $review)
                                     <tr class="bg-white dark:bg-white border-b border-gray-200 dark:border-gray-400">
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->id }}
+                                            {{ $review->id }}
                                         </td>
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->title }}
+                                            {{ $review->title }}
                                         </td>
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->type }}
+                                            {{ $review->rating }}
                                         </td>
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->description }}
+                                            {{ $review->description }}
                                         </td>
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->location }}
+                                            {{ $review->user_id }}
                                         </td>
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            <a href="{{ route('admin.toilets.show', ['toilet' => $toilet->id]) }}" class="inline-block bg-green-500 dark:bg-green-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Show</a>
-                                                <a href="{{ route('admin.toilets.edit', $toilet->id) }}"
+                                            <a href="{{ route('admin.reviews.show', ['review' => $review->id]) }}" class="inline-block bg-green-500 dark:bg-green-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Show</a>
+                                                <a href="{{ route('admin.reviews.edit', $review->id) }}"
                                                     class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Edit</a>
-                                                    <a href="{{ route('admin.toilets.destroy', $toilet->id) }}"
+                                                    <a href="{{ route('admin.reviews.destroy', $review->id) }}"
                                                         class="inline-block bg-red-500 dark:bg-red-600 text-white px-4 py-2 font-bold hover:bg-red-600 dark:hover:bg-red-700">Delete</a>
                                            
                                         </td>
@@ -80,13 +80,13 @@
                                 @empty
                                     <tr>
                                         <td colspan="6" class="text-center py-4">
-                                            No toilets found!
+                                            No reviews found!
                                         </td>
                                     </tr>
                                 @endforelse
                             </tbody>
                         </table>
-                        {{ $toilets->links() }}
+                        {{ $reviews->links() }}
                     </div>
                 </ul>
             </div>
@@ -99,7 +99,7 @@
                     <div class=" md:mb-0">
                         <img src="{{ asset('./images/logo.png') }}" alt="RaceHub Central" class="w-auto h-auto">
                         <div class="text-sm w-1/2 py-2">
-                            <p>We are a non-profit organisation to help our Irish citizens satisfy their sanitation needs through finding toilets around the country with ease.</p>
+                            <p>We are a non-profit organisation to help our Irish citizens satisfy their sanitation needs through finding reviews around the country with ease.</p>
                         </div>
                     </div>
                     

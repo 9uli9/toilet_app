@@ -35,7 +35,7 @@ class Toilet extends Model
             $this->location,
             $this->accessibility,
             $this->opening_hours,
-            $this->toilet_image ?? 'toilet_image.png', // Use default image filename if toilet_image is empty
+            $this->toilet_image ?? 'toilet_image.png',
         ];
 
         // Convert to CSV format

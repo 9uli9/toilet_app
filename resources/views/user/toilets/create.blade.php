@@ -40,7 +40,7 @@
                         <div class=" text-black">
                             <div class="max-w-lg mx-auto sm:px-6 lg:px-8">
                                 <div class=" p-4 bg-white border border-green-300 shadow-sm sm:rounded-lg">
-                                    <form enctype="multipart/form-data" action="{{ route('user.reviews.store') }}"
+                                    <form enctype="multipart/form-data" action="{{ route('user.toilets.store') }}"
                                         method="POST">
                                         @csrf
                                         @method('POST')

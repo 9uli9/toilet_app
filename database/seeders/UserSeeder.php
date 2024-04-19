@@ -22,7 +22,7 @@ class UserSeeder extends Seeder
         $adminEmail = "admin@example.com";
         $userEmail = "user@example.com";
 
-        // Check if these emails already exist, if they do, modify them to ensure uniqueness
+        // Check if these emails already exist, modify them 
         $adminEmail = User::where('email', $adminEmail)->exists() ? "admin1@example.com" : $adminEmail;
         $userEmail = User::where('email', $userEmail)->exists() ? "user1@example.com" : $userEmail;
 

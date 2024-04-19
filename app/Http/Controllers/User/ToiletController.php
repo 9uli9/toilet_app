@@ -96,7 +96,7 @@ if ($request->hasFile('toilet_image')) {
         // Define the CSV file path
         $csvFilePath = storage_path('app/toilets.csv');
     
-        // Check if the file exists, if not, create an empty file
+     
         if (!file_exists($csvFilePath)) {
             touch($csvFilePath); 
         }
@@ -111,7 +111,7 @@ if ($request->hasFile('toilet_image')) {
             $toilet->location,
             $toilet->accessibility,
             $toilet->opening_hours,
-            $toilet->toilet_image ? $toilet->toilet_image : 'toilet_image.png', // Use default image filename if toilet_image is empty
+            $toilet->toilet_image ? $toilet->toilet_image : 'toilet_image.png', 
         ];
     
         // Convert to CSV format
@@ -139,7 +139,7 @@ if ($request->hasFile('toilet_image')) {
         // Find the toilet by its ID
         $toilet = Toilet::findOrFail($id);
         
-        // Render the 'edit' view and pass the toilet data to the view
+    
         return view('user.toilets.edit', ['toilet' => $toilet]);
     }
     
@@ -201,7 +201,7 @@ if ($request->hasFile('toilet_image')) {
 
 private function updateCsv(Toilet $toilet)
 {
-    // Define the CSV file path
+    
     $csvFilePath = storage_path('app/toilets.csv');
 
     // Read existing CSV content
@@ -210,13 +210,13 @@ private function updateCsv(Toilet $toilet)
     // Find and replace the line corresponding to the updated toilet
     foreach ($csvData as $key => $line) {
         $data = str_getcsv($line);
-        if ($data[0] == $toilet->WKT) { // Changed from $data[0] == $toilet->id
+        if ($data[0] == $toilet->WKT) { 
             $csvData[$key] = $toilet->toCsv() . "\n";
             break;
         }
     }
 
-    // Write updated CSV content back to the file
+
     file_put_contents($csvFilePath, implode('', $csvData));
 
     // Adjust file permissions if necessary
@@ -230,7 +230,7 @@ public function destroy(string $id)
     // Delete from CSV
     $this->deleteFromCsv($toilet);
 
-    // Delete from database
+   
     $toilet->delete();
 
     return redirect()->route('admin.toilets.index')->with('status', 'Toilet deleted successfully!');
@@ -253,10 +253,10 @@ private function deleteFromCsv(Toilet $toilet)
         }
     }
 
-    // Write updated CSV content back to the file
+   
     file_put_contents($csvFilePath, implode('', $csvData));
 
-    // Adjust file permissions if necessary
+
     chmod($csvFilePath, 0644);
 }
 }
