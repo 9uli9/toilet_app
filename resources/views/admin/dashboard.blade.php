@@ -1,21 +1,83 @@
 @extends('layouts.admin')
 @section('header')
     @auth
-            <h2 class="font-semibold text-xl text-white leading-tight flex items-center space-x-2">
-                {{-- Welcome, {{ Auth::admin()->name }}!  --}}
-                <div class="flex-grow"></div>
-                <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-                <script type='text/javascript'>
-                    kofiwidget2.init('Support The Jacks', '#f97718', 'D1D6WK9YP');
-                    kofiwidget2.draw();
-                </script>
-            </h2>
+    
+        <h2 class="font-semibold text-xl text-white leading-tight flex items-center space-x-2">
+            Welcome Admin, {{ Auth::user()->name }}! <!-- Adding welcome message and user's name -->
+            <div class="flex-grow"></div>
+            <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+            <script type='text/javascript'>
+                kofiwidget2.init('Support The Jacks', '#f97718', 'D1D6WK9YP');
+                kofiwidget2.draw();
+            </script>
+        </h2>
+   @endsection
      
            
 
         @section('content')
 
         
+        <div class="py-12 bg-white dark:bg-green-800">
+            <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center">
+                <h1 class="text-2xl font-semibold mb-4"> Admin Instructions</h1>
+            </div>
+            <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center">
+            </div>
+
+
+
+           
+                <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+                    <div class="bg-green-600 dark:bg-green-700 overflow-hidden shadow-sm mb-2 border-4 border-white">
+                        
+                        <form action="/your-action-url" method="POST">
+                            <div class="m-12 text-white">
+                                <h2 class="text-xl font-semibold mb-4">Administration Check-List:</h2>
+                                
+                                <ul>
+                                    <li>
+                                        <input type="checkbox" id="feedback" name="purpose" value="feedback">
+                                        <label for="feedback">Check Feedback From Users.</label>
+                                    </li>
+                                    <li>
+                                        <input type="checkbox" id="database" name="purpose" value="database">
+                                        <label for="database">Ensure The Database And CSV File Is Cohesive And Mirrored Correctly.</label>
+                                    </li>
+                                    <li>
+                                        <input type="checkbox" id="formatting" name="purpose" value="formatting">
+                                        <label for="formatting">Ensure The CSV Is Formatted Correctly With No Extra Empty Rows Under The Last Row Of Data.</label>
+                                    </li>
+                                    <li>
+                                        <input type="checkbox" id="copying" name="purpose" value="copying">
+                                        <label for="copying">Copy The CSV Onto Desktop And Rename To Toilets Forwarded By The Current Date.</label>
+                                    </li>
+                                    <li>
+                                        <input type="checkbox" id="google-maps" name="purpose" value="google-maps">
+                                        <label for="google-maps">Head Over To: <a href="https://www.google.com/maps/d/u/0/edit?hl=en&mid=1spU-V5yT2mrPfqBhfzLo3WoFjwisQ4Y&ll=53.39599365549387%2C-6.772390757043562&z=6">The Jacks - My Maps </a></label>
+                                    </li>
+                                    <li>
+                                        <input type="checkbox" id="update-map" name="purpose" value="update-map">
+                                        <label for="update-map">Choose WKT As The Point and Title As The Label. Update The Map With New Data And Check For Quality Control.</label>
+                                    </li>
+                                </ul>
+                                
+                                <?php $loggedInUserName = Auth::user()->name; ?>
+                                <input type="hidden" name="user_name" value="<?php echo $loggedInUserName; ?>">
+                                
+                                <div class="flex justify-between my-6 text-bold">
+                                    <a href="https://www.google.com/maps/d/u/0/edit?hl=en&mid=1spU-V5yT2mrPfqBhfzLo3WoFjwisQ4Y&ll=53.39599365549387%2C-6.772390757043562&z=6" class="font-bold bg-yellow-500 text-white py-2 px-4 rounded-md hover:bg-yellow-600">Go To The Jacks Maps</a>
+                                    <button type="submit" class="font-bold bg-yellow-500 text-white py-2 px-4 rounded-md hover:bg-yellow-600">Submit Report</button>
+                                </div>
+                            </div>
+                        </form>
+                        
+                            
+
+                       
+                    </div>
+                </div>
+            </section>
 
 
         <div class="py-12 bg-white dark:bg-green-800">

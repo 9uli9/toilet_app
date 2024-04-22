@@ -68,14 +68,21 @@
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
                                             {{ $toilet->location }}
                                         </td>
-                                        <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            <a href="{{ route('admin.toilets.show', ['toilet' => $toilet->id]) }}" class="inline-block bg-green-500 dark:bg-green-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Show</a>
-                                                <a href="{{ route('admin.toilets.edit', $toilet->id) }}"
-                                                    class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Edit</a>
-                                                    <a href="{{ route('admin.toilets.destroy', $toilet->id) }}"
-                                                        class="inline-block bg-red-500 dark:bg-red-600 text-white px-4 py-2 font-bold hover:bg-red-600 dark:hover:bg-red-700">Delete</a>
-                                           
+                                        <td class="px-6 py-4 font-medium ">
+                                            <div class="flex space-x-4">
+                                                <a href="{{ route('admin.toilets.show', ['toilet' => $toilet->id]) }}" class="inline-block bg-green-500 dark:bg-green-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Show</a>
+                                                <a href="{{ route('admin.toilets.edit', $toilet->id) }}" class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Edit</a>
+                                                <form action="{{ route('admin.toilets.destroy', $toilet->id) }}" method="POST">
+                                                    @csrf
+                                                    @method('DELETE')
+                                                    <button type="submit" class="inline-block bg-red-500 dark:bg-red-600 text-white px-4 py-2 font-bold hover:bg-red-600 dark:hover:bg-red-700" onclick="return confirm('Are you sure you want to delete this toilet?')">Delete</button>
+                                                </form>
+                                            </div>
                                         </td>
+
+                                       
+
+
                                     </tr>
                                 @empty
                                     <tr>

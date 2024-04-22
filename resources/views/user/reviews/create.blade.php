@@ -87,10 +87,14 @@
                                                 <span class="text-red-500">{{ $message }}</span>
                                             @enderror
                                         </div>
-                                        
-                                        <div class="mb-4" style="display: none;">
-                                            <label for="user_id" style="color: black;" class="font-bold">Toilet ID</label>
-                                            <input type="hidden" name="toilet_id" value="{{ $toilet->id }}">
+                                        <div class="mb-4">
+                                            <label style="color: black;" for="toilet_id" class="block font-bold mb-1" placeholder="Select toilet">Select toilet:</label>
+                                            <select name="toilet_id" id="toilet_id" class="border border-gray-300 p-2 w-full">
+                                                <option value="" disabled selected>Select toilet</option>
+                                                @foreach ($toilets as $toilet)
+                                                    <option value="{{ $toilet->id }}">{{ $toilet->id }} {{ $toilet->title }}</option>
+                                                @endforeach
+                                            </select>
                                         </div>
         
                                         <div class="mb-4" style="display: none;">

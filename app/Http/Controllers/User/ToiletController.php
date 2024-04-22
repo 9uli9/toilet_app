@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\Storage;
 
 class ToiletController extends Controller
 {
-    // Shows all drivers
+  
     public function index(Request $request)
     {
         $toilets = Toilet::query();

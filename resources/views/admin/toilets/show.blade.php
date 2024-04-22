@@ -30,7 +30,7 @@
                     <div class="flex justify-center mb-4 border border-gray-400 rounded-md p-1">
 
                         @if ($toilet->toilet_image)
-                            <img width="100" src="{{ asset('storage/images/' . $toilet->toilet_image) }}" />
+                            <img width="80%" src="{{ asset('storage/images/' . $toilet->toilet_image) }}" />
                         @else
                             <span>No Image Available</span>
                         @endif
@@ -68,7 +68,7 @@
                             </div>
                             <div class="flex justify-center pb-4">
                                 <a href="{{ route('admin.reviews.create', $toilet->id) }}"
-                                    class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Write A Review</a>
+                                    class=" mt-4 inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Write A Review</a>
                             </div>
                         </div>
                     </div>

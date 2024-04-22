@@ -16,7 +16,7 @@ class CreateReviewsPivotTable extends Migration
             $table->unsignedBigInteger('toilet_id');
             $table->unsignedBigInteger('user_id');
 
-            $table->foreign('toilet_id')->references('id')->on('toilets')->onUpdate('cascade')->onDelete('restrict');
+            $table->foreign('toilet_id')->references('id')->on('toilets')->onUpdate('cascade')->onDelete('cascade');
             $table->foreign('user_id')->references('id')->on('users')->onUpdate('cascade')->onDelete('restrict');
             $table->timestamps();
         });

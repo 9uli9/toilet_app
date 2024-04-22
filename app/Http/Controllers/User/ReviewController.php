@@ -14,15 +14,16 @@ class ReviewController extends Controller
     // Display a listing of the reviews
     public function index()
     {
+        $reviews = Review::paginate(10);
         $toilets = Toilet::all();
-        return view('user.reviews.index')->with('toilets', $toilets);
-    }
+        return view('user.reviews.index', compact('reviews', 'toilets')); 
+        }
 
-    public function create($toilet)
-    {
-        $toilet = Toilet::findOrFail($toilet); // Find the specific toilet
-        return view('user.reviews.create', compact('toilet'));
-    }
+        public function create()
+        {
+    $toilets = Toilet::all();
+    return view('user.reviews.create', compact('toilets'));
+        }
 
     public function store(Request $request)
     {

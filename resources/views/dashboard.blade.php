@@ -3,7 +3,7 @@
 
         <x-slot name="header">
             <h2 class="font-semibold text-xl text-white leading-tight flex items-center space-x-2">
-                Welcome, {{ Auth::user()->name }}! <!-- Adding welcome message and user's name -->
+                Welcome User, {{ Auth::user()->name }}! <!-- Adding welcome message and user's name -->
                 <div class="flex-grow"></div>
                 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
                 <script type='text/javascript'>

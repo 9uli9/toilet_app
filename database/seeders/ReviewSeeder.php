@@ -24,7 +24,7 @@ class ReviewSeeder extends Seeder
         foreach (range(1, 20) as $index) {
             Review::create([
                 'title' => 'Review Title ' . $index,
-                'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+                'description' => 'This is a Review for a toilet. Toilet was in accessible condition but would love to have more amentities inside.',
                 'rating' => rand(1, 5),
                 'toilet_id' => $toiletIds[array_rand($toiletIds)],
                 'user_id' => $userIds[array_rand($userIds)],
