@@ -1,5 +1,8 @@
 <?php
 
+// In the Admin review controller im trying to alow the admin to create,show,update and delete data about the review. 
+// Data is being saved in the database and in a csv file.
+
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
@@ -13,14 +16,18 @@ class ReviewController extends Controller
     // Display a listing of the reviews
     public function index()
     {
+
+        $reviews = Review::paginate(10);
+    return view('admin.reviews.index', compact('reviews')); 
+
         $toilets = Toilet::all();
         return view('admin.reviews.index')->with('toilets', $toilets);
     }
 
-    public function create($toilet)
+    public function create()
     {
-        $toilet = Toilet::findOrFail($toilet); // Find the specific toilet
-        return view('admin.reviews.create', compact('toilet'));
+        $toilets = Toilet::all();
+        return view('admin.reviews.create')->with('toilets', $toilets);
     }
 
     public function store(Request $request)
@@ -72,9 +79,10 @@ class ReviewController extends Controller
 
     public function edit(Review $review)
     {
-        return view('admin.reviews.edit', compact('review'));
+        $toilets = Toilet::all(); 
+        return view('admin.reviews.edit', compact('review', 'toilets'));
     }
-
+    
     public function update(Request $request, Review $review)
     {
         $validatedData = $request->validate([

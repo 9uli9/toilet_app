@@ -19,26 +19,32 @@
             </div>
             
             <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
-                <x-nav-link :href="route('admin.toilets.create')" :active="request()->routeIs('admin.toilets.create')" class="text-white ">
-                    {{ __('Add A Toilet') }}
+                <x-nav-link :href="route('admin.users.index')" :active="request()->routeIs('admin.users.index')" class="text-white ">
+                    {{ __('Users Index') }}
                 </x-nav-link>
             </div>
-            
+
             <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
                 <x-nav-link :href="route('admin.toilets.index')" :active="request()->routeIs('admin.toilets.index')" class="text-white ">
                     {{ __('Toilets Index') }}
                 </x-nav-link>
             </div>
 
-            {{-- <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
-                <x-nav-link :href="route('admin.reviews.create', ['toilet' => $toilet->id])" :active="request()->routeIs('admin.reviews.create')" class="text-white ">
-                    {{ __('Review A Toilet') }}
-                </x-nav-link>
-            </div> --}}
             
             <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
                 <x-nav-link :href="route('admin.reviews.index')" :active="request()->routeIs('admin.reviews.index')" class="text-white ">
                     {{ __('Review Index') }}
+                </x-nav-link>
+            </div>
+
+            <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                <x-nav-link :href="route('admin.reviews.create')" :active="request()->routeIs('admin.reviews.create')" class="text-white ">
+                    {{ __('Add A Review') }}
+                </x-nav-link>
+            </div>
+            <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                <x-nav-link :href="route('admin.toilets.create')" :active="request()->routeIs('admin.toilets.create')" class="text-white ">
+                    {{ __('Add A Toilet') }}
                 </x-nav-link>
             </div>
             

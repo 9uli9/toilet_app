@@ -1,97 +1,103 @@
 @extends('layouts.admin')
 @section('header')
 @auth
+
         <h2 class="font-semibold text-xl text-white leading-tight flex items-center space-x-2">
-            All Toilets
-            <div class="flex-grow">
-                <div class="flex justify-end items-center">
-                    <input type="text" id="search" placeholder="Search..." class="px-4 py-2 border rounded-md focus:border-green-500 text-black">
-                    <button id="searchButton" class="ml-4 px-6 py-2 bg-green-600 text-white font-semibold rounded-md hover:bg-green-700">Search</button>
-                </div>
-            </div>
+            Show review Details
+            <div class="flex-grow"></div>
+            <td class="px-6 py-4 font-medium text-red-900 whitespace-nowrap dark:text-white">
+                <a href="{{ route('admin.reviews.index', $review->id) }}"
+                    class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Back</a>
+            </td>
         </h2>
+    
+@endsection
+    @section('content')
 
-        @endsection
+    <div class="py-12 bg-green-800">
 
-        @section('content')
-
-    <div class=" pt-6 max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
-        <h2 class="text-2xl font-semibold mb-4 ">
-            Toilet Index
-        </h2>
-    </div>
-
-    <div class="pt-6">
-        <div class="max-w-8xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white border-b border-gray-200 shadow-sm sm:rounded-lg">
-                <ul role="list" class="divide-green-100 dark:divide-green-700">
-                    <div class="relative overflow-x-auto shadow-md">
-                        <table id="toiletTable" class="w-full text-sm text-left text-black dark:text-black">
-                            <thead
-                            class="text-lg text-green-700 bg-green-50 dark:bg-green-700 dark:text-green-400">
-                                <tr>
-                                    <th scope="col" class="px-6 py-3">
-                                        Id
-                                    </th>
-                                    <th scope="col" class="px-6 py-3">
-                                        Title
-                                    </th>
-                                    <th scope="col" class="px-6 py-3">
-                                        Type
-                                    </th>
-                                    <th scope="col" class="px-6 py-3">
-                                        Description
-                                    </th>
-                                    <th scope="col" class="px-6 py-3">
-                                        Location
-                                    </th>
-                                    <th scope="col" class="px-6 py-3">
-                                        Actions
-                                    </th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                @forelse($toilets as $toilet)
-                                    <tr class="bg-white dark:bg-white border-b border-gray-200 dark:border-gray-400">
-                                        <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->id }}
-                                        </td>
-                                        <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->title }}
-                                        </td>
-                                        <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->type }}
-                                        </td>
-                                        <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->description }}
-                                        </td>
-                                        <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $toilet->location }}
-                                        </td>
-                                        <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            <a href="{{ route('admin.toilets.show', ['toilet' => $toilet->id]) }}" class="inline-block bg-green-500 dark:bg-green-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Show</a>
-                                                <a href="{{ route('admin.toilets.edit', $toilet->id) }}"
-                                                    class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Edit</a>
-                                                    <a href="{{ route('admin.toilets.destroy', $toilet->id) }}"
-                                                        class="inline-block bg-red-500 dark:bg-red-600 text-white px-4 py-2 font-bold hover:bg-red-600 dark:hover:bg-red-700">Delete</a>
-                                           
-                                        </td>
-                                    </tr>
-                                @empty
-                                    <tr>
-                                        <td colspan="6" class="text-center py-4">
-                                            No toilets found!
-                                        </td>
-                                    </tr>
-                                @endforelse
-                            </tbody>
-                        </table>
-                        {{ $toilets->links() }}
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+            <h2 class="text-2xl font-semibold mb-4">{{ $review->title }}</h2>
+        </div>
+        
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+                <div class="p-6 bg-green-600 dark:bg-green-600 rounded-lg shadow-sm">
+                    <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+                        <h2 class="text-2xl font-semibold mb-4">Reviews</h2>
                     </div>
-                </ul>
+
+                    <div class="flex justify-center mb-4 border border-gray-400 rounded-md p-1">
+
+                        @if ($review->review_image)
+                            <img width="100" src="{{ asset('storage/images/' . $review->review_image) }}" />
+                        @else
+                            <span>No Image Available</span>
+                        @endif
+                    </div>
+
+                  
+                </div>
+
+
+
+                <div class="bg-green-600 dark:bg-green-600 rounded-lg shadow-sm">
+                    <div class="p-6 bg-green-600 dark:bg-green-600 rounded-lg shadow-sm">
+                        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 flex justify-center"> 
+                            <h2 class="text-2xl font-semibold mb-4">Review Details</h2>
+                        </div>
+                        <div class="bg-white border-b border-gray-200 shadow-sm sm:rounded-lg">
+                            <div class="relative overflow-x-auto shadow-md rounded-lg">
+                                <table class="w-full text-sm text-left text-green-500 dark:text-green-400">
+                                    <thead
+                                        class="text-lg text-green-700 bg-green-50 dark:bg-green-700 dark:text-green-400 ">
+                                        <tr>
+                                            <th class="px-4 py-2 text-white">Attribute</th>
+                                            <th class="px-4 py-2 text-white flex justify-center">Value</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr
+                                            class="bg-white dark:bg-white border-b border-gray-200 dark:border-gray-400">
+                                            <td class="px-4 py-2 font-bold text-black">Id</td>
+                                            <td class="px-4 py-2 text-black">{{ $review->id }}</td>
+                                        </tr>
+                                        <tr
+                                            class="bg-white dark:bg-white border-b border-gray-200 dark:border-gray-400">
+                                            <td class="px-4 py-2 font-bold text-black">Point</td>
+                                            <td class="px-4 py-2 text-black">{{ $review->title }}</td>
+                                        </tr>
+                                        <tr
+                                            class="bg-white dark:bg-white border-b border-gray-200 dark:border-gray-400">
+                                            <td class="px-4 py-2 font-bold text-black">Title</td>
+                                            <td class="px-4 py-2 text-black">{{ $review->description }}</td>
+                                        </tr>
+                                        <tr
+                                            class="bg-white dark:bg-white border-b border-gray-200 dark:border-gray-400">
+                                            <td class="px-4 py-2 font-bold text-black">Type</td>
+                                            <td class="px-4 py-2 text-black">{{ $review->rating }}</td>
+                                        </tr>
+                                        <tr
+                                            class="bg-white dark:bg-white border-b border-gray-200 dark:border-gray-400">
+                                            <td class="px-4 py-2 font-bold text-black">Description</td>
+                                            <td class="px-4 py-2 text-black">{{ $review->description }}</td>
+                                        </tr>
+                                       
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex justify-center pb-4">
+                        <a href="{{ route('admin.reviews.edit', $review->id) }}"
+                            class="inline-block bg-orange-500 dark:bg-orange-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Edit</a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
+
             <!-- Footer -->
             <footer class="bg-black text-white">
                 <div class="max-w-7xl mx-auto px-4 py-6 flex flex-col md:flex-row items-center justify-between">
@@ -99,7 +105,7 @@
                     <div class=" md:mb-0">
                         <img src="{{ asset('./images/logo.png') }}" alt="RaceHub Central" class="w-auto h-auto">
                         <div class="text-sm w-1/2 py-2">
-                            <p>We are a non-profit organisation to help our Irish citizens satisfy their sanitation needs through finding toilets around the country with ease.</p>
+                            <p>We are a non-profit organisation to help our Irish citizens satisfy their sanitation needs through finding reviews around the country with ease.</p>
                         </div>
                     </div>
                     
@@ -170,4 +176,3 @@
             </footer>
             @endauth
 @endsection
-

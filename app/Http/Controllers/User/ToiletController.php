@@ -1,5 +1,6 @@
 <?php
-
+// In the User toilet controller im trying to alow the admin to create,show,update and delete data about the toilet. 
+// Data is being saved in the database and in a csv file.
 namespace App\Http\Controllers\User;
 use App\Http\Controllers\Controller;
 use App\Models\Toilet;

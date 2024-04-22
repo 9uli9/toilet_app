@@ -2,7 +2,7 @@
 @section('header')
 @auth
         <h2 class="font-semibold text-xl text-white leading-tight flex items-center space-x-2">
-            Search For reviews By user_id
+            All Reviews
             <div class="flex-grow">
                 <div class="flex justify-end items-center">
                     <input rating="text" id="search" placeholder="Search..." class="px-4 py-2 border rounded-md focus:border-green-500 text-black">
@@ -37,27 +37,35 @@
                                         Title
                                     </th>
                                     <th scope="col" class="px-6 py-3">
+                                        Toilet
+                                    </th>
+                                    <th scope="col" class="px-6 py-3">
                                         Rating
                                     </th>
                                     <th scope="col" class="px-6 py-3">
                                         Description
                                     </th>
                                     <th scope="col" class="px-6 py-3">
-                                        User-Id
+                                        User
                                     </th>
                                     <th scope="col" class="px-6 py-3">
-                                        review-Id
+                                        Admin Actions
                                     </th>
+                                   
                                 </tr>
                             </thead>
                             <tbody>
                                 @forelse($reviews as $review)
                                     <tr class="bg-white dark:bg-white border-b border-gray-200 dark:border-gray-400">
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $review->id }}
+                                            {{ $review->id}}
                                         </td>
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $review->title }}
+                                            {{ $review->title  }}
+                                        </td>
+                                      
+                                        <td class="px-6 py-4 font-medium whitespace-nowrap">
+                                            {{ $review->toilet->title }}
                                         </td>
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
                                             {{ $review->rating }}
@@ -66,7 +74,7 @@
                                             {{ $review->description }}
                                         </td>
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
-                                            {{ $review->user_id }}
+                                            {{ $review->user->name }}
                                         </td>
                                         <td class="px-6 py-4 font-medium whitespace-nowrap">
                                             <a href="{{ route('admin.reviews.show', ['review' => $review->id]) }}" class="inline-block bg-green-500 dark:bg-green-600 text-white px-4 py-2 font-bold hover:bg-orange-600 dark:hover:bg-orange-700">Show</a>

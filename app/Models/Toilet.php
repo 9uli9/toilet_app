@@ -42,7 +42,7 @@ class Toilet extends Model
         return implode(',', $csvData);
     }
 
-        // Define relationships
+  
         public function reviews()
         {
             return $this->hasMany(Review::class);
